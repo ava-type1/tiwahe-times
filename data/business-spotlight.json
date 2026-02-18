@@ -1,0 +1,33 @@
+{
+  "featured": {
+    "name": "Santa Fe Site Prep, LLC",
+    "type": "Land Clearing & Site Preparation",
+    "description": "Family-owned and operated right here in Fort White, Santa Fe Site Prep has been the go-to team for land clearing, demolition, tree removal, driveway building, and site preparation across Columbia County and beyond. Owner Brad Taylor and his crew are known for showing up on time, communicating every step of the way, and leaving your property looking better than you imagined. Whether you're prepping for a new home, clearing dangerous trees, or need a load of fill dirt delivered — Brad's got you covered.",
+    "address": "244 SW Homestead Circle, Fort White, FL 32038",
+    "phone": "(386) 697-7070",
+    "website": "santafesiteprepllc.com",
+    "hours": "Call for availability",
+    "image": null,
+    "services": [
+      "Land Clearing",
+      "Site Preparation",
+      "Tree Removal",
+      "Demolition",
+      "Driveway Construction",
+      "Fill Dirt & Clay Delivery",
+      "Stump Grinding"
+    ],
+    "quote": "Brad and his crew are as professional as it gets. Very skilled at running heavy equipment. They exceeded my expectations by far!",
+    "quoteAttribution": "Verified Customer Review",
+    "rating": "5.0",
+    "reviewCount": "25+",
+    "cta": "Call Brad today for a free estimate"
+  },
+  "kodaAd": {
+    "headline": "Want your business featured here?",
+    "text": "The Tiwahe Times reaches Fort White families every day. Get your business in front of your neighbors — affordable spotlight listings for local businesses.",
+    "cta": "Get Featured",
+    "url": "mailto:kameronmartinllc@gmail.com",
+    "tagline": "Contact us to get your business in front of the community"
+  }
+}

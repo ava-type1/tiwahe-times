@@ -1,0 +1,1850 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Tiwahe Times — Fort White, Florida's Community Digest</title>
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="The Tiwahe Times — Fort White Community News">
+    <meta property="og:description" content="Your community digest for Fort White, Florida. Local news, weather, events, sports, and more.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://tiwahe-times.pages.dev">
+    <meta property="og:image" content="https://tiwahe-times.pages.dev/og-image.svg">
+    <meta property="og:locale" content="en_US">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="The Tiwahe Times — Fort White Community News">
+    <meta name="twitter:description" content="Fort White, Florida's community digest.">
+    
+    <meta name="description" content="The Tiwahe Times — Fort White, Florida's community newspaper. Local news, weather, events, Fort White Indians sports, and Columbia County government updates.">
+    
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    
+    <style>
+        /* ===== RESET & BASE ===== */
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+        
+        :root {
+            --bg-dark: #0d0d0d;
+            --bg-card: #1a1a1a;
+            --bg-card-hover: #222;
+            --bg-elevated: #252525;
+            --bg-accent: #2a1a1a;
+            --text-primary: #f0f0f0;
+            --text-secondary: #b0b0b0;
+            --text-muted: #777;
+            --red: #cc0000;
+            --red-bright: #e60000;
+            --red-dark: #8b0000;
+            --red-glow: rgba(204, 0, 0, 0.15);
+            --red-glow-strong: rgba(204, 0, 0, 0.3);
+            --border: #333;
+            --border-light: #2a2a2a;
+            --white: #ffffff;
+            --max-width: 1100px;
+            --font-headline: Georgia, 'Times New Roman', 'Palatino Linotype', serif;
+            --font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            --font-accent: 'Courier New', Courier, monospace;
+            --radius: 8px;
+            --radius-lg: 12px;
+        }
+
+        html { font-size: 16px; scroll-behavior: smooth; }
+        
+        body {
+            font-family: var(--font-body);
+            background: var(--bg-dark);
+            color: var(--text-primary);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+            min-height: 100vh;
+        }
+
+        a { color: var(--red-bright); text-decoration: none; transition: color 0.2s; }
+        a:hover { color: var(--white); }
+
+        /* ===== LAYOUT ===== */
+        .container {
+            max-width: var(--max-width);
+            margin: 0 auto;
+            padding: 0 16px;
+        }
+
+        /* ===== NAV BAR ===== */
+        .topnav {
+            background: var(--bg-card);
+            border-bottom: 2px solid var(--red);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 2px 20px rgba(0,0,0,0.5);
+        }
+
+        .topnav-inner {
+            max-width: var(--max-width);
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 16px;
+            height: 48px;
+        }
+
+        .topnav-brand {
+            font-family: var(--font-headline);
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--white);
+            text-transform: uppercase;
+            letter-spacing: 0.02em;
+            white-space: nowrap;
+        }
+
+        .topnav-brand span { color: var(--red); }
+
+        .nav-links {
+            display: flex;
+            gap: 0;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+            scrollbar-width: none;
+        }
+        .nav-links::-webkit-scrollbar { display: none; }
+
+        .nav-link {
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: var(--text-secondary);
+            padding: 14px 12px;
+            white-space: nowrap;
+            border-bottom: 2px solid transparent;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+
+        .nav-link:hover, .nav-link.active {
+            color: var(--white);
+            border-bottom-color: var(--red);
+        }
+
+        .nav-hamburger {
+            display: none;
+            background: none;
+            border: none;
+            color: var(--text-primary);
+            font-size: 1.4rem;
+            cursor: pointer;
+            padding: 8px;
+        }
+
+        @media (max-width: 768px) {
+            .nav-hamburger { display: block; }
+            .nav-links {
+                display: none;
+                position: absolute;
+                top: 48px;
+                left: 0;
+                right: 0;
+                background: var(--bg-card);
+                border-bottom: 2px solid var(--red);
+                flex-direction: column;
+                padding: 8px 0;
+                box-shadow: 0 8px 20px rgba(0,0,0,0.5);
+            }
+            .nav-links.open { display: flex; }
+            .nav-link { padding: 12px 20px; border-bottom: none; }
+            .nav-link:hover, .nav-link.active { background: var(--red-glow); }
+        }
+
+        /* ===== MASTHEAD ===== */
+        .masthead {
+            text-align: center;
+            padding: 32px 16px 24px;
+            background: linear-gradient(180deg, var(--bg-card) 0%, var(--bg-dark) 100%);
+            border-bottom: 1px solid var(--border);
+        }
+
+        .masthead-date {
+            font-family: var(--font-accent);
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            margin-bottom: 12px;
+        }
+
+        .masthead-title {
+            font-family: var(--font-headline);
+            font-size: clamp(2.4rem, 9vw, 4.2rem);
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            line-height: 1.05;
+            color: var(--white);
+            text-transform: uppercase;
+        }
+
+        .masthead-subtitle {
+            display: block;
+            font-family: var(--font-headline);
+            font-size: clamp(0.7rem, 2.5vw, 0.95rem);
+            font-weight: 400;
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
+            color: var(--red);
+            margin-top: 6px;
+        }
+
+        .masthead-rule {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            margin-top: 16px;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .masthead-rule::before,
+        .masthead-rule::after {
+            content: '';
+            flex: 1;
+            height: 1px;
+            background: linear-gradient(to right, transparent, var(--red), transparent);
+        }
+
+        .masthead-rule span {
+            font-family: var(--font-accent);
+            font-size: 0.6rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            white-space: nowrap;
+        }
+
+        /* ===== ALERTS BANNER ===== */
+        .alerts-banner {
+            background: linear-gradient(135deg, #1a0000 0%, #330000 50%, #1a0000 100%);
+            border: 1px solid var(--red-dark);
+            border-left: 4px solid var(--red);
+            margin: 16px auto;
+            max-width: var(--max-width);
+            border-radius: var(--radius);
+            overflow: hidden;
+        }
+
+        .alerts-banner-header {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 10px 16px;
+            background: rgba(204, 0, 0, 0.15);
+            cursor: pointer;
+        }
+
+        .alerts-banner-header h3 {
+            font-family: var(--font-accent);
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--red-bright);
+            flex: 1;
+        }
+
+        .alert-count {
+            background: var(--red);
+            color: var(--white);
+            font-size: 0.65rem;
+            font-weight: 700;
+            padding: 2px 8px;
+            border-radius: 10px;
+        }
+
+        .alert-item {
+            padding: 10px 16px;
+            border-top: 1px solid rgba(204, 0, 0, 0.2);
+            display: flex;
+            align-items: flex-start;
+            gap: 10px;
+        }
+
+        .alert-icon {
+            font-size: 1.2rem;
+            flex-shrink: 0;
+            margin-top: 1px;
+        }
+
+        .alert-text {
+            flex: 1;
+        }
+
+        .alert-text h4 {
+            font-family: var(--font-headline);
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--white);
+            margin-bottom: 2px;
+        }
+
+        .alert-text p {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }
+
+        .alert-type {
+            font-family: var(--font-accent);
+            font-size: 0.6rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            padding: 2px 8px;
+            border-radius: 3px;
+            white-space: nowrap;
+            flex-shrink: 0;
+        }
+
+        .alert-type-emergency { background: var(--red); color: var(--white); }
+        .alert-type-notice { background: #cc6600; color: var(--white); }
+        .alert-type-meeting { background: #2a4a8b; color: var(--white); }
+        .alert-type-utility { background: #1a5c2a; color: var(--white); }
+
+        /* ===== WEATHER BAR ===== */
+        .weather-bar {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            margin: 16px auto;
+            max-width: var(--max-width);
+            padding: 16px 20px;
+        }
+
+        .weather-current {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            flex-wrap: wrap;
+        }
+
+        .weather-icon-big { font-size: 3rem; line-height: 1; }
+
+        .weather-temp {
+            font-family: var(--font-headline);
+            font-size: 3rem;
+            font-weight: 700;
+            line-height: 1;
+            color: var(--white);
+        }
+
+        .weather-temp-unit {
+            font-size: 1.2rem;
+            vertical-align: super;
+            font-weight: 400;
+            color: var(--text-secondary);
+        }
+
+        .weather-details { flex: 1; min-width: 150px; }
+
+        .weather-condition {
+            font-weight: 600;
+            font-size: 1rem;
+            color: var(--white);
+            margin-bottom: 2px;
+        }
+
+        .weather-location {
+            font-size: 0.75rem;
+            color: var(--red);
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .weather-meta {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            line-height: 1.5;
+        }
+
+        .weather-forecast {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 6px;
+            margin-top: 12px;
+            text-align: center;
+        }
+
+        .forecast-day {
+            padding: 10px 4px;
+            background: var(--bg-elevated);
+            border-radius: 6px;
+            border: 1px solid var(--border);
+            transition: border-color 0.2s;
+        }
+
+        .forecast-day:hover {
+            border-color: var(--red);
+        }
+
+        .forecast-day-name {
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            color: var(--text-muted);
+            letter-spacing: 0.05em;
+        }
+
+        .forecast-icon { font-size: 1.5rem; margin: 4px 0; }
+
+        .forecast-temps { font-size: 0.8rem; }
+        .forecast-high { font-weight: 700; color: var(--white); }
+        .forecast-low { color: var(--text-muted); }
+        .forecast-rain { font-size: 0.65rem; color: #5a9fd4; margin-top: 2px; }
+
+        /* ===== SECTION PAGES (show/hide) ===== */
+        .page { display: none; }
+        .page.active { display: block; }
+
+        /* ===== SECTION HEADERS ===== */
+        .section-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin: 32px 0 20px;
+            padding-bottom: 12px;
+            border-bottom: 2px solid var(--red);
+        }
+
+        .section-header h2 {
+            font-family: var(--font-headline);
+            font-size: 1.5rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            color: var(--white);
+            white-space: nowrap;
+        }
+
+        .section-header .section-icon {
+            font-size: 1.3rem;
+        }
+
+        .section-header::after {
+            content: '';
+            flex: 1;
+            height: 1px;
+            background: var(--border);
+        }
+
+        /* ===== HERO CARDS (Top 5 Stories) ===== */
+        .hero-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 16px;
+            margin-top: 20px;
+        }
+
+        @media (min-width: 640px) {
+            .hero-grid {
+                grid-template-columns: 1fr 1fr;
+            }
+            .hero-card:first-child {
+                grid-column: 1 / -1;
+            }
+        }
+
+        .hero-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-lg);
+            overflow: hidden;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            position: relative;
+        }
+
+        .hero-card:hover {
+            border-color: var(--red);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 30px var(--red-glow);
+        }
+
+        .hero-card-inner {
+            padding: 20px;
+        }
+
+        .hero-card:first-child .hero-card-inner {
+            padding: 28px;
+        }
+
+        .hero-card-category {
+            font-family: var(--font-accent);
+            font-size: 0.65rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--red);
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .hero-card-category::after {
+            content: '';
+            flex: 1;
+            height: 1px;
+            background: var(--border);
+        }
+
+        .hero-card h3 {
+            font-family: var(--font-headline);
+            font-size: 1.15rem;
+            font-weight: 700;
+            line-height: 1.3;
+            color: var(--white);
+            margin-bottom: 8px;
+            transition: color 0.2s;
+        }
+
+        .hero-card:first-child h3 {
+            font-size: 1.5rem;
+        }
+
+        .hero-card:hover h3 { color: var(--red-bright); }
+
+        .hero-card p {
+            font-size: 0.85rem;
+            line-height: 1.6;
+            color: var(--text-secondary);
+            margin-bottom: 10px;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .hero-card:first-child p {
+            -webkit-line-clamp: 5;
+        }
+
+        .hero-card-source {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+        }
+
+        .hero-card-source a { color: var(--red); font-weight: 600; }
+
+        /* ===== STORY LIST (full section) ===== */
+        .story-list { margin-top: 8px; }
+
+        .story-item {
+            padding: 20px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            margin-bottom: 12px;
+            transition: all 0.2s;
+        }
+
+        .story-item:hover {
+            border-color: var(--red);
+            background: var(--bg-card-hover);
+        }
+
+        .story-item-category {
+            font-family: var(--font-accent);
+            font-size: 0.6rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--red);
+            margin-bottom: 6px;
+        }
+
+        .story-item h3 {
+            font-family: var(--font-headline);
+            font-size: 1.15rem;
+            font-weight: 700;
+            line-height: 1.3;
+            color: var(--white);
+            margin-bottom: 6px;
+        }
+
+        .story-item h3 a { color: inherit; }
+        .story-item h3 a:hover { color: var(--red-bright); }
+
+        .story-item p {
+            font-size: 0.88rem;
+            line-height: 1.65;
+            color: var(--text-secondary);
+            margin-bottom: 8px;
+        }
+
+        .story-item-meta {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .story-item-meta a { color: var(--red); font-weight: 600; }
+
+        .read-more-link {
+            color: var(--red-bright);
+            font-weight: 700;
+            font-size: 0.8rem;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .read-more-link:hover { color: var(--white); }
+
+        /* ===== PAGINATION ===== */
+        .pagination {
+            display: flex;
+            justify-content: center;
+            gap: 8px;
+            margin: 24px 0 32px;
+            flex-wrap: wrap;
+        }
+
+        .pagination button {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            color: var(--text-secondary);
+            font-family: var(--font-body);
+            font-size: 0.85rem;
+            padding: 8px 16px;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .pagination button:hover {
+            border-color: var(--red);
+            color: var(--white);
+        }
+
+        .pagination button.active {
+            background: var(--red);
+            border-color: var(--red);
+            color: var(--white);
+            font-weight: 700;
+        }
+
+        .pagination button:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+
+        /* ===== EVENTS ===== */
+        .event-card {
+            display: flex;
+            gap: 14px;
+            padding: 16px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            margin-bottom: 10px;
+            transition: border-color 0.2s;
+        }
+
+        .event-card:hover { border-color: var(--red); }
+
+        .event-date-badge {
+            min-width: 56px;
+            text-align: center;
+            padding: 8px 6px;
+            background: var(--red);
+            color: var(--white);
+            border-radius: 8px;
+            flex-shrink: 0;
+            align-self: flex-start;
+        }
+
+        .event-date-badge .month {
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            font-weight: 700;
+            opacity: 0.9;
+        }
+
+        .event-date-badge .day {
+            font-size: 1.4rem;
+            font-weight: 700;
+            line-height: 1.2;
+        }
+
+        .event-info h4 {
+            font-family: var(--font-headline);
+            font-size: 0.95rem;
+            font-weight: 700;
+            color: var(--white);
+            line-height: 1.3;
+            margin-bottom: 4px;
+        }
+
+        .event-info .event-loc {
+            font-size: 0.8rem;
+            color: var(--red);
+            margin-bottom: 4px;
+            font-weight: 500;
+        }
+
+        .event-info .event-desc {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            line-height: 1.5;
+        }
+
+        .event-today { border-color: var(--red) !important; background: var(--bg-accent); }
+
+        /* ===== SPORTS ===== */
+        .sports-motto {
+            font-family: var(--font-headline);
+            font-style: italic;
+            font-size: 1rem;
+            color: var(--red);
+            text-align: center;
+            margin-bottom: 20px;
+            padding: 12px;
+            background: var(--bg-accent);
+            border-radius: var(--radius);
+            border: 1px solid var(--red-dark);
+        }
+
+        .sports-subsection {
+            margin-bottom: 20px;
+        }
+
+        .sports-subsection h3 {
+            font-family: var(--font-headline);
+            font-size: 1.05rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+            color: var(--white);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .sports-subsection h3::after {
+            content: '';
+            flex: 1;
+            height: 1px;
+            background: var(--border);
+        }
+
+        .sports-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            padding: 12px 16px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            margin-bottom: 8px;
+            transition: border-color 0.2s;
+        }
+
+        .sports-item:hover { border-color: var(--red); }
+
+        .sports-detail { flex: 1; }
+
+        .sports-sport-tag {
+            font-family: var(--font-accent);
+            font-size: 0.6rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: var(--red);
+        }
+
+        .sports-event-name {
+            font-weight: 600;
+            margin-top: 2px;
+            font-size: 0.9rem;
+            color: var(--white);
+        }
+
+        .sports-meta {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-top: 2px;
+        }
+
+        .sports-result {
+            text-align: right;
+            font-weight: 700;
+            font-size: 0.9rem;
+            white-space: nowrap;
+            padding-left: 12px;
+            align-self: center;
+        }
+
+        .sports-result.win { color: #4caf50; }
+        .sports-result.loss { color: var(--red); }
+
+        /* ===== GOVERNMENT ===== */
+        .gov-card {
+            padding: 16px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            margin-bottom: 10px;
+            transition: border-color 0.2s;
+        }
+
+        .gov-card:hover { border-color: var(--red); }
+
+        .gov-type {
+            display: inline-block;
+            font-family: var(--font-accent);
+            font-size: 0.6rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            padding: 3px 10px;
+            border-radius: 4px;
+            margin-bottom: 6px;
+        }
+
+        .gov-type-meeting { background: #1a3a6b; color: #7ab3ff; }
+        .gov-type-emergency { background: #4a0000; color: #ff6b6b; }
+        .gov-type-notice { background: #3d2800; color: #ffb84d; }
+        .gov-type-utility { background: #0a3a1a; color: #5cd680; }
+
+        .gov-card h4 {
+            font-family: var(--font-headline);
+            font-size: 0.95rem;
+            font-weight: 700;
+            color: var(--white);
+            line-height: 1.3;
+            margin-bottom: 4px;
+        }
+
+        .gov-when {
+            font-size: 0.8rem;
+            color: var(--red);
+            margin-bottom: 6px;
+            font-weight: 500;
+        }
+
+        .gov-card p {
+            font-size: 0.82rem;
+            color: var(--text-secondary);
+            line-height: 1.6;
+        }
+
+        .gov-card .gov-link {
+            display: inline-block;
+            margin-top: 8px;
+            font-size: 0.78rem;
+            color: var(--red-bright);
+            font-weight: 600;
+        }
+
+        /* ===== BUSINESS SPOTLIGHT ===== */
+        .spotlight {
+            background: var(--bg-card);
+            border: 2px solid var(--red);
+            border-radius: var(--radius-lg);
+            overflow: hidden;
+            margin-top: 12px;
+        }
+
+        .spotlight-header {
+            background: linear-gradient(135deg, var(--red-dark) 0%, var(--red) 100%);
+            color: var(--white);
+            padding: 14px 20px;
+            text-align: center;
+        }
+
+        .spotlight-header h3 {
+            font-family: var(--font-headline);
+            font-size: 1.05rem;
+            font-weight: 700;
+            letter-spacing: 0.05em;
+        }
+
+        .spotlight-content { padding: 20px; }
+
+        .spotlight-business-name {
+            font-family: var(--font-headline);
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: var(--white);
+            margin-bottom: 2px;
+        }
+
+        .spotlight-business-type {
+            font-size: 0.82rem;
+            color: var(--red);
+            margin-bottom: 10px;
+            font-weight: 500;
+        }
+
+        .spotlight-desc {
+            font-size: 0.88rem;
+            line-height: 1.65;
+            color: var(--text-secondary);
+            margin-bottom: 12px;
+        }
+
+        .spotlight-services {
+            margin: 12px 0;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+
+        .spotlight-service-tag {
+            display: inline-block;
+            background: var(--bg-accent);
+            border: 1px solid var(--red-dark);
+            border-radius: 4px;
+            padding: 3px 10px;
+            font-size: 0.78rem;
+            color: var(--text-secondary);
+        }
+
+        .spotlight-quote {
+            font-family: var(--font-headline);
+            font-style: italic;
+            font-size: 0.88rem;
+            color: var(--text-secondary);
+            border-left: 3px solid var(--red);
+            padding-left: 14px;
+            margin: 14px 0;
+        }
+
+        .spotlight-quote small {
+            display: block;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-top: 4px;
+            font-style: normal;
+        }
+
+        .spotlight-contact {
+            font-size: 0.82rem;
+            color: var(--text-muted);
+            margin-top: 4px;
+        }
+
+        .spotlight-contact a {
+            color: var(--red);
+            font-weight: 600;
+        }
+
+        .spotlight-cta {
+            display: inline-block;
+            background: var(--red);
+            color: var(--white) !important;
+            padding: 10px 28px;
+            border-radius: 6px;
+            font-weight: 700;
+            font-size: 0.9rem;
+            margin-top: 14px;
+            transition: background 0.2s;
+        }
+
+        .spotlight-cta:hover { background: var(--red-bright); color: var(--white) !important; }
+
+        .spotlight-koda {
+            border-top: 1px solid var(--border);
+            padding: 14px 20px;
+            text-align: center;
+            background: var(--bg-elevated);
+        }
+
+        .spotlight-koda p {
+            font-size: 0.78rem;
+            color: var(--text-muted);
+            margin-bottom: 8px;
+        }
+
+        .spotlight-koda a {
+            font-size: 0.78rem;
+            color: var(--red);
+            font-weight: 600;
+            border: 1px solid var(--red);
+            padding: 5px 16px;
+            border-radius: 4px;
+            transition: all 0.2s;
+        }
+
+        .spotlight-koda a:hover {
+            background: var(--red);
+            color: var(--white);
+        }
+
+        /* ===== ARCHIVE ===== */
+        .archive-weeks {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 10px;
+            margin-top: 12px;
+        }
+
+        .archive-week-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 14px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .archive-week-card:hover {
+            border-color: var(--red);
+            background: var(--bg-card-hover);
+        }
+
+        .archive-week-card h4 {
+            font-family: var(--font-headline);
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--white);
+            margin-bottom: 4px;
+        }
+
+        .archive-week-card p {
+            font-size: 0.78rem;
+            color: var(--text-muted);
+        }
+
+        /* ===== FOOTER ===== */
+        .footer {
+            padding: 32px 16px;
+            border-top: 2px solid var(--red);
+            text-align: center;
+            margin-top: 40px;
+            background: var(--bg-card);
+        }
+
+        .footer-brand {
+            font-family: var(--font-headline);
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: var(--white);
+            text-transform: uppercase;
+            margin-bottom: 6px;
+        }
+
+        .footer-tagline {
+            font-family: var(--font-headline);
+            font-style: italic;
+            font-size: 0.85rem;
+            color: var(--red);
+            margin-bottom: 12px;
+        }
+
+        .footer p {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            line-height: 1.8;
+        }
+
+        .footer a { color: var(--red); }
+
+        .footer-heart {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-top: 12px;
+        }
+
+        /* ===== LOADING ===== */
+        .loading {
+            text-align: center;
+            padding: 24px;
+            color: var(--text-muted);
+            font-style: italic;
+        }
+
+        /* ===== SCROLL TO TOP ===== */
+        .scroll-top {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            width: 44px;
+            height: 44px;
+            background: var(--red);
+            color: var(--white);
+            border: none;
+            border-radius: 50%;
+            font-size: 1.2rem;
+            cursor: pointer;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.4);
+            z-index: 90;
+            transition: all 0.2s;
+        }
+
+        .scroll-top:hover {
+            background: var(--red-bright);
+            transform: scale(1.1);
+        }
+
+        .scroll-top.visible {
+            display: flex;
+        }
+
+        /* ===== PRINT ===== */
+        @media print {
+            body { background: white; color: #000; font-size: 11pt; }
+            .topnav, .scroll-top, .spotlight-koda, .footer-heart, .pagination { display: none !important; }
+            .container { max-width: 100%; padding: 0; }
+            .hero-card, .story-item, .event-card, .gov-card, .sports-item {
+                background: white; border: 1px solid #ccc; color: #000;
+            }
+            .hero-card h3, .story-item h3, .event-info h4, .gov-card h4 { color: #000; }
+            .hero-card p, .story-item p, .gov-card p { color: #333; }
+            a { color: inherit !important; text-decoration: none !important; }
+        }
+    </style>
+</head>
+<body>
+
+<!-- ===== TOP NAVIGATION ===== -->
+<nav class="topnav">
+    <div class="topnav-inner">
+        <div class="topnav-brand">Tiwahe <span>Times</span></div>
+        <button class="nav-hamburger" onclick="document.querySelector('.nav-links').classList.toggle('open')" aria-label="Menu">☰</button>
+        <div class="nav-links">
+            <a class="nav-link active" data-page="home">Home</a>
+            <a class="nav-link" data-page="news">News</a>
+            <a class="nav-link" data-page="sports">Sports</a>
+            <a class="nav-link" data-page="events">Events</a>
+            <a class="nav-link" data-page="government">Government</a>
+            <a class="nav-link" data-page="business">Business</a>
+            <a class="nav-link" data-page="archive">Archive</a>
+        </div>
+    </div>
+</nav>
+
+<!-- ===== MASTHEAD ===== -->
+<header class="masthead">
+    <div class="masthead-date" id="edition-info">Loading...</div>
+    <h1 class="masthead-title">The Tiwahe Times</h1>
+    <div class="masthead-subtitle">Fort White, Florida's Community Digest</div>
+    <div class="masthead-rule">
+        <span>Believe in the Tribe · #TIWAHE</span>
+    </div>
+</header>
+
+<div class="container">
+
+    <!-- ===== ALERTS BANNER ===== -->
+    <div class="alerts-banner" id="alerts-banner" style="display:none"></div>
+
+    <!-- ===== WEATHER BAR ===== -->
+    <div class="weather-bar" id="weather-bar">
+        <div id="weather-content" class="loading">Loading weather...</div>
+    </div>
+
+    <!-- ========== HOME PAGE ========== -->
+    <div class="page active" id="page-home">
+        <div class="section-header">
+            <span class="section-icon">📰</span>
+            <h2>Top Stories</h2>
+        </div>
+        <div class="hero-grid" id="hero-stories"></div>
+
+        <!-- Quick Sections Preview -->
+        <div style="display:grid;grid-template-columns:1fr;gap:0" id="home-columns">
+            <!-- Sports Preview -->
+            <div id="home-sports-preview"></div>
+            <!-- Events Preview -->
+            <div id="home-events-preview"></div>
+        </div>
+
+        <!-- Business Spotlight on home -->
+        <div id="home-spotlight"></div>
+    </div>
+
+    <!-- ========== NEWS PAGE ========== -->
+    <div class="page" id="page-news">
+        <div class="section-header">
+            <span class="section-icon">📰</span>
+            <h2>Local News</h2>
+        </div>
+        <div id="news-stories" class="story-list"></div>
+        <div id="news-pagination" class="pagination"></div>
+    </div>
+
+    <!-- ========== SPORTS PAGE ========== -->
+    <div class="page" id="page-sports">
+        <div class="section-header">
+            <span class="section-icon">⚾</span>
+            <h2>Fort White Indians Sports</h2>
+        </div>
+        <div id="sports-content"></div>
+    </div>
+
+    <!-- ========== EVENTS PAGE ========== -->
+    <div class="page" id="page-events">
+        <div class="section-header">
+            <span class="section-icon">📅</span>
+            <h2>Community Events</h2>
+        </div>
+        <div id="events-content"></div>
+    </div>
+
+    <!-- ========== GOVERNMENT PAGE ========== -->
+    <div class="page" id="page-government">
+        <div class="section-header">
+            <span class="section-icon">🏛️</span>
+            <h2>Columbia County Government</h2>
+        </div>
+        <div id="gov-content"></div>
+    </div>
+
+    <!-- ========== BUSINESS PAGE ========== -->
+    <div class="page" id="page-business">
+        <div class="section-header">
+            <span class="section-icon">⭐</span>
+            <h2>Business Spotlight</h2>
+        </div>
+        <div id="spotlight-content"></div>
+    </div>
+
+    <!-- ========== ARCHIVE PAGE ========== -->
+    <div class="page" id="page-archive">
+        <div class="section-header">
+            <span class="section-icon">📁</span>
+            <h2>Archive — Browse by Week</h2>
+        </div>
+        <div id="archive-content"></div>
+    </div>
+
+</div><!-- /container -->
+
+<!-- ===== FOOTER ===== -->
+<footer class="footer">
+    <div class="footer-brand">The Tiwahe Times</div>
+    <div class="footer-tagline">"Believe in the Tribe"</div>
+    <p>
+        A community project by <a href="mailto:kameronmartinllc@gmail.com">Kameron Martin</a><br>
+        Want your business featured? <a href="mailto:kameronmartinllc@gmail.com">Get in touch →</a>
+    </p>
+    <p class="footer-heart">Built with ❤️ in Fort White, FL</p>
+</footer>
+
+<!-- Scroll to Top -->
+<button class="scroll-top" id="scrollTop" onclick="window.scrollTo({top:0,behavior:'smooth'})">↑</button>
+
+<script>
+(function() {
+    'use strict';
+
+    // ===== HELPERS =====
+    const $ = (id) => document.getElementById(id);
+    const MONTHS = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+    const MONTHS_SHORT = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    const DAYS = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+    const STORIES_PER_PAGE = 5;
+    
+    let allStories = [];
+    let currentNewsPage = 1;
+
+    function formatDate(d) {
+        return DAYS[d.getDay()] + ', ' + MONTHS[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear();
+    }
+
+    function editionNumber(d) {
+        const start = new Date(2025, 6, 25);
+        return Math.max(1, Math.floor((d - start) / 86400000) + 1);
+    }
+
+    function truncate(text, max) {
+        if (text.length <= max) return text;
+        return text.substring(0, max).replace(/\s+\S*$/, '') + '…';
+    }
+
+    function isTodayOrFuture(dateStr) {
+        const today = new Date();
+        today.setHours(0,0,0,0);
+        const d = new Date(dateStr + 'T12:00:00');
+        return d >= today;
+    }
+
+    function isToday(dateStr) {
+        const today = new Date();
+        const d = new Date(dateStr + 'T12:00:00');
+        return d.getDate() === today.getDate() && d.getMonth() === today.getMonth() && d.getFullYear() === today.getFullYear();
+    }
+
+    // ===== EDITION INFO =====
+    const now = new Date();
+    $('edition-info').textContent = formatDate(now) + '  ·  Edition No. ' + editionNumber(now);
+
+    // ===== SCROLL TO TOP BUTTON =====
+    window.addEventListener('scroll', function() {
+        const btn = $('scrollTop');
+        if (window.scrollY > 400) btn.classList.add('visible');
+        else btn.classList.remove('visible');
+    });
+
+    // ===== NAVIGATION =====
+    function showPage(pageName) {
+        // Hide all pages
+        document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+        // Show target page
+        const target = $('page-' + pageName);
+        if (target) target.classList.add('active');
+        
+        // Update nav active state
+        document.querySelectorAll('.nav-link').forEach(l => {
+            l.classList.toggle('active', l.dataset.page === pageName);
+        });
+
+        // Close mobile menu
+        document.querySelector('.nav-links').classList.remove('open');
+        
+        // Scroll up
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+
+        // Update URL hash
+        history.pushState(null, '', pageName === 'home' ? '/' : '#' + pageName);
+    }
+
+    document.querySelectorAll('.nav-link').forEach(link => {
+        link.addEventListener('click', function(e) {
+            e.preventDefault();
+            showPage(this.dataset.page);
+        });
+    });
+
+    // Handle back/forward
+    window.addEventListener('popstate', function() {
+        const hash = location.hash.replace('#', '') || 'home';
+        showPage(hash);
+    });
+
+    // Init from hash
+    const initPage = location.hash.replace('#', '') || 'home';
+    if (initPage !== 'home') showPage(initPage);
+
+    // ===== DATA LOADING =====
+    async function loadJSON(path) {
+        try {
+            const r = await fetch(path);
+            if (!r.ok) throw new Error(r.status);
+            return await r.json();
+        } catch(e) {
+            console.error('Failed to load ' + path, e);
+            return null;
+        }
+    }
+
+    // ===== RENDER ALERTS =====
+    async function renderAlerts() {
+        const data = await loadJSON('/data/government.json');
+        if (!data || !data.notices) return;
+        
+        // Filter for urgent/important items — emergencies, burn bans, weather, today's meetings
+        const urgent = data.notices.filter(n => 
+            n.type === 'Emergency' || 
+            n.type === 'Utility' ||
+            (n.type === 'Notice' && (n.title.toLowerCase().includes('burn') || n.title.toLowerCase().includes('fire') || n.title.toLowerCase().includes('drought'))) ||
+            (isToday(n.date) && n.type === 'Meeting')
+        );
+
+        if (urgent.length === 0) { $('alerts-banner').style.display = 'none'; return; }
+
+        const icons = {
+            'Emergency': '🚨',
+            'Notice': '🔥',
+            'Meeting': '📋',
+            'Utility': '💧'
+        };
+
+        let html = `
+            <div class="alerts-banner-header" onclick="this.parentElement.classList.toggle('collapsed')">
+                <h3>⚠️ Active Alerts & Notices</h3>
+                <span class="alert-count">${urgent.length}</span>
+            </div>
+        `;
+
+        urgent.forEach(n => {
+            const typeClass = 'alert-type-' + n.type.toLowerCase().replace(/\s/g, '');
+            html += `
+                <div class="alert-item">
+                    <span class="alert-icon">${icons[n.type] || '📌'}</span>
+                    <div class="alert-text">
+                        <h4>${n.title}</h4>
+                        <p>${truncate(n.description, 150)}</p>
+                    </div>
+                    <span class="alert-type ${typeClass}">${n.type}</span>
+                </div>
+            `;
+        });
+
+        $('alerts-banner').innerHTML = html;
+        $('alerts-banner').style.display = 'block';
+    }
+
+    // ===== RENDER WEATHER =====
+    async function renderWeather() {
+        const data = await loadJSON('/data/weather.json');
+        if (!data) { $('weather-content').innerHTML = '<p>Weather data unavailable.</p>'; return; }
+        
+        const c = data.current;
+        let html = `
+            <div class="weather-current">
+                <div class="weather-icon-big">${c.icon}</div>
+                <div>
+                    <div class="weather-temp">${c.temp}<span class="weather-temp-unit">°F</span></div>
+                </div>
+                <div class="weather-details">
+                    <div class="weather-location">📍 Fort White, FL</div>
+                    <div class="weather-condition">${c.condition}</div>
+                    <div class="weather-meta">
+                        Feels like ${c.feelsLike}° · Humidity ${c.humidity}% · Wind ${c.wind} · UV ${c.uvIndex}
+                    </div>
+                </div>
+            </div>
+            <div class="weather-forecast">
+        `;
+        
+        data.forecast.forEach(day => {
+            html += `
+                <div class="forecast-day">
+                    <div class="forecast-day-name">${day.day}</div>
+                    <div class="forecast-icon">${day.icon}</div>
+                    <div class="forecast-temps">
+                        <span class="forecast-high">${day.high}°</span>
+                        <span class="forecast-low">${day.low}°</span>
+                    </div>
+                    ${day.chanceOfRain > 0 ? `<div class="forecast-rain">💧 ${day.chanceOfRain}%</div>` : ''}
+                </div>
+            `;
+        });
+        
+        html += '</div>';
+        $('weather-content').innerHTML = html;
+    }
+
+    // ===== RENDER HERO STORIES (Home Page — Top 5) =====
+    async function renderHeroStories() {
+        const data = await loadJSON('/data/stories.json');
+        if (!data) return;
+        
+        allStories = data.stories.sort((a, b) => new Date(b.date) - new Date(a.date));
+        const top5 = allStories.slice(0, 5);
+        
+        let html = '';
+        top5.forEach((story, i) => {
+            const url = story.sourceUrl && story.sourceUrl !== '#' ? story.sourceUrl : null;
+            html += `
+                <article class="hero-card" ${url ? `onclick="window.open('${url}','_blank')"` : ''}>
+                    <div class="hero-card-inner">
+                        <div class="hero-card-category">${story.category}</div>
+                        <h3>${story.headline}</h3>
+                        <p>${i === 0 ? truncate(story.summary, 350) : truncate(story.summary, 180)}</p>
+                        <div class="hero-card-source">
+                            <a href="${story.sourceUrl}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${story.source}</a>
+                            · ${story.date}
+                        </div>
+                    </div>
+                </article>
+            `;
+        });
+        
+        $('hero-stories').innerHTML = html;
+    }
+
+    // ===== RENDER NEWS PAGE (with pagination) =====
+    function renderNewsPage(page) {
+        currentNewsPage = page;
+        const totalPages = Math.ceil(allStories.length / STORIES_PER_PAGE);
+        const start = (page - 1) * STORIES_PER_PAGE;
+        const pageStories = allStories.slice(start, start + STORIES_PER_PAGE);
+        
+        let html = '';
+        pageStories.forEach(story => {
+            const url = story.sourceUrl && story.sourceUrl !== '#' ? story.sourceUrl : null;
+            html += `
+                <article class="story-item">
+                    <div class="story-item-category">${story.category}</div>
+                    <h3>${url ? `<a href="${url}" target="_blank" rel="noopener">${story.headline}</a>` : story.headline}</h3>
+                    <p>${story.summary}</p>
+                    <div class="story-item-meta">
+                        <span>${story.date}</span>
+                        <a href="${story.sourceUrl}" target="_blank" rel="noopener">${story.source}</a>
+                        ${url ? `<a href="${url}" target="_blank" rel="noopener" class="read-more-link">Read Full Article →</a>` : ''}
+                    </div>
+                </article>
+            `;
+        });
+        
+        $('news-stories').innerHTML = html;
+
+        // Pagination
+        let pagHtml = '';
+        pagHtml += `<button ${page <= 1 ? 'disabled' : ''} onclick="window._ttNav(${page-1})">← Prev</button>`;
+        for (let i = 1; i <= totalPages; i++) {
+            pagHtml += `<button class="${i === page ? 'active' : ''}" onclick="window._ttNav(${i})">${i}</button>`;
+        }
+        pagHtml += `<button ${page >= totalPages ? 'disabled' : ''} onclick="window._ttNav(${page+1})">Next →</button>`;
+        $('news-pagination').innerHTML = pagHtml;
+    }
+
+    window._ttNav = function(page) {
+        renderNewsPage(page);
+        $('page-news').scrollIntoView({ behavior: 'smooth' });
+    };
+
+    // ===== RENDER EVENTS =====
+    async function renderEvents() {
+        const data = await loadJSON('/data/events.json');
+        if (!data) return;
+        
+        data.events.sort((a, b) => new Date(a.date) - new Date(b.date));
+        
+        // Full events page
+        let html = '';
+        data.events.forEach(ev => {
+            const d = new Date(ev.date + 'T12:00:00');
+            const month = MONTHS_SHORT[d.getMonth()].toUpperCase();
+            const day = d.getDate();
+            const todayClass = isToday(ev.date) ? ' event-today' : '';
+            const todayBadge = isToday(ev.date) ? '<span style="color:var(--red);font-weight:700;font-size:0.7rem;text-transform:uppercase"> · TODAY</span>' : '';
+            
+            html += `
+                <div class="event-card${todayClass}">
+                    <div class="event-date-badge">
+                        <div class="month">${month}</div>
+                        <div class="day">${day}</div>
+                    </div>
+                    <div class="event-info">
+                        <h4>${ev.name}${todayBadge}</h4>
+                        <div class="event-loc">📍 ${ev.location} · ${ev.time}</div>
+                        <div class="event-desc">${ev.description}</div>
+                    </div>
+                </div>
+            `;
+        });
+        $('events-content').innerHTML = html;
+
+        // Home preview (next 3 upcoming)
+        const upcoming = data.events.filter(e => isTodayOrFuture(e.date)).slice(0, 3);
+        if (upcoming.length > 0) {
+            let previewHtml = `
+                <div class="section-header" style="margin-top:24px">
+                    <span class="section-icon">📅</span>
+                    <h2>Upcoming Events</h2>
+                </div>
+            `;
+            upcoming.forEach(ev => {
+                const d = new Date(ev.date + 'T12:00:00');
+                const month = MONTHS_SHORT[d.getMonth()].toUpperCase();
+                const day = d.getDate();
+                const todayClass = isToday(ev.date) ? ' event-today' : '';
+                const todayBadge = isToday(ev.date) ? '<span style="color:var(--red);font-weight:700;font-size:0.7rem;text-transform:uppercase"> · TODAY</span>' : '';
+                
+                previewHtml += `
+                    <div class="event-card${todayClass}">
+                        <div class="event-date-badge">
+                            <div class="month">${month}</div>
+                            <div class="day">${day}</div>
+                        </div>
+                        <div class="event-info">
+                            <h4>${ev.name}${todayBadge}</h4>
+                            <div class="event-loc">📍 ${ev.location} · ${ev.time}</div>
+                        </div>
+                    </div>
+                `;
+            });
+            previewHtml += `<div style="text-align:center;margin:12px 0"><a class="nav-link" data-page="events" style="display:inline-block;color:var(--red);cursor:pointer;border:1px solid var(--red);padding:6px 20px;border-radius:6px;font-size:0.8rem;font-weight:600">View All Events →</a></div>`;
+            $('home-events-preview').innerHTML = previewHtml;
+
+            // Re-bind nav links in dynamic content
+            $('home-events-preview').querySelectorAll('.nav-link').forEach(link => {
+                link.addEventListener('click', function(e) { e.preventDefault(); showPage(this.dataset.page); });
+            });
+        }
+    }
+
+    // ===== RENDER SPORTS =====
+    async function renderSports() {
+        const data = await loadJSON('/data/sports.json');
+        if (!data) return;
+        
+        let html = `<div class="sports-motto">"${data.motto}"</div>`;
+        
+        // Recent results
+        if (data.recentResults && data.recentResults.length) {
+            html += '<div class="sports-subsection"><h3>📊 Recent Results</h3>';
+            data.recentResults.forEach(r => {
+                const cls = r.won ? 'win' : 'loss';
+                html += `
+                    <div class="sports-item">
+                        <div class="sports-detail">
+                            <div class="sports-sport-tag">⚾ ${r.sport}</div>
+                            <div class="sports-event-name">${r.event}</div>
+                            <div class="sports-meta">${r.date} · ${r.notes}</div>
+                        </div>
+                        <div class="sports-result ${cls}">${r.result}</div>
+                    </div>
+                `;
+            });
+            html += '</div>';
+        }
+        
+        // Upcoming
+        if (data.upcoming && data.upcoming.length) {
+            html += '<div class="sports-subsection"><h3>🗓️ Coming Up</h3>';
+            data.upcoming.forEach(u => {
+                const todayBadge = isToday(u.date) ? '<span style="color:var(--red);font-weight:700;font-size:0.7rem"> · TONIGHT</span>' : '';
+                html += `
+                    <div class="sports-item">
+                        <div class="sports-detail">
+                            <div class="sports-sport-tag">${u.sport === 'Softball' ? '🥎' : '⚾'} ${u.sport}</div>
+                            <div class="sports-event-name">${u.event}${todayBadge}</div>
+                            <div class="sports-meta">${u.displayDate} · ${u.time} · ${u.location}</div>
+                            ${u.notes ? `<div class="sports-meta" style="margin-top:2px;color:var(--text-secondary)">${u.notes}</div>` : ''}
+                        </div>
+                    </div>
+                `;
+            });
+            html += '</div>';
+        }
+
+        html += `<div style="text-align:center;margin-top:16px;padding:12px;background:var(--bg-accent);border-radius:var(--radius);border:1px solid var(--red-dark)">
+            <p style="font-size:0.78rem;color:var(--text-muted)">All scores verified via <strong>MaxPreps</strong> and local news sources. No fabricated content.</p>
+        </div>`;
+        
+        $('sports-content').innerHTML = html;
+
+        // Home sports preview
+        let previewHtml = `
+            <div class="section-header" style="margin-top:24px">
+                <span class="section-icon">⚾</span>
+                <h2>Indians Sports</h2>
+            </div>
+        `;
+        if (data.recentResults && data.recentResults.length) {
+            const latest = data.recentResults[0];
+            const cls = latest.won ? 'win' : 'loss';
+            previewHtml += `
+                <div class="sports-item">
+                    <div class="sports-detail">
+                        <div class="sports-sport-tag">⚾ ${latest.sport} · Latest Result</div>
+                        <div class="sports-event-name">${latest.event}</div>
+                        <div class="sports-meta">${latest.notes}</div>
+                    </div>
+                    <div class="sports-result ${cls}">${latest.result}</div>
+                </div>
+            `;
+        }
+        if (data.upcoming && data.upcoming.length) {
+            const next = data.upcoming[0];
+            const todayBadge = isToday(next.date) ? '<span style="color:var(--red);font-weight:700;font-size:0.7rem"> · TONIGHT</span>' : '';
+            previewHtml += `
+                <div class="sports-item" style="margin-top:8px">
+                    <div class="sports-detail">
+                        <div class="sports-sport-tag">⚾ ${next.sport} · Next Game</div>
+                        <div class="sports-event-name">${next.event}${todayBadge}</div>
+                        <div class="sports-meta">${next.displayDate} · ${next.time} · ${next.location}</div>
+                    </div>
+                </div>
+            `;
+        }
+        previewHtml += `<div style="text-align:center;margin:12px 0"><a class="nav-link" data-page="sports" style="display:inline-block;color:var(--red);cursor:pointer;border:1px solid var(--red);padding:6px 20px;border-radius:6px;font-size:0.8rem;font-weight:600">Full Sports Section →</a></div>`;
+        $('home-sports-preview').innerHTML = previewHtml;
+        $('home-sports-preview').querySelectorAll('.nav-link').forEach(link => {
+            link.addEventListener('click', function(e) { e.preventDefault(); showPage(this.dataset.page); });
+        });
+    }
+
+    // ===== RENDER GOVERNMENT =====
+    async function renderGov() {
+        const data = await loadJSON('/data/government.json');
+        if (!data) return;
+        
+        let html = '';
+        data.notices.forEach(n => {
+            const typeClass = 'gov-type-' + n.type.toLowerCase().replace(/\s/g, '');
+            const when = [n.displayDate, n.time, n.location].filter(Boolean).join(' · ');
+            
+            html += `
+                <div class="gov-card">
+                    <span class="gov-type ${typeClass}">${n.type}</span>
+                    <h4>${n.title}</h4>
+                    ${when ? `<div class="gov-when">📌 ${when}</div>` : ''}
+                    <p>${n.description}</p>
+                    ${n.link ? `<a href="${n.link}" target="_blank" rel="noopener" class="gov-link">More Info →</a>` : ''}
+                </div>
+            `;
+        });
+        
+        $('gov-content').innerHTML = html;
+    }
+
+    // ===== RENDER BUSINESS SPOTLIGHT =====
+    async function renderSpotlight() {
+        const data = await loadJSON('/data/business-spotlight.json');
+        if (!data) return;
+        
+        const b = data.featured;
+        const k = data.kodaAd;
+        
+        const services = b.services ? b.services.map(s => `<span class="spotlight-service-tag">${s}</span>`).join('') : '';
+        
+        let html = `
+            <div class="spotlight">
+                <div class="spotlight-header">
+                    <h3>⭐ This Week's Featured Business</h3>
+                </div>
+                <div class="spotlight-content">
+                    <div class="spotlight-business-name">${b.name}</div>
+                    <div class="spotlight-business-type">${b.type}${b.rating ? ` · ⭐ ${b.rating} (${b.reviewCount} reviews)` : ''}</div>
+                    <p class="spotlight-desc">${b.description}</p>
+                    ${services ? `<div class="spotlight-services">${services}</div>` : ''}
+                    ${b.quote ? `<blockquote class="spotlight-quote">"${b.quote}"<small>— ${b.quoteAttribution}</small></blockquote>` : ''}
+                    ${b.phone ? `<div class="spotlight-contact">📞 <a href="tel:${b.phone}">${b.phone}</a></div>` : ''}
+                    ${b.website ? `<div class="spotlight-contact">🌐 <a href="https://${b.website}" target="_blank" rel="noopener">${b.website}</a></div>` : ''}
+                    ${b.address ? `<div class="spotlight-contact">📍 ${b.address}</div>` : ''}
+                    ${b.cta ? `<div style="text-align:center;margin-top:14px"><a href="tel:${b.phone || ''}" class="spotlight-cta">${b.cta}</a></div>` : ''}
+                </div>
+                <div class="spotlight-koda">
+                    <p>${k.text}</p>
+                    <a href="${k.url}">${k.cta} →</a>
+                </div>
+            </div>
+        `;
+        
+        $('spotlight-content').innerHTML = html;
+        // Also render on home page
+        $('home-spotlight').innerHTML = `
+            <div class="section-header" style="margin-top:24px">
+                <span class="section-icon">⭐</span>
+                <h2>Business Spotlight</h2>
+            </div>
+        ` + html;
+    }
+
+    // ===== RENDER ARCHIVE =====
+    function renderArchive() {
+        if (allStories.length === 0) {
+            $('archive-content').innerHTML = '<p class="loading">No stories to archive.</p>';
+            return;
+        }
+
+        // Group stories by week
+        const weeks = {};
+        allStories.forEach(story => {
+            const d = new Date(story.date + 'T12:00:00');
+            // Get Monday of that week
+            const dayOfWeek = d.getDay();
+            const diff = d.getDate() - dayOfWeek + (dayOfWeek === 0 ? -6 : 1);
+            const monday = new Date(d);
+            monday.setDate(diff);
+            const weekKey = monday.toISOString().split('T')[0];
+            if (!weeks[weekKey]) weeks[weekKey] = [];
+            weeks[weekKey].push(story);
+        });
+
+        const sortedWeeks = Object.keys(weeks).sort().reverse();
+
+        let html = '<div class="archive-weeks">';
+        sortedWeeks.forEach(weekKey => {
+            const d = new Date(weekKey + 'T12:00:00');
+            const endD = new Date(d);
+            endD.setDate(endD.getDate() + 6);
+            const label = MONTHS_SHORT[d.getMonth()] + ' ' + d.getDate() + ' – ' + MONTHS_SHORT[endD.getMonth()] + ' ' + endD.getDate() + ', ' + endD.getFullYear();
+            const count = weeks[weekKey].length;
+            
+            html += `
+                <div class="archive-week-card" onclick="window._ttShowWeek('${weekKey}')">
+                    <h4>Week of ${label}</h4>
+                    <p>${count} ${count === 1 ? 'story' : 'stories'}</p>
+                </div>
+            `;
+        });
+        html += '</div>';
+        html += '<div id="archive-stories" style="margin-top:20px"></div>';
+
+        $('archive-content').innerHTML = html;
+
+        // Store weeks data for drill-down
+        window._archiveWeeks = weeks;
+    }
+
+    window._ttShowWeek = function(weekKey) {
+        const stories = window._archiveWeeks[weekKey];
+        if (!stories) return;
+
+        const d = new Date(weekKey + 'T12:00:00');
+        const endD = new Date(d);
+        endD.setDate(endD.getDate() + 6);
+        const label = MONTHS_SHORT[d.getMonth()] + ' ' + d.getDate() + ' – ' + MONTHS_SHORT[endD.getMonth()] + ' ' + endD.getDate() + ', ' + endD.getFullYear();
+
+        let html = `<h3 style="font-family:var(--font-headline);color:var(--white);margin-bottom:12px">Week of ${label}</h3>`;
+        stories.forEach(story => {
+            const url = story.sourceUrl && story.sourceUrl !== '#' ? story.sourceUrl : null;
+            html += `
+                <article class="story-item">
+                    <div class="story-item-category">${story.category}</div>
+                    <h3>${url ? `<a href="${url}" target="_blank" rel="noopener">${story.headline}</a>` : story.headline}</h3>
+                    <p>${story.summary}</p>
+                    <div class="story-item-meta">
+                        <span>${story.date}</span>
+                        <a href="${story.sourceUrl}" target="_blank" rel="noopener">${story.source}</a>
+                    </div>
+                </article>
+            `;
+        });
+
+        document.getElementById('archive-stories').innerHTML = html;
+        document.getElementById('archive-stories').scrollIntoView({ behavior: 'smooth' });
+    };
+
+    // ===== HOME COLUMNS RESPONSIVE =====
+    function setupHomeColumns() {
+        const cols = $('home-columns');
+        if (window.innerWidth >= 640) {
+            cols.style.gridTemplateColumns = '1fr 1fr';
+            cols.style.gap = '20px';
+        } else {
+            cols.style.gridTemplateColumns = '1fr';
+            cols.style.gap = '0';
+        }
+    }
+    window.addEventListener('resize', setupHomeColumns);
+
+    // ===== INIT =====
+    async function init() {
+        await renderAlerts();
+        await renderWeather();
+        await renderHeroStories();
+        renderNewsPage(1);
+        await renderEvents();
+        await renderSports();
+        await renderGov();
+        await renderSpotlight();
+        renderArchive();
+        setupHomeColumns();
+    }
+
+    init();
+
+})();
+</script>
+
+</body>
+</html>

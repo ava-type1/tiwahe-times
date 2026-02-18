@@ -1,0 +1,74 @@
+{
+  "schoolName": "Fort White High School",
+  "mascot": "Indians",
+  "motto": "Believe in the TR1BE! #TIWAHE",
+  "season": "Spring 2025-26",
+  "upcoming": [
+    {
+      "sport": "Baseball",
+      "event": "TONIGHT: vs Lafayette (District)",
+      "date": "2026-02-17",
+      "displayDate": "Tue, Feb 17 — TONIGHT",
+      "time": "7:00 PM",
+      "location": "Fort White",
+      "opponent": "Lafayette Hornets",
+      "notes": "District game. The Indians (0-3) host Lafayette looking for their first win of the season."
+    },
+    {
+      "sport": "Baseball",
+      "event": "@ Bell",
+      "date": "2026-02-19",
+      "displayDate": "Thu, Feb 19",
+      "time": "7:00 PM",
+      "location": "Bell, FL",
+      "opponent": "Bell Bulldogs",
+      "notes": "Road game at Bell."
+    },
+    {
+      "sport": "Baseball",
+      "event": "vs Hamilton County",
+      "date": "2026-02-23",
+      "displayDate": "Mon, Feb 23",
+      "time": "7:00 PM",
+      "location": "Fort White",
+      "opponent": "Hamilton County Trojans",
+      "notes": "Home game."
+    },
+    {
+      "sport": "Softball",
+      "event": "Season Opener @ Dixie County (District)",
+      "date": "2026-02-23",
+      "displayDate": "Mon, Feb 23",
+      "time": "7:00 PM",
+      "location": "Cross City, FL",
+      "opponent": "Dixie County Bears",
+      "notes": "Lady Indians open the 2026 softball season on the road in a district matchup."
+    }
+  ],
+  "recentResults": [
+    {
+      "sport": "Baseball",
+      "event": "@ Saint Francis Catholic Academy",
+      "date": "2026-02-16",
+      "result": "Loss, 5-7",
+      "won": false,
+      "notes": "Fort White fell 5-7 to SFCA in Gainesville. Per MaxPreps."
+    },
+    {
+      "sport": "Baseball",
+      "event": "@ Chiefland",
+      "date": "2026-02-12",
+      "result": "Loss, 2-8",
+      "won": false,
+      "notes": "Fort White lost 2-8 on the road at Chiefland. Per MaxPreps."
+    },
+    {
+      "sport": "Baseball",
+      "event": "Season Opener vs Taylor County (District)",
+      "date": "2026-02-10",
+      "result": "Loss, 1-9",
+      "won": false,
+      "notes": "Fort White fell to Taylor County 1-9 in the season and district opener."
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "events": [
+    {
+      "date": "2026-02-17",
+      "displayDate": "TODAY — Tue, Feb 17",
+      "name": "Fort White Town Council — Special Meeting on Dissolution",
+      "location": "Fort White Town Hall",
+      "time": "6:00 PM",
+      "description": "Special meeting on potential town dissolution. Four council members voted in January to hold this meeting so residents can voice their opinions on whether Fort White should dissolve into Columbia County. Public comment period available."
+    },
+    {
+      "date": "2026-02-17",
+      "displayDate": "TONIGHT — Tue, Feb 17",
+      "name": "Fort White Indians Baseball vs Lafayette (District Game)",
+      "location": "Fort White High School",
+      "time": "7:00 PM",
+      "description": "Fort White Indians (0-3) host the Lafayette Hornets in a district matchup. The Indians are looking for their first win of the season after losses to Taylor County (1-9), Chiefland (2-8), and SFCA (5-7)."
+    },
+    {
+      "date": "2026-02-18",
+      "displayDate": "Wed, Feb 18",
+      "name": "Visit Florida CEO Bryan Griffin at Lake City Chamber Coffee & Commerce",
+      "location": "Lake City",
+      "time": "Morning (TBD)",
+      "description": "Visit Florida President and CEO Bryan Griffin will speak at the Lake City-Columbia County Chamber's Coffee & Commerce program, sharing insights on tourism and economic development. Per WCJB's Week Ahead report."
+    },
+    {
+      "date": "2026-02-19",
+      "displayDate": "Thu, Feb 19",
+      "name": "Columbia County Board of Commissioners — Regular Meeting",
+      "location": "School Board Administrative Complex Auditorium, 372 W Duval St, Lake City",
+      "time": "6:00 PM",
+      "description": "Regular meeting of the Board of County Commissioners. Burn ban status review and drought response expected on agenda. Meets 1st and 3rd Thursday of each month. Public comment period available."
+    },
+    {
+      "date": "2026-02-19",
+      "displayDate": "Thu, Feb 19",
+      "name": "Economic Development Board Meeting",
+      "location": "Columbia County",
+      "time": "TBD",
+      "description": "Economic Development Board meeting. Per the Columbia County meeting calendar."
+    },
+    {
+      "date": "2026-02-19",
+      "displayDate": "Thu, Feb 19",
+      "name": "Fort White Indians Baseball @ Bell",
+      "location": "Bell, FL",
+      "time": "7:00 PM",
+      "description": "Fort White Indians travel to Bell for a road game. Per MaxPreps schedule."
+    },
+    {
+      "date": "2026-02-23",
+      "displayDate": "Mon, Feb 23",
+      "name": "Fort White Indians Baseball vs Hamilton County",
+      "location": "Fort White High School",
+      "time": "7:00 PM",
+      "description": "Fort White Indians host the Hamilton County Trojans. Per MaxPreps schedule."
+    },
+    {
+      "date": "2026-02-23",
+      "displayDate": "Mon, Feb 23",
+      "name": "Fort White Lady Indians Softball Season Opener @ Dixie County",
+      "location": "Cross City, FL",
+      "time": "7:00 PM",
+      "description": "The Lady Indians open their 2026 softball season on the road at Dixie County in a district matchup. Per MaxPreps schedule."
+    },
+    {
+      "date": "2026-02-26",
+      "displayDate": "Thu, Feb 26",
+      "name": "Planning & Zoning / Board of Adjustment",
+      "location": "Columbia County",
+      "time": "TBD",
+      "description": "Regular meeting of the Planning & Zoning Board / Board of Adjustment."
+    },
+    {
+      "date": "2026-03-05",
+      "displayDate": "Thu, Mar 5",
+      "name": "Columbia County Board of Commissioners — Regular Meeting",
+      "location": "School Board Administrative Complex Auditorium, 372 W Duval St, Lake City",
+      "time": "6:00 PM",
+      "description": "Regular meeting of the Board of County Commissioners. Meets 1st and 3rd Thursday of each month."
+    },
+    {
+      "date": "2026-03-18",
+      "displayDate": "Wed, Mar 18",
+      "name": "Tourist Development Council Meeting",
+      "location": "Columbia County",
+      "time": "TBD",
+      "description": "Tourist Development Council meeting."
+    },
+    {
+      "date": "2026-03-19",
+      "displayDate": "Thu, Mar 19",
+      "name": "Columbia County Board of Commissioners — Regular Meeting",
+      "location": "School Board Administrative Complex Auditorium, 372 W Duval St, Lake City",
+      "time": "6:00 PM",
+      "description": "Regular meeting of the Board of County Commissioners."
+    }
+  ]
+}

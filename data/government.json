@@ -1,0 +1,54 @@
+{
+  "notices": [
+    {
+      "type": "Meeting",
+      "title": "TODAY: Fort White Town Council — Special Meeting on Dissolution",
+      "date": "2026-02-17",
+      "displayDate": "Tuesday, February 17 (TODAY)",
+      "time": "6:00 PM",
+      "location": "Fort White Town Hall",
+      "description": "Special meeting for residents to voice opinions on whether the town of Fort White should dissolve into Columbia County. Four council members voted to hold this meeting in January. Mayor George Thomas was the lone vote against. This is a key moment for Fort White's future — residents are encouraged to attend.",
+      "link": "https://www.wcjb.com/2026/01/22/fort-white-council-members-set-special-meeting-vote-whether-dissolve-town/"
+    },
+    {
+      "type": "Emergency",
+      "title": "State of Emergency — Drought & Cold Weather (Executive Order 26-33)",
+      "date": "2026-02-09",
+      "displayDate": "Effective February 9, 2026",
+      "time": null,
+      "location": "Statewide — includes Columbia County",
+      "description": "Gov. DeSantis signed Executive Order 26-33 declaring a state of emergency due to worsening drought and agricultural damage from recent cold weather. The order waives agricultural weight restrictions, provides emergency support for farmers, and directs the state to seek federal aid. Farmers can apply for the Agriculture and Aquaculture Producers Emergency Loan Program through FDACS.",
+      "link": "https://www.wcjb.com/2026/02/10/desantis-signs-emergency-order-help-florida-farmers-after-cold-weather/"
+    },
+    {
+      "type": "Notice",
+      "title": "County-Wide Burn Ban in Effect — Air Tankers Staged in Lake City",
+      "date": "2026-02-05",
+      "displayDate": "Effective February 5 — Under Review Every 10 Days",
+      "time": null,
+      "location": "All of Columbia County",
+      "description": "Columbia County commissioners approved a temporary county-wide burn ban at the request of the Florida Forest Service. All open burning is prohibited including campfires, yard waste, and trash burning. The Florida Forest Service has moved large air tankers to Lake City to support wildfire response across North Florida. JFRD has responded to 29 wildfire incidents this year — more than double the same period last year. Report wildfires immediately to 911.",
+      "link": "https://www.wcjb.com/2026/02/05/columbia-county-commissioners-approve-emergency-burn-ban-due-wildfire-risk/"
+    },
+    {
+      "type": "Meeting",
+      "title": "Board of County Commissioners — Regular Meeting",
+      "date": "2026-02-19",
+      "displayDate": "Thursday, February 19",
+      "time": "6:00 PM",
+      "location": "School Board Administrative Complex Auditorium, 372 W Duval St, Lake City",
+      "description": "Regular meeting of the Columbia County Board of Commissioners. Burn ban review, drought response, and Fort White dissolution update may be on the agenda.",
+      "link": "https://www.columbiacountyfla.com/MeetingCalendar.asp"
+    },
+    {
+      "type": "Utility",
+      "title": "Water Shortage Advisory — Suwannee River Water Management District",
+      "date": "2026-02-09",
+      "displayDate": "Ongoing",
+      "time": null,
+      "location": "Columbia County & Surrounding Counties",
+      "description": "The Suwannee River Water Management District has an ongoing water shortage advisory. Through December 2025, 14 of 15 SRWMD counties reported an average rainfall deficit of nearly 11.5 inches, based on records dating to 1932. About 95% of Florida is experiencing at least moderate drought. Residents are urged to conserve water and limit irrigation.",
+      "link": "https://www.mainstreetdailynews.com/news/desantis-issues-state-emergency-drought"
+    }
+  ]
+}
