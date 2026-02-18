@@ -1477,12 +1477,14 @@
 
         urgent.forEach(n => {
             const typeClass = 'alert-type-' + n.type.toLowerCase().replace(/\s/g, '');
+            const linkHtml = n.link ? `<a href="${n.link}" target="_blank" rel="noopener" class="read-more-link" style="display:inline-block;margin-top:4px;font-size:0.72rem">More Info →</a>` : '';
             html += `
                 <div class="alert-item">
                     <span class="alert-icon">${icons[n.type] || '📌'}</span>
                     <div class="alert-text">
                         <h4>${n.title}</h4>
-                        <p>${truncate(n.description, 150)}</p>
+                        <p>${n.description}</p>
+                        ${linkHtml}
                     </div>
                     <span class="alert-type ${typeClass}">${n.type}</span>
                 </div>
