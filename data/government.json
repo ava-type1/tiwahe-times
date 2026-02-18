@@ -2,13 +2,13 @@
   "notices": [
     {
       "type": "Meeting",
-      "title": "TODAY: Fort White Town Council — Special Meeting on Dissolution",
-      "date": "2026-02-17",
-      "displayDate": "Tuesday, February 17 (TODAY)",
-      "time": "6:00 PM",
-      "location": "Fort White Town Hall",
-      "description": "Special meeting for residents to voice opinions on whether the town of Fort White should dissolve into Columbia County. Four council members voted to hold this meeting in January. Mayor George Thomas was the lone vote against. This is a key moment for Fort White's future — residents are encouraged to attend.",
-      "link": "https://www.wcjb.com/2026/01/22/fort-white-council-members-set-special-meeting-vote-whether-dissolve-town/"
+      "title": "UPDATE: Fort White Dissolution Finds No Support — Ordinance Reading Still on Monday Agenda",
+      "date": "2026-02-18",
+      "displayDate": "Updated Wednesday, February 18",
+      "time": null,
+      "location": "Fort White",
+      "description": "At a packed special meeting on Tuesday, February 17, Fort White council members and residents found no support for dissolving the town into Columbia County. Both the public and all four council members voiced opposition. Mayor George Thomas echoed residents' sentiments against dissolution. However, a first reading of an ordinance to dissolve the town remains on the agenda for the next regular council meeting on Monday, February 23 — though its future is uncertain following the discussions.",
+      "link": "https://www.wcjb.com/2026/02/18/fort-white-council-finds-no-support-town-dissolution-plans/"
     },
     {
       "type": "Emergency",
@@ -17,7 +17,7 @@
       "displayDate": "Effective February 9, 2026",
       "time": null,
       "location": "Statewide — includes Columbia County",
-      "description": "Gov. DeSantis signed Executive Order 26-33 declaring a state of emergency due to worsening drought and agricultural damage from recent cold weather. The order waives agricultural weight restrictions, provides emergency support for farmers, and directs the state to seek federal aid. Farmers can apply for the Agriculture and Aquaculture Producers Emergency Loan Program through FDACS.",
+      "description": "Gov. DeSantis signed Executive Order 26-33 declaring a state of emergency due to worsening drought and agricultural damage from recent cold weather. The order waives agricultural weight restrictions, provides emergency support for farmers, and directs the state to seek federal aid. All north-central Florida counties are now under extreme drought conditions per the latest U.S. Drought Monitor. Gainesville has received just 25% of normal rainfall since January; Ocala only 18%.",
       "link": "https://www.wcjb.com/2026/02/10/desantis-signs-emergency-order-help-florida-farmers-after-cold-weather/"
     },
     {
@@ -27,7 +27,7 @@
       "displayDate": "Effective February 5 — Under Review Every 10 Days",
       "time": null,
       "location": "All of Columbia County",
-      "description": "Columbia County commissioners approved a temporary county-wide burn ban at the request of the Florida Forest Service. All open burning is prohibited including campfires, yard waste, and trash burning. The Florida Forest Service has moved large air tankers to Lake City to support wildfire response across North Florida. JFRD has responded to 29 wildfire incidents this year — more than double the same period last year. Report wildfires immediately to 911.",
+      "description": "Columbia County commissioners approved a temporary county-wide burn ban at the request of the Florida Forest Service. All open burning is prohibited including campfires, yard waste, and trash burning. The Florida Forest Service has moved large air tankers to Lake City to support wildfire response across North Florida. More than 30 counties statewide are under burn bans. Report wildfires immediately to 911.",
       "link": "https://www.wcjb.com/2026/02/05/columbia-county-commissioners-approve-emergency-burn-ban-due-wildfire-risk/"
     },
     {
@@ -47,8 +47,8 @@
       "displayDate": "Ongoing",
       "time": null,
       "location": "Columbia County & Surrounding Counties",
-      "description": "The Suwannee River Water Management District has an ongoing water shortage advisory. Through December 2025, 14 of 15 SRWMD counties reported an average rainfall deficit of nearly 11.5 inches, based on records dating to 1932. About 95% of Florida is experiencing at least moderate drought. Residents are urged to conserve water and limit irrigation.",
-      "link": "https://www.mainstreetdailynews.com/news/desantis-issues-state-emergency-drought"
+      "description": "The Suwannee River Water Management District has declared a Phase I Moderate Water Shortage. Through December 2025, 14 of 15 SRWMD counties reported an average rainfall deficit of nearly 11.5 inches. All north-central Florida counties are now at extreme drought levels. Residents are urged to conserve water and limit irrigation.",
+      "link": "https://www.wuft.org/weather/2026-02-18/how-drought-conditions-are-impacting-north-central-florida"
     }
   ]
 }

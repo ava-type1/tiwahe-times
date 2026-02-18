@@ -1,6 +1,28 @@
 {
   "stories": [
     {
+      "id": 17,
+      "headline": "Fort White Council Finds No Support to Dissolve Town; Ordinance Reading Set for Monday",
+      "summary": "Fort White council members and residents rejected the idea of dissolving the town into Columbia County at a packed special meeting Tuesday night at the Fort White Community Center. Both the public and council members voiced opposition to dissolution. Mayor George Thomas, who was the lone vote against holding the special meeting, echoed residents' sentiments. Councilman Bill Koon read from prepared notes during the session. Despite the lack of support, a first reading of an ordinance to dissolve the town remains on next Monday's (February 23) agenda, though its future is uncertain following the discussions.",
+      "category": "Government",
+      "locality": "fortwhite",
+      "source": "WCJB TV20 / WUFT News",
+      "sourceUrl": "https://www.wcjb.com/2026/02/18/fort-white-council-finds-no-support-town-dissolution-plans/",
+      "date": "2026-02-18",
+      "featured": true
+    },
+    {
+      "id": 16,
+      "headline": "All North-Central Florida Counties Now at Extreme Drought; Experts Warn of Months More",
+      "summary": "Every county in north-central Florida is now under extreme drought conditions, according to the latest U.S. Drought Monitor analysis. Despite parts of the area receiving over an inch of rain on February 15, the region remains far behind on rainfall for the water year. Gainesville has received just 25% of its usual rainfall since January, while Ocala has received only 18%. Alachua Conservation Trust fire specialist Nathan Bullian warned of a direct correlation between the drought and wildfire incidents, with more than 600 wildfires burning about 16,000 acres statewide from January to February 8. Two water management districts have declared Phase I Moderate Water Shortages, asking residents to voluntarily reduce water use.",
+      "category": "Weather",
+      "locality": "fortwhite",
+      "source": "WUFT News",
+      "sourceUrl": "https://www.wuft.org/weather/2026-02-18/how-drought-conditions-are-impacting-north-central-florida",
+      "date": "2026-02-18",
+      "featured": true
+    },
+    {
       "id": 15,
       "headline": "Lake City Man Arrested on Child Pornography Charges",
       "summary": "Joshua Lee Hoger, 30, of Lake City was arrested Thursday after Columbia County Sheriff's Office detectives found over 20 images and videos of child sexual abuse material on his computer. The investigation began January 26 when the North Florida Internet Crimes Against Children Task Force received a tip from the National Center for Missing and Exploited Children. After tracing the case to a Lake City address and serving search warrants, authorities recovered evidence and issued an arrest warrant. Hoger was booked into the Columbia County Detention Facility on charges of using a two-way communication device to commit a felony and possession of child pornography. The investigation is ongoing and more charges could be filed.",
@@ -9,7 +31,7 @@
       "source": "Action News Jax",
       "sourceUrl": "https://www.yahoo.com/news/articles/lake-city-man-arrested-child-121044031.html",
       "date": "2026-02-16",
-      "featured": true
+      "featured": false
     },
     {
       "id": 14,
@@ -20,7 +42,7 @@
       "source": "News4Jax",
       "sourceUrl": "https://www.news4jax.com/news/local/2026/02/16/extreme-drought-persists-in-northeast-florida-southeast-georgia-despite-sunday-rain-heres-how-to-reduce-wildfire-risk/",
       "date": "2026-02-16",
-      "featured": true
+      "featured": false
     },
     {
       "id": 13,
