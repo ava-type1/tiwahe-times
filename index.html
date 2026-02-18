@@ -538,6 +538,54 @@
 
         .hero-card-source a { color: var(--red); font-weight: 600; }
         
+        /* ===== ON THIS DAY ===== */
+        .on-this-day-card {
+            margin: 20px 0;
+            padding: 20px;
+            background: linear-gradient(135deg, var(--bg-card) 0%, var(--bg-accent) 100%);
+            border: 1px solid var(--red-dark);
+            border-left: 4px solid var(--red);
+            border-radius: var(--radius);
+        }
+        .on-this-day-card .otd-header {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+        .on-this-day-card .otd-icon {
+            font-size: 1.6rem;
+        }
+        .on-this-day-card .otd-title {
+            font-family: var(--font-headline);
+            font-size: 0.85rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: var(--red);
+        }
+        .on-this-day-card .otd-year {
+            font-family: var(--font-accent);
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            background: var(--bg-elevated);
+            padding: 2px 8px;
+            border-radius: 4px;
+            margin-left: auto;
+        }
+        .on-this-day-card .otd-fact {
+            font-family: var(--font-headline);
+            font-size: 1rem;
+            line-height: 1.6;
+            color: var(--text-primary);
+            font-style: italic;
+        }
+        .on-this-day-card .otd-source {
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            margin-top: 8px;
+        }
+
         .county-section {
             margin-top: 24px;
             padding-top: 24px;
@@ -1208,6 +1256,9 @@
         </div>
         <div class="hero-grid" id="hero-stories"></div>
 
+        <!-- On This Day -->
+        <div id="on-this-day"></div>
+
         <!-- Quick Sections Preview -->
         <div style="display:grid;grid-template-columns:1fr;gap:0" id="home-columns">
             <!-- Sports Preview -->
@@ -1443,6 +1494,49 @@
 
         $('alerts-banner').innerHTML = html;
         $('alerts-banner').style.display = 'block';
+    }
+
+    // ===== RENDER ON THIS DAY =====
+    async function renderOnThisDay() {
+        const data = await loadJSON('/data/history.json');
+        if (!data || !data.onThisDay) return;
+        
+        const now = new Date();
+        const month = now.getMonth() + 1;
+        const day = now.getDate();
+        
+        // Find entries matching today's month/day
+        let todayFacts = data.onThisDay.filter(e => e.month === month && e.day === day);
+        
+        // If no exact match, find the closest date (within 3 days) or pick a random historical fact
+        if (todayFacts.length === 0) {
+            // Pick a random historical fact as fallback
+            const historical = data.onThisDay.filter(e => e.category === 'history');
+            if (historical.length > 0) {
+                const idx = (month * 31 + day) % historical.length;
+                todayFacts = [historical[idx]];
+            }
+        }
+        
+        if (todayFacts.length === 0) return;
+        
+        const fact = todayFacts[0];
+        const yearsAgo = new Date().getFullYear() - fact.year;
+        const yearsLabel = yearsAgo > 0 ? `${yearsAgo} years ago` : 'This year';
+        
+        const html = `
+            <div class="on-this-day-card">
+                <div class="otd-header">
+                    <span class="otd-icon">📜</span>
+                    <span class="otd-title">On This Day in Fort White</span>
+                    <span class="otd-year">${fact.year} · ${yearsLabel}</span>
+                </div>
+                <div class="otd-fact">"${fact.fact}"</div>
+                <div class="otd-source">— ${fact.source}</div>
+            </div>
+        `;
+        
+        $('on-this-day').innerHTML = html;
     }
 
     // ===== RENDER WEATHER =====
@@ -1931,6 +2025,7 @@
         await renderAlerts();
         await renderWeather();
         await renderHeroStories();
+        await renderOnThisDay();
         renderNewsPage(1);
         await renderEvents();
         await renderSports();
