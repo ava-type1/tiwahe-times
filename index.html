@@ -134,31 +134,37 @@
 
         .nav-hamburger {
             display: none;
-            background: none;
-            border: none;
-            color: var(--text-primary);
-            font-size: 1.4rem;
-            cursor: pointer;
-            padding: 8px;
         }
 
         @media (max-width: 768px) {
-            .nav-hamburger { display: block; }
-            .nav-links {
-                display: none;
-                position: absolute;
-                top: 48px;
-                left: 0;
-                right: 0;
-                background: var(--bg-card);
-                border-bottom: 2px solid var(--red);
+            .topnav-inner {
                 flex-direction: column;
-                padding: 8px 0;
-                box-shadow: 0 8px 20px rgba(0,0,0,0.5);
+                height: auto;
+                padding: 8px 8px 0;
             }
-            .nav-links.open { display: flex; }
-            .nav-link { padding: 12px 20px; border-bottom: none; }
+            .topnav-brand {
+                padding: 4px 0;
+            }
+            .nav-links {
+                width: 100%;
+                justify-content: center;
+                flex-wrap: wrap;
+                gap: 0;
+                padding-bottom: 2px;
+            }
+            .nav-link {
+                font-size: 0.65rem;
+                padding: 8px 8px;
+                letter-spacing: 0.04em;
+            }
             .nav-link:hover, .nav-link.active { background: var(--red-glow); }
+        }
+        
+        @media (max-width: 380px) {
+            .nav-link {
+                font-size: 0.6rem;
+                padding: 7px 5px;
+            }
         }
 
         /* ===== MASTHEAD ===== */
@@ -523,14 +529,6 @@
             line-height: 1.6;
             color: var(--text-secondary);
             margin-bottom: 10px;
-            display: -webkit-box;
-            -webkit-line-clamp: 3;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-        }
-
-        .hero-card:first-child p {
-            -webkit-line-clamp: 5;
         }
 
         .hero-card-source {
@@ -539,6 +537,15 @@
         }
 
         .hero-card-source a { color: var(--red); font-weight: 600; }
+        
+        .read-full-link, .read-more-link {
+            color: var(--red-bright) !important;
+            font-weight: 700 !important;
+            text-transform: uppercase;
+            font-size: 0.72rem;
+            letter-spacing: 0.04em;
+        }
+        .read-full-link:hover, .read-more-link:hover { color: var(--white) !important; }
 
         /* ===== STORY LIST (full section) ===== */
         .story-list { margin-top: 8px; }
@@ -794,6 +801,39 @@
 
         .sports-result.win { color: #4caf50; }
         .sports-result.loss { color: var(--red); }
+
+        .line-score {
+            margin-top: 8px;
+            overflow-x: auto;
+        }
+        .line-score table {
+            border-collapse: collapse;
+            font-size: 0.72rem;
+            font-family: var(--font-accent);
+            width: auto;
+        }
+        .line-score th, .line-score td {
+            padding: 4px 8px;
+            text-align: center;
+            border: 1px solid var(--border);
+            color: var(--text-secondary);
+        }
+        .line-score th {
+            background: var(--bg-elevated);
+            color: var(--text-muted);
+            font-weight: 700;
+        }
+        .line-score td.team-name {
+            text-align: left;
+            font-weight: 700;
+            color: var(--white);
+            white-space: nowrap;
+        }
+        .line-score td.total {
+            font-weight: 700;
+            color: var(--white);
+            background: var(--bg-elevated);
+        }
 
         /* ===== GOVERNMENT ===== */
         .gov-card {
@@ -1122,7 +1162,6 @@
 <nav class="topnav">
     <div class="topnav-inner">
         <div class="topnav-brand">Tiwahe <span>Times</span></div>
-        <button class="nav-hamburger" onclick="document.querySelector('.nav-links').classList.toggle('open')" aria-label="Menu">☰</button>
         <div class="nav-links">
             <a class="nav-link active" data-page="home">Home</a>
             <a class="nav-link" data-page="news">News</a>
@@ -1454,8 +1493,9 @@
                     <div class="hero-card-inner">
                         <div class="hero-card-category">${story.category}</div>
                         <h3>${story.headline}</h3>
-                        <p>${i === 0 ? truncate(story.summary, 350) : truncate(story.summary, 180)}</p>
+                        <p>${i === 0 ? story.summary : truncate(story.summary, 250)}</p>
                         <div class="hero-card-source">
+                            ${url ? `<a href="${url}" target="_blank" rel="noopener" onclick="event.stopPropagation()" class="read-full-link">Read Full Article →</a> · ` : ''}
                             <a href="${story.sourceUrl}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${story.source}</a>
                             · ${story.date}
                         </div>
@@ -1586,17 +1626,47 @@
         
         let html = `<div class="sports-motto">"${data.motto}"</div>`;
         
+        // Season record
+        if (data.record) {
+            html += `<div style="text-align:center;margin:12px 0 16px;font-size:0.85rem;color:var(--text-secondary)">
+                <strong style="color:var(--white);font-size:1.1rem">${data.record}</strong> Overall 
+                ${data.districtRecord ? ` · <strong style="color:var(--red)">${data.districtRecord}</strong>` : ''}
+                ${data.maxPrepsUrl ? ` · <a href="${data.maxPrepsUrl}" target="_blank" rel="noopener" style="color:var(--red-bright)">Full Stats on MaxPreps →</a>` : ''}
+            </div>`;
+        }
+        
         // Recent results
         if (data.recentResults && data.recentResults.length) {
             html += '<div class="sports-subsection"><h3>📊 Recent Results</h3>';
             data.recentResults.forEach(r => {
                 const cls = r.won ? 'win' : 'loss';
+                let lineScoreHtml = '';
+                if (r.lineScore) {
+                    const ls = r.lineScore;
+                    const inningCount = Math.max(ls.away.innings.length, ls.home.innings.length);
+                    let headers = '<th></th>';
+                    for (let i = 1; i <= inningCount; i++) headers += `<th>${i}</th>`;
+                    headers += '<th>R</th><th>H</th><th>E</th>';
+                    lineScoreHtml = `
+                        <div class="line-score">
+                            <table>
+                                <thead><tr>${headers}</tr></thead>
+                                <tbody>
+                                    <tr><td class="team-name">${ls.away.team}</td>${ls.away.innings.map(i => `<td>${i}</td>`).join('')}<td class="total">${ls.away.R}</td><td class="total">${ls.away.H}</td><td class="total">${ls.away.E}</td></tr>
+                                    <tr><td class="team-name">${ls.home.team}</td>${ls.home.innings.map(i => `<td>${i}</td>`).join('')}<td class="total">${ls.home.R}</td><td class="total">${ls.home.H}</td><td class="total">${ls.home.E}</td></tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    `;
+                }
                 html += `
                     <div class="sports-item">
                         <div class="sports-detail">
                             <div class="sports-sport-tag">⚾ ${r.sport}</div>
                             <div class="sports-event-name">${r.event}</div>
                             <div class="sports-meta">${r.date} · ${r.notes}</div>
+                            ${lineScoreHtml}
+                            ${r.maxPrepsUrl ? `<a href="${r.maxPrepsUrl}" target="_blank" rel="noopener" class="read-more-link" style="display:inline-block;margin-top:6px;font-size:0.75rem">Full Box Score on MaxPreps →</a>` : ''}
                         </div>
                         <div class="sports-result ${cls}">${r.result}</div>
                     </div>

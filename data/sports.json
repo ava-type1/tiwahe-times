@@ -3,17 +3,10 @@
   "mascot": "Indians",
   "motto": "Believe in the TR1BE! #TIWAHE",
   "season": "Spring 2025-26",
+  "maxPrepsUrl": "https://www.maxpreps.com/fl/fort-white/fort-white-indians/baseball/",
+  "record": "0-4",
+  "districtRecord": "0-2 (Rural District 6)",
   "upcoming": [
-    {
-      "sport": "Baseball",
-      "event": "TONIGHT: vs Lafayette (District)",
-      "date": "2026-02-17",
-      "displayDate": "Tue, Feb 17 — TONIGHT",
-      "time": "7:00 PM",
-      "location": "Fort White",
-      "opponent": "Lafayette Hornets",
-      "notes": "District game. The Indians (0-3) host Lafayette looking for their first win of the season."
-    },
     {
       "sport": "Baseball",
       "event": "@ Bell",
@@ -48,11 +41,25 @@
   "recentResults": [
     {
       "sport": "Baseball",
+      "event": "vs Lafayette (District)",
+      "date": "2026-02-17",
+      "result": "Loss, 2-16",
+      "won": false,
+      "notes": "Lafayette jumped out to a 3-0 lead in the 2nd and never looked back, putting up 9 runs in the 4th to blow the game open. Fort White scored 1 in the 1st and 1 in the 4th. Game called after 5 innings (mercy rule).",
+      "lineScore": {
+        "away": { "team": "Lafayette", "innings": [0, 3, 3, 9, 1], "R": 16, "H": 9, "E": 1 },
+        "home": { "team": "Fort White", "innings": [1, 0, 0, 1, 0], "R": 2, "H": 3, "E": 3 }
+      },
+      "maxPrepsUrl": "https://www.maxpreps.com/games/2-17-2026/baseball-26/fort-white-vs-lafayette.htm?c=ekjg4OjLIEmsVxMe8cdykQ"
+    },
+    {
+      "sport": "Baseball",
       "event": "@ Saint Francis Catholic Academy",
       "date": "2026-02-16",
       "result": "Loss, 5-7",
       "won": false,
-      "notes": "Fort White fell 5-7 to SFCA in Gainesville. Per MaxPreps."
+      "notes": "Fort White fell 5-7 to SFCA in Gainesville. The closest game of the season so far for the Indians.",
+      "maxPrepsUrl": "https://www.maxpreps.com/games/02-16-2026/baseball-26/fort-white-vs-saint-francis-catholic-academy.htm?c=NhGR4IcBZkOPVxWWp09Aug"
     },
     {
       "sport": "Baseball",
@@ -60,7 +67,8 @@
       "date": "2026-02-12",
       "result": "Loss, 2-8",
       "won": false,
-      "notes": "Fort White lost 2-8 on the road at Chiefland. Per MaxPreps."
+      "notes": "Fort White lost 2-8 on the road at Chiefland.",
+      "maxPrepsUrl": "https://www.maxpreps.com/games/02-12-2026/baseball-26/chiefland-vs-fort-white.htm?c=M73R9SadBkCReuQ-QV7qkw"
     },
     {
       "sport": "Baseball",
@@ -68,7 +76,8 @@
       "date": "2026-02-10",
       "result": "Loss, 1-9",
       "won": false,
-      "notes": "Fort White fell to Taylor County 1-9 in the season and district opener."
+      "notes": "Fort White fell to Taylor County 1-9 in the season and district opener.",
+      "maxPrepsUrl": "https://www.maxpreps.com/games/02-10-2026/baseball-26/fort-white-vs-taylor-county.htm?c=XRVKohzZpUKjwnbm6bTq0Q"
     }
   ]
 }
