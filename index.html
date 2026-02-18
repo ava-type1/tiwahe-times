@@ -538,6 +538,12 @@
 
         .hero-card-source a { color: var(--red); font-weight: 600; }
         
+        .county-section {
+            margin-top: 24px;
+            padding-top: 24px;
+            border-top: 2px solid var(--red-dark);
+        }
+
         .read-full-link, .read-more-link {
             color: var(--red-bright) !important;
             font-weight: 700 !important;
@@ -1218,10 +1224,11 @@
     <div class="page" id="page-news">
         <div class="section-header">
             <span class="section-icon">📰</span>
-            <h2>Local News</h2>
+            <h2>Fort White & Area News</h2>
         </div>
         <div id="news-stories" class="story-list"></div>
         <div id="news-pagination" class="pagination"></div>
+        <div id="news-county"></div>
     </div>
 
     <!-- ========== SPORTS PAGE ========== -->
@@ -1297,6 +1304,8 @@
     const STORIES_PER_PAGE = 5;
     
     let allStories = [];
+    let allFWStories = [];
+    let allCountyStories = [];
     let currentNewsPage = 1;
 
     function formatDate(d) {
@@ -1483,7 +1492,10 @@
         if (!data) return;
         
         allStories = data.stories.sort((a, b) => new Date(b.date) - new Date(a.date));
-        const top5 = allStories.slice(0, 5);
+        // Separate Fort White stories from county/Lake City stories
+        allFWStories = allStories.filter(s => s.locality !== 'county');
+        allCountyStories = allStories.filter(s => s.locality === 'county');
+        const top5 = allFWStories.slice(0, 5);
         
         let html = '';
         top5.forEach((story, i) => {
@@ -1507,29 +1519,31 @@
         $('hero-stories').innerHTML = html;
     }
 
-    // ===== RENDER NEWS PAGE (with pagination) =====
+    // ===== RENDER NEWS PAGE (with pagination + locality split) =====
+    function renderStoryItem(story) {
+        const url = story.sourceUrl && story.sourceUrl !== '#' ? story.sourceUrl : null;
+        return `
+            <article class="story-item">
+                <div class="story-item-category">${story.category}</div>
+                <h3>${url ? `<a href="${url}" target="_blank" rel="noopener">${story.headline}</a>` : story.headline}</h3>
+                <p>${story.summary}</p>
+                <div class="story-item-meta">
+                    <span>${story.date}</span>
+                    <a href="${story.sourceUrl}" target="_blank" rel="noopener">${story.source}</a>
+                    ${url ? `<a href="${url}" target="_blank" rel="noopener" class="read-more-link">Read Full Article →</a>` : ''}
+                </div>
+            </article>
+        `;
+    }
+
     function renderNewsPage(page) {
         currentNewsPage = page;
-        const totalPages = Math.ceil(allStories.length / STORIES_PER_PAGE);
+        const totalPages = Math.ceil(allFWStories.length / STORIES_PER_PAGE);
         const start = (page - 1) * STORIES_PER_PAGE;
-        const pageStories = allStories.slice(start, start + STORIES_PER_PAGE);
+        const pageStories = allFWStories.slice(start, start + STORIES_PER_PAGE);
         
         let html = '';
-        pageStories.forEach(story => {
-            const url = story.sourceUrl && story.sourceUrl !== '#' ? story.sourceUrl : null;
-            html += `
-                <article class="story-item">
-                    <div class="story-item-category">${story.category}</div>
-                    <h3>${url ? `<a href="${url}" target="_blank" rel="noopener">${story.headline}</a>` : story.headline}</h3>
-                    <p>${story.summary}</p>
-                    <div class="story-item-meta">
-                        <span>${story.date}</span>
-                        <a href="${story.sourceUrl}" target="_blank" rel="noopener">${story.source}</a>
-                        ${url ? `<a href="${url}" target="_blank" rel="noopener" class="read-more-link">Read Full Article →</a>` : ''}
-                    </div>
-                </article>
-            `;
-        });
+        pageStories.forEach(story => { html += renderStoryItem(story); });
         
         $('news-stories').innerHTML = html;
 
@@ -1541,6 +1555,21 @@
         }
         pagHtml += `<button ${page >= totalPages ? 'disabled' : ''} onclick="window._ttNav(${page+1})">Next →</button>`;
         $('news-pagination').innerHTML = pagHtml;
+
+        // County/Lake City section
+        if (allCountyStories.length > 0) {
+            let countyHtml = `
+                <div class="county-section">
+                    <div class="section-header" style="margin-top:32px">
+                        <span class="section-icon">🏛️</span>
+                        <h2>Columbia County & Lake City</h2>
+                    </div>
+                    <p style="font-size:0.8rem;color:var(--text-muted);margin-bottom:12px">News from across Columbia County</p>
+                `;
+            allCountyStories.forEach(story => { countyHtml += renderStoryItem(story); });
+            countyHtml += '</div>';
+            $('news-county').innerHTML = countyHtml;
+        }
     }
 
     window._ttNav = function(page) {
