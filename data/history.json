@@ -9,43 +9,11 @@
       "category": "weather"
     },
     {
-      "month": 2,
-      "day": 5,
-      "year": 2026,
-      "fact": "Columbia County commissioners held an emergency meeting to approve a county-wide burn ban at the request of the Florida Forest Service, amid the worst drought conditions in 25 years.",
-      "source": "WCJB TV20",
-      "category": "government"
-    },
-    {
-      "month": 2,
-      "day": 15,
-      "year": 1864,
-      "fact": "The Battle of Olustee was fought near present-day Olustee, east of Lake City on US-90 — the largest Civil War engagement in Florida. Nearly 10,000 troops clashed, including three U.S. Colored Regiments. The 54th Massachusetts, later immortalized in the film 'Glory,' fought at Olustee.",
-      "source": "National Park Service / Florida State Parks",
-      "category": "history"
-    },
-    {
-      "month": 2,
-      "day": 18,
-      "year": 1888,
-      "fact": "The railroad arrived in Fort White in 1888, sparking a boom in phosphate mining, turpentine production, and agriculture that grew the town's population to nearly 2,000. Fort White briefly became the second largest city in Columbia County.",
-      "source": "Fort White Historical Marker",
-      "category": "history"
-    },
-    {
-      "month": 6,
-      "day": 26,
-      "year": 1842,
-      "fact": "The original Fort White military fort, built in 1836 during the Second Seminole War to protect the Cow Creek settlement, was abandoned on this day due to illness among the troops. No remains of the fort are visible today.",
-      "source": "Town of Fort White Official History",
-      "category": "history"
-    },
-    {
-      "month": 7,
-      "day": 4,
-      "year": 1884,
-      "fact": "The Town of Fort White was officially incorporated as a municipality in 1884, named after the military fort that had been built nearby nearly 50 years earlier during the Second Seminole War.",
-      "source": "Wikipedia / Fort White Official History",
+      "month": 1,
+      "day": 12,
+      "year": 1970,
+      "fact": "The State of Florida purchased 2,241 acres of Ichetucknee spring and river property from the Loncala Phosphate Corporation for $1.85 million, creating what would become Ichetucknee Springs State Park — transforming Fort White's identity and economy forever.",
+      "source": "Beloved Blue River Historical Timeline / Florida State Parks",
       "category": "history"
     },
     {
@@ -57,6 +25,70 @@
       "category": "history"
     },
     {
+      "month": 1,
+      "day": 15,
+      "year": 1859,
+      "fact": "Florida Governor signed the bill renaming the town of 'Alligator' to 'Lake City' on the last day of the 1859 legislative session. According to local legend, the mayor's wife refused to hang her lace curtains in a town named Alligator.",
+      "source": "Viva Florida 500 / Wikipedia - Lake City, Florida",
+      "category": "history"
+    },
+    {
+      "month": 2,
+      "day": 4,
+      "year": 1832,
+      "fact": "Columbia County was officially formed from parts of Duval and Alachua counties, with the Seminole village of Alligator Town (now Lake City) designated as the county seat. The county was named after Columbia, the female personification of the United States.",
+      "source": "Wikipedia - Columbia County, Florida",
+      "category": "government"
+    },
+    {
+      "month": 2,
+      "day": 5,
+      "year": 2026,
+      "fact": "Columbia County commissioners held an emergency meeting to approve a county-wide burn ban at the request of the Florida Forest Service, amid the worst drought conditions in 25 years.",
+      "source": "WCJB TV20",
+      "category": "government"
+    },
+    {
+      "month": 2,
+      "day": 9,
+      "year": 1895,
+      "fact": "The second devastating freeze of the Great Freeze of 1894-95 struck Florida, destroying citrus groves across the state. In Fort White and Columbia County, the freeze wiped out the booming orange industry that had helped grow the town to nearly 2,000 people.",
+      "source": "Wikipedia - Great Freeze / NWS WFO Miami History",
+      "category": "weather"
+    },
+    {
+      "month": 2,
+      "day": 11,
+      "year": 1864,
+      "fact": "Confederate General Joseph Finnegan's troops defeated a Union cavalry raid in Lake City, repulsing the federal advance. Finnegan then moved his forces east to Olustee Station to prepare for the larger Union force marching from Jacksonville.",
+      "source": "Wikipedia - Columbia County, Florida / battleofolustee.org",
+      "category": "history"
+    },
+    {
+      "month": 2,
+      "day": 18,
+      "year": 1888,
+      "fact": "The railroad arrived in Fort White in 1888, sparking a boom in phosphate mining, turpentine production, and agriculture that grew the town's population to nearly 2,000. Fort White briefly became the second largest city in Columbia County.",
+      "source": "Fort White Historical Marker",
+      "category": "history"
+    },
+    {
+      "month": 2,
+      "day": 20,
+      "year": 1864,
+      "fact": "The Battle of Olustee was fought near Olustee Station in Baker County — the largest Civil War engagement in Florida. Nearly 10,500 troops clashed, with Union forces suffering 1,861 casualties and Confederates 949. Three U.S. Colored Regiments fought, including the 54th Massachusetts, later immortalized in the film 'Glory.'",
+      "source": "Wikipedia - Battle of Olustee / National Park Service",
+      "category": "history"
+    },
+    {
+      "month": 2,
+      "day": 22,
+      "year": 1864,
+      "fact": "Two days after the Battle of Olustee, soldiers of the 54th Massachusetts Infantry manually pulled a broken-down train carrying wounded Union soldiers approximately 10 miles from Ten-Mile Station to Jacksonville — a 42-hour ordeal that saved the wounded from Confederate capture.",
+      "source": "Wikipedia - Battle of Olustee",
+      "category": "history"
+    },
+    {
       "month": 3,
       "day": 1,
       "year": 1910,
@@ -65,51 +97,11 @@
       "category": "history"
     },
     {
-      "month": 8,
-      "day": 1,
-      "year": 1970,
-      "fact": "The State of Florida purchased 2,241 acres of Ichetucknee spring and river property from the Loncala Phosphate Corporation in 1970. The property became Ichetucknee Springs State Park, transforming the area's identity and economy.",
-      "source": "Wikipedia",
-      "category": "history"
-    },
-    {
-      "month": 5,
-      "day": 1,
-      "year": 1972,
-      "fact": "The head spring of the Ichetucknee River was declared a National Natural Landmark by the U.S. Department of the Interior in 1972. The spring pumps 233 million gallons of crystal-clear water daily at a constant 72°F.",
-      "source": "U.S. Department of the Interior",
-      "category": "history"
-    },
-    {
-      "month": 9,
-      "day": 1,
-      "year": 1915,
-      "fact": "Fort White High School was built in 1915. The auditorium was added in 1936, and the last graduating class from the original school was in 1969. The historic school building is now part of the Fort White Public School Historic District.",
-      "source": "Clio / Historical Marker Database",
-      "category": "history"
-    },
-    {
-      "month": 12,
-      "day": 1,
-      "year": 1896,
-      "fact": "Severe freezes in the winters of 1896 and 1897 destroyed Fort White's citrus industry, ending the boom that had made the town the second largest city in Columbia County. The population never fully recovered.",
-      "source": "Fort White Historical Marker",
-      "category": "history"
-    },
-    {
-      "month": 11,
-      "day": 1,
-      "year": 1997,
-      "fact": "The area of the original Fort White military fort, 4 miles west of town on the Santa Fe River, became the Fort White Wildlife and Environmental Area in 1997 — preserving the site where the town's story began.",
-      "source": "Wikipedia",
-      "category": "history"
-    },
-    {
-      "month": 10,
-      "day": 1,
-      "year": 1837,
-      "fact": "During the Second Seminole War, Seminole leader Halpatter Tustenuggee (Alligator Warrior), chief of what is now Lake City (then called 'Alligator Town'), led resistance in the region around Fort White. He is buried at Tustenuggee Methodist Cemetery near Fort White.",
-      "source": "Wikipedia",
+      "month": 3,
+      "day": 28,
+      "year": 1833,
+      "fact": "Seven Seminole chiefs signed the Treaty of Fort Gibson after touring Indian Territory in Oklahoma. Upon return to Florida, most chiefs renounced the treaty, claiming they were forced to sign — setting the stage for the Second Seminole War that would lead to the construction of Fort White.",
+      "source": "Wikipedia - Second Seminole War",
       "category": "history"
     },
     {
@@ -117,7 +109,303 @@
       "day": 1,
       "year": 1870,
       "fact": "Fort White was officially founded in 1870 as a settlement, moving 4 miles east from the original fort site on the Santa Fe River due to flooding and the anticipated arrival of the railroad.",
-      "source": "Fort White Historical Marker",
+      "source": "Fort White Historical Marker / Clio",
+      "category": "history"
+    },
+    {
+      "month": 4,
+      "day": 1,
+      "year": 1837,
+      "fact": "Army surgeon Jacob Motte described the Ichetucknee as a 'terrestrial paradise' during the Second Seminole War, writing of its 'translucent and placid spring' where 'the tiniest object at the bottom' could be seen — one of the earliest written descriptions of the springs.",
+      "source": "Beloved Blue River Historical Timeline / Jacob Motte account",
+      "category": "nature"
+    },
+    {
+      "month": 4,
+      "day": 1,
+      "year": 1859,
+      "fact": "President James Buchanan granted Charles E. Washington Collins 320 acres in the Ichetucknee River basin, likely in recognition of his service in the Seminole War. Collins operated a general store, blacksmith shop, and gristmill at what is now Mill Pond Spring.",
+      "source": "Beloved Blue River Historical Timeline",
+      "category": "history"
+    },
+    {
+      "month": 5,
+      "day": 1,
+      "year": 1608,
+      "fact": "Franciscan friar Martín Prieto arrived at the chief town of the Timucua province and established Mission San Martín de Timucua at what is now Fig Springs on the Ichetucknee River — one of the earliest Spanish missions in interior Florida, serving the Northern Utina people.",
+      "source": "Wikipedia - Fig Springs Mission Site / Florida State Parks",
+      "category": "history"
+    },
+    {
+      "month": 5,
+      "day": 15,
+      "year": 1855,
+      "fact": "President Franklin Pierce granted Charles E. Washington Collins approximately 160 acres in the Ichetucknee River basin — one of the earliest American land grants in the Fort White area, likely given for service in the Seminole Wars.",
+      "source": "Beloved Blue River Historical Timeline",
+      "category": "history"
+    },
+    {
+      "month": 5,
+      "day": 21,
+      "year": 1911,
+      "fact": "Six Black men were taken from the Columbia County jail in Lake City by a white mob posing as officials and shot to death outside of town — one of the worst mass lynchings in Florida history. Columbia County saw 20 lynchings of African Americans between 1877 and 1950, tied for second-highest in the state.",
+      "source": "Wikipedia - Columbia County, Florida / Orlando Sentinel",
+      "category": "history"
+    },
+    {
+      "month": 6,
+      "day": 26,
+      "year": 1842,
+      "fact": "The original Fort White military fort, built in 1836 during the Second Seminole War to protect the Cow Creek settlement, was abandoned on this day due to illness among the troops. No remains of the fort are visible today.",
+      "source": "Town of Fort White Official History / FWC",
+      "category": "history"
+    },
+    {
+      "month": 7,
+      "day": 4,
+      "year": 1884,
+      "fact": "The Town of Fort White was officially incorporated as a municipality in 1884, named after the military fort that had been built nearby nearly 50 years earlier during the Second Seminole War.",
+      "source": "Wikipedia / Fort White Official History",
+      "category": "history"
+    },
+    {
+      "month": 7,
+      "day": 4,
+      "year": 1884,
+      "fact": "Florida Agricultural College was established at Lake City in 1884 as the state's first land-grant college under the Morrill Act. It would later become part of the University of Florida when the Buckman Act of 1905 consolidated state institutions and moved them to Gainesville.",
+      "source": "Wikipedia - History of the University of Florida / UF IFAS",
+      "category": "history"
+    },
+    {
+      "month": 8,
+      "day": 1,
+      "year": 2000,
+      "fact": "Fort White High School reopened in August 2000 in temporary buildings after more than 30 years without a local high school. The $25 million school served grades 6-12 and graduated its first class in 2001 — the first Fort White graduating class since 1969.",
+      "source": "Wikipedia - Fort White, Florida / Fort White High School",
+      "category": "community"
+    },
+    {
+      "month": 8,
+      "day": 12,
+      "year": 1970,
+      "fact": "The Olustee Battlefield was added to the U.S. National Register of Historic Places, formally recognizing the site of Florida's largest Civil War battle. The state park, one of the first in Florida's park system, preserves 688 acres of the original battlefield.",
+      "source": "Wikipedia - Olustee Battlefield Historic State Park / National Register",
+      "category": "history"
+    },
+    {
+      "month": 8,
+      "day": 14,
+      "year": 1842,
+      "fact": "Colonel William Jenkins Worth declared the Second Seminole War officially over — the longest and costliest of America's Indian conflicts. By war's end, about 4,000 Seminoles had been forcibly removed to Indian Territory, while roughly 575 remained in Florida. No peace treaty was ever signed.",
+      "source": "Wikipedia - Second Seminole War",
+      "category": "history"
+    },
+    {
+      "month": 9,
+      "day": 1,
+      "year": 1915,
+      "fact": "Fort White High School was built in 1915 in masonry vernacular style with an Italianate tower. The auditorium was added in 1936, and separate elementary classrooms in 1938. The last graduating class from the original school was in 1969.",
+      "source": "Wikipedia - Fort White Public School Historic District",
+      "category": "community"
+    },
+    {
+      "month": 9,
+      "day": 10,
+      "year": 1964,
+      "fact": "Hurricane Dora made landfall near St. Augustine as the first hurricane on record to strike Florida's northeast coast, with sustained winds of 120 mph. Columbia County reported minor damage to 30 homes, but the storm caused $200 million in damage statewide and five deaths.",
+      "source": "Wikipedia - Hurricane Dora / Florida Historical Society",
+      "category": "weather"
+    },
+    {
+      "month": 9,
+      "day": 18,
+      "year": 1823,
+      "fact": "The Treaty of Moultrie Creek was signed between the U.S. government and Seminole chiefs, establishing a reservation in central Florida and requiring Native Americans to give up their coastal lands — including areas near present-day Fort White. The treaty's failure set the stage for the Second Seminole War.",
+      "source": "Wikipedia - Treaty of Moultrie Creek",
+      "category": "history"
+    },
+    {
+      "month": 10,
+      "day": 6,
+      "year": 1971,
+      "fact": "Ichetucknee Springs was designated a National Natural Landmark by the U.S. Department of the Interior, recognizing the crystal-clear spring that pumps over 200 million gallons of 72°F water daily as a nationally significant natural feature.",
+      "source": "National Park Service - 1971 NNL Designations",
+      "category": "nature"
+    },
+    {
+      "month": 10,
+      "day": 15,
+      "year": 1878,
+      "fact": "The Postmaster General of the United States appointed William H.C. Collins as postmaster at 'Ichatucknee' — establishing a post office at Mill Pond Spring on the Ichetucknee River, one of the earliest official federal designations in the area.",
+      "source": "Beloved Blue River Historical Timeline",
+      "category": "community"
+    },
+    {
+      "month": 10,
+      "day": 23,
+      "year": 1912,
+      "fact": "The Olustee Battlefield monument was officially dedicated, with surviving Civil War veterans in attendance. The monument, funded by the United Daughters of the Confederacy and a $2,500 appropriation from the Florida Legislature, made the battlefield Florida's first historic site.",
+      "source": "Wikipedia - Olustee Battlefield Historic State Park / battleofolustee.org",
+      "category": "history"
+    },
+    {
+      "month": 11,
+      "day": 1,
+      "year": 1997,
+      "fact": "The area of the original Fort White military fort, 4 miles west of town on the Santa Fe River, became the Fort White Wildlife and Environmental Area — preserving the site where the town's story began. Florida purchased 1,208 acres from the Elizabeth Tudeen estate to protect gopher tortoise habitat.",
+      "source": "Wikipedia - Fort White, Florida / FWC Fort White WEA History",
+      "category": "nature"
+    },
+    {
+      "month": 11,
+      "day": 1,
+      "year": 1858,
+      "fact": "A railroad connecting Jacksonville to Alligator Town (now Lake City) was completed in November 1858, opening Columbia County's seat to greater commerce and passenger traffic. This rail connection would later extend south, reaching Fort White by 1888.",
+      "source": "Wikipedia - Lake City, Florida",
+      "category": "history"
+    },
+    {
+      "month": 12,
+      "day": 1,
+      "year": 1896,
+      "fact": "Severe freezes in the winters of 1896 and 1897 destroyed Fort White's citrus industry, ending the boom that had made the town the second largest city in Columbia County. The population never fully recovered.",
+      "source": "Fort White Historical Marker / Town of Fort White Official History",
+      "category": "weather"
+    },
+    {
+      "month": 12,
+      "day": 1,
+      "year": 1989,
+      "fact": "The Fort White Public School Historic District was added to the U.S. National Register of Historic Places, recognizing the 1915 school building, 1936 auditorium, and 1938 elementary classrooms as historically significant structures in Columbia County.",
+      "source": "National Register of Historic Places / Wikipedia - Fort White Public School Historic District",
+      "category": "community"
+    },
+    {
+      "month": 12,
+      "day": 25,
+      "year": 1837,
+      "fact": "Seminole leader Halpatter Tustenuggee (Alligator Warrior) — chief of what is now Lake City — fought at the Battle of Okeechobee alongside Coacoochee and Abiaka against Colonel Zachary Taylor's forces. The battle was the largest engagement of the Second Seminole War, and Halpatter was described as 'the most prominent chief' at the fight.",
+      "source": "Wikipedia - Halpatter Tustenuggee / Battle of Okeechobee",
+      "category": "history"
+    },
+    {
+      "month": 12,
+      "day": 28,
+      "year": 1835,
+      "fact": "The Dade Battle (Dade Massacre) ignited the Second Seminole War when 180 Seminole warriors, including Halpatter Tustenuggee of Alligator Town (now Lake City), ambushed and killed 108 of 110 U.S. soldiers marching through Central Florida. This war would lead directly to the construction of Fort White.",
+      "source": "Wikipedia - Dade Battle / Halpatter Tustenuggee",
+      "category": "history"
+    },
+    {
+      "month": 12,
+      "day": 28,
+      "year": 1894,
+      "fact": "The first freeze of the Great Freeze hit Florida, with Orlando recording an all-time low of 18°F. While it did not kill all mature citrus trees, it set the stage for devastating new growth — and when the second, harder freeze came in February 1895, Fort White's orange groves were destroyed.",
+      "source": "Wikipedia - Great Freeze",
+      "category": "weather"
+    },
+    {
+      "month": 3,
+      "day": 15,
+      "year": 1824,
+      "fact": "The Bellamy Road, the first federally funded road in Florida, was constructed through what is now the Ichetucknee Springs area, passing through the present-day north entrance parking lot. The road was built to follow 'the old Indian trails as closely as possible.'",
+      "source": "Beloved Blue River Historical Timeline",
+      "category": "history"
+    },
+    {
+      "month": 6,
+      "day": 1,
+      "year": 1891,
+      "fact": "Lake City became the first city in Florida to have electric lights from a local power and light company — a milestone for Columbia County and a sign of the prosperity that railroads and industry had brought to the region.",
+      "source": "Wikipedia - Lake City, Florida / Viva Florida 500",
+      "category": "history"
+    },
+    {
+      "month": 7,
+      "day": 13,
+      "year": 1949,
+      "fact": "Archaeologist John Goggin stopped at a spring run during a canoe trip down the Ichetucknee River with his students and found 'lots of Spanish pottery' — the first significant archaeological discovery at what would later be confirmed as the site of Mission San Martín de Timucua, a 17th-century Spanish mission.",
+      "source": "Beloved Blue River Historical Timeline",
+      "category": "history"
+    },
+    {
+      "month": 5,
+      "day": 1,
+      "year": 2005,
+      "fact": "The Fort White Sports Complex was constructed on 25 acres next to the high school, featuring six baseball fields, two basketball courts, and two tennis courts. A community center was added to the site in 2008, hosting a senior citizen meal program on weekdays.",
+      "source": "Wikipedia - Fort White, Florida",
+      "category": "community"
+    },
+    {
+      "month": 1,
+      "day": 13,
+      "year": 1864,
+      "fact": "President Abraham Lincoln wrote to Major General Quincy Gillmore at Hilton Head, South Carolina, asking him to take steps to 'reconstruct a loyal State government in Florida' — setting in motion the military expedition that would lead to the Battle of Olustee in Columbia County's backyard.",
+      "source": "Wikipedia - Battle of Olustee",
+      "category": "history"
+    },
+    {
+      "month": 11,
+      "day": 1,
+      "year": 1874,
+      "fact": "Lake City's first newspaper, the Lake City Reporter, was published in 1874, bringing local journalism to Columbia County for the first time. That same year, Charles H. Thompson, an African American minister, represented Columbia County in the Florida House of Representatives.",
+      "source": "Wikipedia - Columbia County, Florida / Lake City, Florida",
+      "category": "community"
+    },
+    {
+      "month": 4,
+      "day": 1,
+      "year": 1835,
+      "fact": "Seminole Indian Agent Wiley Thompson tried to remove Halpatter Tustenuggee (Alligator Warrior) and other chiefs from their positions after they refused to agree to leave Florida under the Indian Removal Act of 1830. Their resistance would spark the Second Seminole War and the construction of Fort White.",
+      "source": "Wikipedia - Halpatter Tustenuggee / Second Seminole War",
+      "category": "history"
+    },
+    {
+      "month": 6,
+      "day": 1,
+      "year": 1656,
+      "fact": "The Timucua Revolt was centered at Mission San Martín de Timucua on the Ichetucknee River — the same site near present-day Ichetucknee Springs State Park. Native Americans rose up against Spanish colonial authority in one of the earliest recorded acts of resistance in the Fort White area.",
+      "source": "Beloved Blue River Historical Timeline / Wikipedia - Fig Springs Mission Site",
+      "category": "history"
+    },
+    {
+      "month": 8,
+      "day": 1,
+      "year": 1984,
+      "fact": "The State of Florida designated the Ichetucknee River an Outstanding Florida Water, providing legal protection against further degradation of the crystal-clear spring-fed river that defines Fort White's identity.",
+      "source": "Beloved Blue River Historical Timeline",
+      "category": "nature"
+    },
+    {
+      "month": 10,
+      "day": 1,
+      "year": 1841,
+      "fact": "Seminole leader Halpatter Tustenuggee (Chief Alligator) surrendered at Fort Brooke in October 1841 after years of fierce resistance during the Second Seminole War. Described as 'the most daring and resolute chief,' he was later brought back to Florida to help negotiate the surrender of remaining bands.",
+      "source": "Wikipedia - Halpatter Tustenuggee / Sprague, 1848",
+      "category": "history"
+    },
+    {
+      "month": 9,
+      "day": 1,
+      "year": 2003,
+      "fact": "Fort White High School and Ichetucknee Springs State Park formed a PARKnership to create an outdoor and service-learning laboratory, giving students in grades 6-12 a place-based educational experience using the Ichetucknee River Basin as their classroom.",
+      "source": "Beloved Blue River Historical Timeline",
+      "category": "community"
+    },
+    {
+      "month": 3,
+      "day": 1,
+      "year": 1890,
+      "fact": "The Dutton Phosphate Company began mining a large tract at the north end of the Ichetucknee River around 1890, marking the beginning of the phosphate era that would transform Fort White's economy. Early mining used mules and wheelbarrows before steam-powered equipment arrived.",
+      "source": "Beloved Blue River Historical Timeline / Florida State Parks History",
+      "category": "history"
+    },
+    {
+      "month": 7,
+      "day": 1,
+      "year": 1920,
+      "fact": "The Loncala Phosphate Company (a contraction of 'London' and 'Ocala') took over the Dutton Phosphate Company's mining operations near the Ichetucknee River, controlling the land surrounding the springs for the next 50 years until selling to the State of Florida in 1970.",
+      "source": "Beloved Blue River Historical Timeline / Ichetucknee Springs State Park Wikipedia",
       "category": "history"
     }
   ]
