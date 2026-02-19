@@ -1,6 +1,28 @@
 {
   "stories": [
     {
+      "id": 19,
+      "headline": "Columbia County Commission to Vote on TD Bank Building Purchase for Tax Collector's Office",
+      "summary": "The Columbia County Board of Commissioners is set to vote Thursday night on whether to complete the purchase of the old TD Bank building in downtown Lake City to house the growing Tax Collector's Office. According to the Lake City Reporter, an inspection of the building showed no major structural issues. The commission meets at 6:00 PM at the School Board Administrative Complex Auditorium.",
+      "category": "Government",
+      "locality": "county",
+      "source": "Lake City Reporter",
+      "sourceUrl": "https://www.lakecityreporter.com/local/county-decide-td-bank-purchase",
+      "date": "2026-02-19",
+      "featured": false
+    },
+    {
+      "id": 18,
+      "headline": "New Olustee Battlefield Museum Breaks Ground at State Park",
+      "summary": "A new museum at Olustee Battlefield Historic State Park broke ground during last weekend's 49th Annual Battle of Olustee Re-enactment festivities. State Rep. Chuck Brannan attended the groundbreaking ceremony alongside a rendering of the planned facility. The museum will feature indoor and outdoor exhibits interpreting Florida's Civil War history and the events leading to the 1864 Battle of Olustee, the largest Civil War engagement fought in Florida. The state park is located on US-90, about 13 miles east of Lake City.",
+      "category": "Community",
+      "locality": "fortwhite",
+      "source": "Lake City Reporter / Florida Rambler",
+      "sourceUrl": "https://www.lakecityreporter.com/local-newsletter/breaking-ground-olustee-new-museum-coming-state-park",
+      "date": "2026-02-15",
+      "featured": true
+    },
+    {
       "id": 17,
       "headline": "Fort White Council Finds No Support to Dissolve Town; Ordinance Reading Set for Monday",
       "summary": "Fort White council members and residents rejected the idea of dissolving the town into Columbia County at a packed special meeting Tuesday night at the Fort White Community Center. Both the public and council members voiced opposition to dissolution. Mayor George Thomas, who was the lone vote against holding the special meeting, echoed residents' sentiments. Councilman Bill Koon read from prepared notes during the session. Despite the lack of support, a first reading of an ordinance to dissolve the town remains on next Monday's (February 23) agenda, though its future is uncertain following the discussions.",
