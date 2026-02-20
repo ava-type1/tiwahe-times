@@ -4,19 +4,9 @@
   "motto": "Believe in the TR1BE! #TIWAHE",
   "season": "Spring 2025-26",
   "maxPrepsUrl": "https://www.maxpreps.com/fl/fort-white/fort-white-indians/baseball/",
-  "record": "0-4",
+  "record": "1-4",
   "districtRecord": "0-2 (Rural District 6)",
   "upcoming": [
-    {
-      "sport": "Baseball",
-      "event": "@ Bell",
-      "date": "2026-02-19",
-      "displayDate": "Thu, Feb 19",
-      "time": "7:00 PM",
-      "location": "Bell, FL",
-      "opponent": "Bell Bulldogs",
-      "notes": "Road game at Bell."
-    },
     {
       "sport": "Baseball",
       "event": "vs Hamilton County",
@@ -36,9 +26,38 @@
       "location": "Cross City, FL",
       "opponent": "Dixie County Bears",
       "notes": "Lady Indians open the 2026 softball season on the road in a district matchup."
+    },
+    {
+      "sport": "Baseball",
+      "event": "vs Dixie County",
+      "date": "2026-02-24",
+      "displayDate": "Tue, Feb 24",
+      "time": "7:00 PM",
+      "location": "Fort White",
+      "opponent": "Dixie County Bears",
+      "notes": "Home game."
+    },
+    {
+      "sport": "Baseball",
+      "event": "@ Trenton",
+      "date": "2026-02-26",
+      "displayDate": "Thu, Feb 26",
+      "time": "7:00 PM",
+      "location": "Trenton, FL",
+      "opponent": "Trenton Tigers",
+      "notes": "Road game at Trenton."
     }
   ],
   "recentResults": [
+    {
+      "sport": "Baseball",
+      "event": "@ Bell",
+      "date": "2026-02-19",
+      "result": "Win, 12-7",
+      "won": true,
+      "notes": "Fort White earned their first win of the season on the road at Bell, 12-7. Aaron Parnell (So) went 3-for-5 with a double, a triple, and 3 RBI. Carson Capallia (Sr) hit a triple and drove in 3. William Reeder (Sr) contributed 3 RBI on 1 hit. Fort White outhit Bell 14-7.",
+      "maxPrepsUrl": "https://www.maxpreps.com/games/2-19-2026/baseball-26/bell-vs-fort-white.htm?c=sZANr6--p06zUtEAcWYfkA"
+    },
     {
       "sport": "Baseball",
       "event": "vs Lafayette (District)",

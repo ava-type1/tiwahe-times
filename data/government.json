@@ -2,11 +2,11 @@
   "notices": [
     {
       "type": "Meeting",
-      "title": "UPDATE: Fort White Dissolution Finds No Support — Ordinance Reading Still on Monday Agenda",
+      "title": "UPDATE: Fort White Dissolution Finds No Support — Ordinance Reading on Monday Agenda (Feb 23)",
       "date": "2026-02-18",
       "displayDate": "Updated Wednesday, February 18",
       "time": null,
-      "location": "Fort White",
+      "location": "Fort White Town Hall",
       "description": "At a packed special meeting on Tuesday, February 17, Fort White council members and residents found no support for dissolving the town into Columbia County. Both the public and all four council members voiced opposition. Mayor George Thomas echoed residents' sentiments against dissolution. However, a first reading of an ordinance to dissolve the town remains on the agenda for the next regular council meeting on Monday, February 23 — though its future is uncertain following the discussions.",
       "link": "https://www.wcjb.com/2026/02/18/fort-white-council-finds-no-support-town-dissolution-plans/"
     },
@@ -22,23 +22,13 @@
     },
     {
       "type": "Notice",
-      "title": "County-Wide Burn Ban in Effect — Air Tankers Staged in Lake City",
+      "title": "County-Wide Burn Ban in Effect — Under Review Every 10 Days",
       "date": "2026-02-05",
-      "displayDate": "Effective February 5 — Under Review Every 10 Days",
+      "displayDate": "Effective February 5 — Ongoing",
       "time": null,
       "location": "All of Columbia County",
-      "description": "Columbia County commissioners approved a temporary county-wide burn ban at the request of the Florida Forest Service. All open burning is prohibited including campfires, yard waste, and trash burning. The Florida Forest Service has moved large air tankers to Lake City to support wildfire response across North Florida. More than 30 counties statewide are under burn bans. Report wildfires immediately to 911.",
+      "description": "Columbia County commissioners approved a county-wide burn ban at the request of the Florida Forest Service. All open burning is prohibited including campfires, yard waste, and trash burning. The Florida Forest Service has large air tankers staged in Lake City to support wildfire response across North Florida. More than 30 counties statewide are under burn bans. The burn ban is reviewed every 10 days. Report wildfires immediately to 911.",
       "link": "https://www.wcjb.com/2026/02/05/columbia-county-commissioners-approve-emergency-burn-ban-due-wildfire-risk/"
-    },
-    {
-      "type": "Meeting",
-      "title": "Board of County Commissioners — Regular Meeting",
-      "date": "2026-02-19",
-      "displayDate": "Thursday, February 19",
-      "time": "6:00 PM",
-      "location": "School Board Administrative Complex Auditorium, 372 W Duval St, Lake City",
-      "description": "Regular meeting of the Columbia County Board of Commissioners. Burn ban review, drought response, and Fort White dissolution update may be on the agenda.",
-      "link": "https://www.columbiacountyfla.com/MeetingCalendar.asp"
     },
     {
       "type": "Utility",

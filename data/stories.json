@@ -1,6 +1,28 @@
 {
   "stories": [
     {
+      "id": 21,
+      "headline": "FHSAA Merges Rural and Class 1A Football; Fort White Indians Assigned to New District",
+      "summary": "The Florida High School Athletic Association voted 11-1 on Thursday, January 29 to merge the Rural and Class 1A football classifications for the 2026 and 2027 seasons. The emergency board meeting was called after a sudden wave of Rural schools — including Union County and Dixie County — switched to the Sunshine State Athletic Association (SSAA), shrinking the Rural class from 32 to just 16 schools. Fort White, which was one of five Gainesville-area teams remaining in the Rural class, will now compete in Class 1A football alongside former Rural rivals. FHSAA released new 2026–28 district assignments on Friday, February 13, placing Fort White in a district with Lafayette (Mayo), Madison County, and Taylor County. The Rural classification will remain in place for all other sports.",
+      "category": "Sports",
+      "locality": "fortwhite",
+      "source": "Gainesville Sun",
+      "sourceUrl": "https://www.gainesville.com/story/sports/high-school/2026/01/29/fhsaa-florida-high-school-football-1a-rural-merger-2026-2027-reclassification/88221450007/",
+      "date": "2026-02-13",
+      "featured": false
+    },
+    {
+      "id": 20,
+      "headline": "Indians Win First Game of Season, Beat Bell 12-7 on the Road",
+      "summary": "The Fort White Indians picked up their first win of the 2026 baseball season Thursday night, defeating the Bell Bulldogs 12-7 on the road. The Indians outhit Bell 14 to 7 en route to the victory, with sophomore Aaron Parnell going 3-for-5 with 3 RBI and senior Elias Byrd going 2-for-3. Fort White improves to 1-4 on the season. The Indians return home Monday, February 23 to host the Hamilton County Trojans at 7:00 PM.",
+      "category": "Sports",
+      "locality": "fortwhite",
+      "source": "MaxPreps",
+      "sourceUrl": "https://www.maxpreps.com/games/2-19-2026/baseball-26/bell-vs-fort-white.htm?c=sZANr6--p06zUtEAcWYfkA",
+      "date": "2026-02-19",
+      "featured": false
+    },
+    {
       "id": 19,
       "headline": "Columbia County Commission to Vote on TD Bank Building Purchase for Tax Collector's Office",
       "summary": "The Columbia County Board of Commissioners is set to vote Thursday night on whether to complete the purchase of the old TD Bank building in downtown Lake City to house the growing Tax Collector's Office. According to the Lake City Reporter, an inspection of the building showed no major structural issues. The commission meets at 6:00 PM at the School Board Administrative Complex Auditorium.",
