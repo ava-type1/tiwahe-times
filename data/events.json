@@ -4,9 +4,9 @@
       "date": "2026-02-23",
       "displayDate": "Mon, Feb 23",
       "name": "Fort White Town Council — Regular Meeting (Dissolution Ordinance First Reading on Agenda)",
-      "location": "Fort White Town Hall",
-      "time": "TBD",
-      "description": "Regular Fort White Town Council meeting. A first reading of an ordinance to dissolve the town is on the agenda, though its future is uncertain after council members and residents found no support for dissolution at the February 17 special meeting."
+      "location": "Fort White Community Center",
+      "time": "6:00 PM",
+      "description": "Regular Fort White Town Council meeting. A first reading of an ordinance to dissolve the town is on the agenda, though its future is uncertain after council members and residents found no support for dissolution at the February 17 special meeting. Meeting confirmed at 6 PM at the Fort White Community Center."
     },
     {
       "date": "2026-02-23",
@@ -30,7 +30,7 @@
       "name": "Fort White Indians Baseball vs Dixie County",
       "location": "Fort White High School",
       "time": "7:00 PM",
-      "description": "Fort White Indians (1-4) host Dixie County at home. Per MaxPreps schedule."
+      "description": "Fort White Indians host the Dixie County Bears. Per MaxPreps schedule."
     },
     {
       "date": "2026-02-26",
@@ -38,7 +38,7 @@
       "name": "Planning & Zoning / Board of Adjustment",
       "location": "Columbia County",
       "time": "TBD",
-      "description": "Regular meeting of the Planning & Zoning Board / Board of Adjustment."
+      "description": "Regular meeting of the Planning & Zoning Board / Board of Adjustment. Per the Columbia County meeting calendar."
     },
     {
       "date": "2026-02-26",
@@ -62,7 +62,7 @@
       "name": "Tourist Development Council Meeting",
       "location": "Columbia County",
       "time": "TBD",
-      "description": "Tourist Development Council meeting."
+      "description": "Tourist Development Council meeting. Per the Columbia County meeting calendar."
     },
     {
       "date": "2026-03-19",
@@ -71,6 +71,14 @@
       "location": "School Board Administrative Complex Auditorium, 372 W Duval St, Lake City",
       "time": "6:00 PM",
       "description": "Regular meeting of the Board of County Commissioners."
+    },
+    {
+      "date": "2026-03-26",
+      "displayDate": "Thu, Mar 26",
+      "name": "Planning & Zoning / Board of Adjustment",
+      "location": "Columbia County",
+      "time": "TBD",
+      "description": "Regular meeting of the Planning & Zoning Board / Board of Adjustment. Per the Columbia County meeting calendar."
     }
   ]
 }

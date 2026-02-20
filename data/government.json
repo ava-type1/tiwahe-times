@@ -2,12 +2,22 @@
   "notices": [
     {
       "type": "Meeting",
-      "title": "UPDATE: Fort White Dissolution Finds No Support — Ordinance Reading on Monday Agenda (Feb 23)",
+      "title": "Fort White Town Council — Monday Feb 23, 6 PM (Dissolution Ordinance First Reading on Agenda)",
+      "date": "2026-02-23",
+      "displayDate": "Monday, February 23 — 6:00 PM",
+      "time": "6:00 PM",
+      "location": "Fort White Community Center",
+      "description": "The Fort White Town Council holds its regular monthly meeting Monday, February 23 at 6 PM at the Fort White Community Center. A first reading of an ordinance to dissolve the town is on the agenda, though council members and the public showed overwhelming opposition at the February 17 special meeting. Public comment will be available.",
+      "link": "https://www.fortwhitefl.com/towncouncil"
+    },
+    {
+      "type": "Notice",
+      "title": "Fort White Dissolution: No Support Found at Special Meeting — Ordinance Still on Feb 23 Agenda",
       "date": "2026-02-18",
       "displayDate": "Updated Wednesday, February 18",
       "time": null,
-      "location": "Fort White Town Hall",
-      "description": "At a packed special meeting on Tuesday, February 17, Fort White council members and residents found no support for dissolving the town into Columbia County. Both the public and all four council members voiced opposition. Mayor George Thomas echoed residents' sentiments against dissolution. However, a first reading of an ordinance to dissolve the town remains on the agenda for the next regular council meeting on Monday, February 23 — though its future is uncertain following the discussions.",
+      "location": "Fort White",
+      "description": "At a packed special meeting on Tuesday, February 17, Fort White council members and residents found no support for dissolving the town into Columbia County. Both the public and all four council members voiced opposition. Mayor George Thomas echoed residents' sentiments against dissolution. However, a first reading of an ordinance to dissolve the town remains on the agenda for the next regular council meeting on Monday, February 23 at 6 PM — though its future is uncertain following the discussions.",
       "link": "https://www.wcjb.com/2026/02/18/fort-white-council-finds-no-support-town-dissolution-plans/"
     },
     {
@@ -22,12 +32,12 @@
     },
     {
       "type": "Notice",
-      "title": "County-Wide Burn Ban in Effect — Under Review Every 10 Days",
+      "title": "County-Wide Burn Ban in Effect — Air Tankers Staged in Lake City",
       "date": "2026-02-05",
-      "displayDate": "Effective February 5 — Ongoing",
+      "displayDate": "Effective February 5 — Under Review Every 10 Days",
       "time": null,
       "location": "All of Columbia County",
-      "description": "Columbia County commissioners approved a county-wide burn ban at the request of the Florida Forest Service. All open burning is prohibited including campfires, yard waste, and trash burning. The Florida Forest Service has large air tankers staged in Lake City to support wildfire response across North Florida. More than 30 counties statewide are under burn bans. The burn ban is reviewed every 10 days. Report wildfires immediately to 911.",
+      "description": "Columbia County commissioners approved a temporary county-wide burn ban at the request of the Florida Forest Service. All open burning is prohibited including campfires, yard waste, and trash burning. The Florida Forest Service has moved large air tankers to Lake City to support wildfire response across North Florida. More than 30 counties statewide are under burn bans. Report wildfires immediately to 911.",
       "link": "https://www.wcjb.com/2026/02/05/columbia-county-commissioners-approve-emergency-burn-ban-due-wildfire-risk/"
     },
     {
@@ -39,6 +49,16 @@
       "location": "Columbia County & Surrounding Counties",
       "description": "The Suwannee River Water Management District has declared a Phase I Moderate Water Shortage. Through December 2025, 14 of 15 SRWMD counties reported an average rainfall deficit of nearly 11.5 inches. All north-central Florida counties are now at extreme drought levels. Residents are urged to conserve water and limit irrigation.",
       "link": "https://www.wuft.org/weather/2026-02-18/how-drought-conditions-are-impacting-north-central-florida"
+    },
+    {
+      "type": "Meeting",
+      "title": "Board of County Commissioners — Regular Meeting",
+      "date": "2026-03-05",
+      "displayDate": "Thursday, March 5",
+      "time": "6:00 PM",
+      "location": "School Board Administrative Complex Auditorium, 372 W Duval St, Lake City",
+      "description": "Next regular meeting of the Columbia County Board of County Commissioners. Meets 1st and 3rd Thursday of each month.",
+      "link": "https://www.columbiacountyfla.com/MeetingCalendar.asp"
     }
   ]
 }
