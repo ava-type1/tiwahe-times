@@ -1,6 +1,17 @@
 {
   "stories": [
     {
+      "id": 25,
+      "headline": "Florida Extreme Drought Coverage Grows 24% in One Week; All of State Now in Drought",
+      "summary": "According to a WUFT News report published Thursday, February 19, the area of Florida covered by extreme drought grew by nearly 24 percent compared to the prior week's U.S. Drought Monitor report, expanding into Volusia, Lake, and several South Florida counties including Palm Beach, Broward, and Miami-Dade. As of February 19, 87.5 percent of Florida is under severe drought conditions — up from 85.5 percent the prior week — and all of the state is experiencing at least some level of drought. Only two tiny areas remain classified as merely 'abnormally dry': the northern Brevard County coastline and the immediate coast of Miami-Dade. Meteorologists attribute the worsening conditions to a La Niña winter pattern, a lack of major rain events, and persistent high pressure that both limited rainfall and drove up temperatures. Long-term models show below-average rainfall likely through May; a cold front approaching Sunday is expected to bring some rain but will not meaningfully relieve drought conditions in Columbia County or North Florida.",
+      "category": "Weather",
+      "locality": "fortwhite",
+      "source": "WUFT News",
+      "sourceUrl": "https://www.wuft.org/weather/2026-02-19/floridas-drought-continues-to-worsen-extreme-drought-grows-20-percent",
+      "date": "2026-02-19",
+      "featured": false
+    },
+    {
       "id": 24,
       "headline": "140 Residents Pack Fort White Forum; Financial Consultant Gives Town Clean Bill of Health",
       "summary": "About 140 people — residents, non-residents, and county officials — packed the Fort White Community Center on Tuesday, February 17 for a special workshop on whether to dissolve the town. Former Columbia County auditor Richard 'Dick' Powell, invited by Mayor George Thomas, gave a surprise presentation showing the town's fund balance grew from eight months of expenditures to sixteen months over five years, and that the town carries zero debt. When Mayor Thomas asked for a show of hands from Town residents who wanted to dissolve Fort White, not a single hand went up. County Commission Chair Tim Murphy and other prominent county figures attended the meeting, which was initiated by Councilman Bill Koon — a Columbia County employee — who had previously tried to pass a dissolution resolution without public notice. Fort White has 411 registered voters, according to the Supervisor of Elections.",
