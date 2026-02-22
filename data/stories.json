@@ -1,6 +1,28 @@
 {
   "stories": [
     {
+      "id": 27,
+      "headline": "Red Flag Warning Declared; Dangerous Fire Conditions Expected This Week as Cold Front Arrives",
+      "summary": "The National Weather Service declared a Red Flag Warning Saturday, February 21 for most of North Central Florida — including neighboring Alachua and Gilchrist counties — as extreme wildfire conditions intensify across the region. A strong cold front moving through Florida this weekend will usher in dangerously low humidity levels and wind gusts exceeding 30 mph on Monday and Tuesday, a deadly combination with bone-dry vegetation left from months of extreme drought. Any fire that starts under these conditions could spread out of control rapidly. Overnight temperatures are expected to drop into the upper 20s to low 30s across North Florida by mid-week. Columbia County's burn ban remains in effect, and residents are urged to avoid all outdoor burning. High Sunday in Fort White: 71°F with scattered showers, dropping sharply to a high of only 49°F on Monday as cold air arrives.",
+      "category": "Weather",
+      "locality": "fortwhite",
+      "source": "WCJB TV20 / WUFT News",
+      "sourceUrl": "https://www.wcjb.com/2026/02/21/national-weather-service-declares-red-flag-warning/",
+      "date": "2026-02-21",
+      "featured": true
+    },
+    {
+      "id": 28,
+      "headline": "SR-47 Through Fort White to Close Tuesday and Wednesday for Road Work; Hal Adams Bridge Also Closed",
+      "summary": "The Florida Department of Transportation announced multiple road closures in Columbia County for the week of February 21–27. State Road 47 — the main highway running through Fort White — will have daytime lane closures on Tuesday and Wednesday from 8 a.m. to 6 p.m. for road work between Clay Hole Creek and Southwest Main Boulevard. The Hal Adams Bridge on State Road 51, which crosses the Suwannee River, faces daytime closures Monday through February 28 for bridge repair. Additional nighttime closures are planned on I-75 at County Road 341 (Tuesday and Wednesday, 9:30 p.m.–4:30 a.m.) and at US-90 (Monday, 9:30 p.m.–4:30 a.m.). US-41 at Howell Road will also see weekday closures for traffic signal work. Drivers traveling through the area should plan for delays and allow extra travel time.",
+      "category": "Community",
+      "locality": "fortwhite",
+      "source": "WCJB TV20",
+      "sourceUrl": "https://www.wcjb.com/2026/02/20/fdot-announces-multiple-lane-closures-planned-north-central-florida-this-week/",
+      "date": "2026-02-20",
+      "featured": false
+    },
+    {
       "id": 26,
       "headline": "Should Fort White Cease to Exist? The Full Story Behind the Town's Dissolution Fight",
       "summary": "Fort White — chartered in 1957 and one of Columbia County's smallest incorporated towns — has been locked in a months-long political battle over whether it should dissolve itself and hand governance over to Columbia County. The conflict started in December 2025, when Mayor George Thomas walked out of a council meeting after four council members voted to strip him of his presiding officer role — a move Thomas called 'ridiculous and silly behavior' in a letter to residents. The tension escalated in January when those same four members voted to schedule a special dissolution workshop over the Mayor's sole objection. On February 5, Columbia County commissioners weighed in, with Commissioner Rocky Ford insisting the county needed to be involved — though commissioners have no legal authority to block a dissolution vote. The Feb. 18 workshop, packed with roughly 140 people, became the defining moment: financial consultant Richard Powell presented five years of data showing the town has zero debt and grew its reserves from eight months of expenditures to sixteen months — a clean bill of health. When Mayor Thomas asked for a show of hands of Town residents who wanted to dissolve Fort White, not a single hand went up. The workshop's instigator, Councilman Bill Koon — notably a Columbia County employee — had previously tried to pass a dissolution resolution without public notice. Despite the overwhelming opposition, a first reading of an ordinance to dissolve the town is still on the agenda for Monday's council meeting, February 23 at 6 PM at the Fort White Community Center. Fort White has 411 registered voters and collects no property taxes, operating entirely on state grants and revenue sharing.",

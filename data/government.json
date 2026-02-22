@@ -27,7 +27,7 @@
       "displayDate": "Effective February 9, 2026",
       "time": null,
       "location": "Statewide — includes Columbia County",
-      "description": "Gov. DeSantis signed Executive Order 26-33 declaring a state of emergency due to worsening drought and agricultural damage from recent cold weather. The order waives agricultural weight restrictions, provides emergency support for farmers, and directs the state to seek federal aid. All north-central Florida counties are now under extreme drought conditions per the latest U.S. Drought Monitor. Gainesville has received just 25% of normal rainfall since January; Ocala only 18%.",
+      "description": "Gov. DeSantis signed Executive Order 26-33 declaring a state of emergency due to worsening drought and agricultural damage from recent cold weather. The order waives agricultural weight restrictions, provides emergency support for farmers, and directs the state to seek federal aid. All north-central Florida counties are now under extreme drought conditions per the latest U.S. Drought Monitor. Red Flag Warnings have been issued for the region; extreme fire conditions are expected Monday-Tuesday with gusts over 30 mph and very low humidity.",
       "link": "https://www.wcjb.com/2026/02/10/desantis-signs-emergency-order-help-florida-farmers-after-cold-weather/"
     },
     {
@@ -37,7 +37,7 @@
       "displayDate": "Effective February 5 — Under Review Every 10 Days",
       "time": null,
       "location": "All of Columbia County",
-      "description": "Columbia County commissioners approved a temporary county-wide burn ban at the request of the Florida Forest Service. All open burning is prohibited including campfires, yard waste, and trash burning. The Florida Forest Service has moved large air tankers to Lake City to support wildfire response across North Florida. More than 30 counties statewide are under burn bans. Report wildfires immediately to 911.",
+      "description": "Columbia County commissioners approved a temporary county-wide burn ban at the request of the Florida Forest Service. All open burning is prohibited including campfires, yard waste, and trash burning. The Florida Forest Service has moved large air tankers to Lake City to support wildfire response across North Florida. Red Flag Warnings were issued February 21 for the region. Report wildfires immediately to 911.",
       "link": "https://www.wcjb.com/2026/02/05/columbia-county-commissioners-approve-emergency-burn-ban-due-wildfire-risk/"
     },
     {
@@ -52,12 +52,32 @@
     },
     {
       "type": "Meeting",
+      "title": "Columbia County Planning & Zoning / Board of Adjustment",
+      "date": "2026-02-26",
+      "displayDate": "Thursday, February 26",
+      "time": "6:00 PM",
+      "location": "School Board Administrative Complex Auditorium, 372 W Duval St, Lake City",
+      "description": "Regular meeting of the Columbia County Planning & Zoning Board / Board of Adjustment. Source: Columbia County official meeting calendar.",
+      "link": "https://www.columbiacountyfla.com/MeetingCalendar.asp"
+    },
+    {
+      "type": "Meeting",
       "title": "Board of County Commissioners — Regular Meeting",
       "date": "2026-03-05",
       "displayDate": "Thursday, March 5",
       "time": "6:00 PM",
       "location": "School Board Administrative Complex Auditorium, 372 W Duval St, Lake City",
-      "description": "Next regular meeting of the Columbia County Board of County Commissioners. Meets 1st and 3rd Thursday of each month.",
+      "description": "Regular meeting of the Columbia County Board of County Commissioners. Meets 1st and 3rd Thursday of each month.",
+      "link": "https://www.columbiacountyfla.com/MeetingCalendar.asp"
+    },
+    {
+      "type": "Meeting",
+      "title": "Board of County Commissioners — Regular Meeting",
+      "date": "2026-03-19",
+      "displayDate": "Thursday, March 19",
+      "time": "6:00 PM",
+      "location": "School Board Administrative Complex Auditorium, 372 W Duval St, Lake City",
+      "description": "Regular meeting of the Columbia County Board of County Commissioners. Meets 1st and 3rd Thursday of each month.",
       "link": "https://www.columbiacountyfla.com/MeetingCalendar.asp"
     }
   ]
