@@ -1,6 +1,28 @@
 {
   "stories": [
     {
+      "id": 30,
+      "headline": "Freeze Tonight in Fort White: Low Near 25°F, Wind Chills in the 20s Through Tuesday",
+      "summary": "A hard freeze is in store for Fort White and all of Columbia County as a strong cold front continues to push through North Florida. The National Weather Service forecast for Fort White shows today's high reaching only 52°F with wind chills as low as 26 early and northwest gusts up to 29 mph. Tonight, temperatures will drop to around 25°F with patchy frost expected after 3 a.m. — cold enough to damage unprotected plants and pipes. Tuesday will bring another wind chill as low as 21°F before a low of 32°F Tuesday night with widespread frost. Residents should bring pets indoors, protect tender plants, and allow faucets to drip slowly to prevent pipe freezing. Warming centers can be reached by calling 211.",
+      "category": "Weather",
+      "locality": "fortwhite",
+      "source": "National Weather Service",
+      "sourceUrl": "https://forecast.weather.gov/MapClick.php?CityName=Fort+White&state=FL&site=JAX&textField1=29.9253&textField2=-82.7210",
+      "date": "2026-02-23",
+      "featured": true
+    },
+    {
+      "id": 29,
+      "headline": "Columbia County Pushes Back Against Plan to Pump Treated Wastewater Into Floridan Aquifer",
+      "summary": "Columbia County commissioners and residents voiced strong opposition Sunday, February 22 to a project by the Suwannee River Water Management District called 'Water First North Florida,' which would pump 40 million gallons of reclaimed wastewater daily through a network of pipes across the state into more than a dozen North Central Florida counties in order to recharge the Floridan aquifer. The project has drawn sharp pushback in Columbia County because the county sits directly on top of the aquifer. Commission Chair Tim Murphy said bluntly that he does not want the reclaimed water coming to his county. Activist Merrillee Jipson urged residents to organize against the proposal. Commissioners said they want to see significantly more research before any further discussion of bringing the project to the county.",
+      "category": "Environment",
+      "locality": "fortwhite",
+      "source": "WUFT News",
+      "sourceUrl": "https://www.wuft.org/environment/2026-02-22/columbia-county-residents-spurn-project-to-recharge-aquifer",
+      "date": "2026-02-22",
+      "featured": false
+    },
+    {
       "id": 27,
       "headline": "Red Flag Warning Declared; Dangerous Fire Conditions Expected This Week as Cold Front Arrives",
       "summary": "The National Weather Service declared a Red Flag Warning Saturday, February 21 for most of North Central Florida — including neighboring Alachua and Gilchrist counties — as extreme wildfire conditions intensify across the region. A strong cold front moving through Florida this weekend will usher in dangerously low humidity levels and wind gusts exceeding 30 mph on Monday and Tuesday, a deadly combination with bone-dry vegetation left from months of extreme drought. Any fire that starts under these conditions could spread out of control rapidly. Overnight temperatures are expected to drop into the upper 20s to low 30s across North Florida by mid-week. Columbia County's burn ban remains in effect, and residents are urged to avoid all outdoor burning. High Sunday in Fort White: 71°F with scattered showers, dropping sharply to a high of only 49°F on Monday as cold air arrives.",

@@ -2,12 +2,12 @@
   "notices": [
     {
       "type": "Meeting",
-      "title": "Fort White Town Council — Monday Feb 23, 6 PM (Dissolution Ordinance First Reading on Agenda)",
+      "title": "Fort White Town Council — TONIGHT Feb 23, 6 PM (Dissolution Ordinance First Reading on Agenda)",
       "date": "2026-02-23",
-      "displayDate": "Monday, February 23 — 6:00 PM",
+      "displayDate": "Tonight — Monday, February 23 — 6:00 PM",
       "time": "6:00 PM",
       "location": "Fort White Community Center",
-      "description": "The Fort White Town Council holds its regular monthly meeting Monday, February 23 at 6 PM at the Fort White Community Center. A first reading of an ordinance to dissolve the town is on the agenda, though council members and the public showed overwhelming opposition at the February 17 special meeting. Public comment will be available.",
+      "description": "The Fort White Town Council holds its regular monthly meeting TONIGHT, Monday, February 23 at 6 PM at the Fort White Community Center. A first reading of an ordinance to dissolve the town is on the agenda, though council members and the public showed overwhelming opposition at the February 17 special meeting. Public comment will be available.",
       "link": "https://www.fortwhitefl.com/towncouncil"
     },
     {
@@ -72,12 +72,42 @@
     },
     {
       "type": "Meeting",
+      "title": "Tourist Development Council Meeting",
+      "date": "2026-03-18",
+      "displayDate": "Wednesday, March 18",
+      "time": "TBD",
+      "location": "Columbia County, Lake City",
+      "description": "Regular meeting of the Columbia County Tourist Development Council. Source: Columbia County official meeting calendar.",
+      "link": "https://www.columbiacountyfla.com/MeetingCalendar.asp"
+    },
+    {
+      "type": "Meeting",
       "title": "Board of County Commissioners — Regular Meeting",
       "date": "2026-03-19",
       "displayDate": "Thursday, March 19",
       "time": "6:00 PM",
       "location": "School Board Administrative Complex Auditorium, 372 W Duval St, Lake City",
       "description": "Regular meeting of the Columbia County Board of County Commissioners. Meets 1st and 3rd Thursday of each month.",
+      "link": "https://www.columbiacountyfla.com/MeetingCalendar.asp"
+    },
+    {
+      "type": "Meeting",
+      "title": "Economic Development Board Meeting",
+      "date": "2026-03-19",
+      "displayDate": "Thursday, March 19",
+      "time": "TBD",
+      "location": "Columbia County, Lake City",
+      "description": "Regular meeting of the Columbia County Economic Development Board. Source: Columbia County official meeting calendar.",
+      "link": "https://www.columbiacountyfla.com/MeetingCalendar.asp"
+    },
+    {
+      "type": "Meeting",
+      "title": "Columbia County Planning & Zoning / Board of Adjustment",
+      "date": "2026-03-26",
+      "displayDate": "Thursday, March 26",
+      "time": "6:00 PM",
+      "location": "School Board Administrative Complex Auditorium, 372 W Duval St, Lake City",
+      "description": "Regular meeting of the Columbia County Planning & Zoning Board / Board of Adjustment. Source: Columbia County official meeting calendar.",
       "link": "https://www.columbiacountyfla.com/MeetingCalendar.asp"
     }
   ]
