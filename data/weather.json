@@ -1,28 +1,28 @@
 {
   "location": "Fort White, FL",
-  "updated": "2026-02-24T08:03:45-05:00",
+  "updated": "2026-02-24T12:00:21-05:00",
   "current": {
-    "temp": 32,
-    "feelsLike": 25,
+    "temp": 46,
+    "feelsLike": 43,
     "condition": "Clear Sky",
     "icon": "☀️",
-    "humidity": 70,
-    "wind": "3 mph",
-    "uvIndex": 0,
+    "humidity": 45,
+    "wind": "4 mph",
+    "uvIndex": 6,
     "chanceOfRain": 0
   },
   "forecast": [    {
       "day": "Tue",
       "date": "Feb 24",
       "high": 57,
-      "low": 30,
+      "low": 29,
       "condition": "Clear Sky",
       "icon": "☀️",
       "chanceOfRain": 0
     },    {
       "day": "Wed",
       "date": "Feb 25",
-      "high": 68,
+      "high": 67,
       "low": 36,
       "condition": "Overcast",
       "icon": "☁️",
@@ -34,7 +34,7 @@
       "low": 52,
       "condition": "Overcast",
       "icon": "☁️",
-      "chanceOfRain": 7
+      "chanceOfRain": 6
     },    {
       "day": "Fri",
       "date": "Feb 27",
@@ -42,7 +42,7 @@
       "low": 58,
       "condition": "Overcast",
       "icon": "☁️",
-      "chanceOfRain": 65
+      "chanceOfRain": 57
     },    {
       "day": "Sat",
       "date": "Feb 28",
@@ -50,6 +50,6 @@
       "low": 60,
       "condition": "Drizzle",
       "icon": "🌦️",
-      "chanceOfRain": 49
+      "chanceOfRain": 57
     }]
 }
