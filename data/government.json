@@ -2,56 +2,6 @@
   "notices": [
     {
       "type": "Meeting",
-      "title": "Fort White Town Council — TONIGHT Feb 23, 6 PM (Dissolution Ordinance First Reading on Agenda)",
-      "date": "2026-02-23",
-      "displayDate": "Tonight — Monday, February 23 — 6:00 PM",
-      "time": "6:00 PM",
-      "location": "Fort White Community Center",
-      "description": "The Fort White Town Council holds its regular monthly meeting TONIGHT, Monday, February 23 at 6 PM at the Fort White Community Center. A first reading of an ordinance to dissolve the town is on the agenda, though council members and the public showed overwhelming opposition at the February 17 special meeting. Public comment will be available.",
-      "link": "https://www.fortwhitefl.com/towncouncil"
-    },
-    {
-      "type": "Notice",
-      "title": "Fort White Dissolution: No Support Found at Special Meeting — Ordinance Still on Feb 23 Agenda",
-      "date": "2026-02-18",
-      "displayDate": "Updated Wednesday, February 18",
-      "time": null,
-      "location": "Fort White",
-      "description": "At a packed special meeting on Tuesday, February 17, Fort White council members and residents found no support for dissolving the town into Columbia County. Both the public and all four council members voiced opposition. Mayor George Thomas echoed residents' sentiments against dissolution. However, a first reading of an ordinance to dissolve the town remains on the agenda for the next regular council meeting on Monday, February 23 at 6 PM — though its future is uncertain following the discussions.",
-      "link": "https://www.wcjb.com/2026/02/18/fort-white-council-finds-no-support-town-dissolution-plans/"
-    },
-    {
-      "type": "Emergency",
-      "title": "State of Emergency — Drought & Cold Weather (Executive Order 26-33)",
-      "date": "2026-02-09",
-      "displayDate": "Effective February 9, 2026",
-      "time": null,
-      "location": "Statewide — includes Columbia County",
-      "description": "Gov. DeSantis signed Executive Order 26-33 declaring a state of emergency due to worsening drought and agricultural damage from recent cold weather. The order waives agricultural weight restrictions, provides emergency support for farmers, and directs the state to seek federal aid. All north-central Florida counties are now under extreme drought conditions per the latest U.S. Drought Monitor. Red Flag Warnings have been issued for the region; extreme fire conditions are expected Monday-Tuesday with gusts over 30 mph and very low humidity.",
-      "link": "https://www.wcjb.com/2026/02/10/desantis-signs-emergency-order-help-florida-farmers-after-cold-weather/"
-    },
-    {
-      "type": "Notice",
-      "title": "County-Wide Burn Ban in Effect — Air Tankers Staged in Lake City",
-      "date": "2026-02-05",
-      "displayDate": "Effective February 5 — Under Review Every 10 Days",
-      "time": null,
-      "location": "All of Columbia County",
-      "description": "Columbia County commissioners approved a temporary county-wide burn ban at the request of the Florida Forest Service. All open burning is prohibited including campfires, yard waste, and trash burning. The Florida Forest Service has moved large air tankers to Lake City to support wildfire response across North Florida. Red Flag Warnings were issued February 21 for the region. Report wildfires immediately to 911.",
-      "link": "https://www.wcjb.com/2026/02/05/columbia-county-commissioners-approve-emergency-burn-ban-due-wildfire-risk/"
-    },
-    {
-      "type": "Utility",
-      "title": "Water Shortage Advisory — Suwannee River Water Management District",
-      "date": "2026-02-09",
-      "displayDate": "Ongoing",
-      "time": null,
-      "location": "Columbia County & Surrounding Counties",
-      "description": "The Suwannee River Water Management District has declared a Phase I Moderate Water Shortage. Through December 2025, 14 of 15 SRWMD counties reported an average rainfall deficit of nearly 11.5 inches. All north-central Florida counties are now at extreme drought levels. Residents are urged to conserve water and limit irrigation.",
-      "link": "https://www.wuft.org/weather/2026-02-18/how-drought-conditions-are-impacting-north-central-florida"
-    },
-    {
-      "type": "Meeting",
       "title": "Columbia County Planning & Zoning / Board of Adjustment",
       "date": "2026-02-26",
       "displayDate": "Thursday, February 26",

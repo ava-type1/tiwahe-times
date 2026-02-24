@@ -1,6 +1,17 @@
 {
   "stories": [
     {
+      "id": 31,
+      "headline": "Lake City House Fire Displaces Five Residents, Kills One Dog",
+      "summary": "Lake City fire crews responded at about 11:38 p.m. Saturday to a house fire on Southeast Murray Terrace, according to WCJB. Firefighters reported heavy fire conditions when they arrived. Officials said one dog died in the fire, while two other dogs escaped unharmed. No residents were reported injured, but five people were displaced.",
+      "category": "Public Safety",
+      "locality": "county",
+      "source": "WCJB TV20",
+      "sourceUrl": "https://www.wcjb.com/2026/02/22/lake-city-house-fire-kills-dog-displaces-5-people/",
+      "date": "2026-02-22",
+      "featured": false
+    },
+    {
       "id": 30,
       "headline": "Freeze Tonight in Fort White: Low Near 25°F, Wind Chills in the 20s Through Tuesday",
       "summary": "A hard freeze is in store for Fort White and all of Columbia County as a strong cold front continues to push through North Florida. The National Weather Service forecast for Fort White shows today's high reaching only 52°F with wind chills as low as 26 early and northwest gusts up to 29 mph. Tonight, temperatures will drop to around 25°F with patchy frost expected after 3 a.m. — cold enough to damage unprotected plants and pipes. Tuesday will bring another wind chill as low as 21°F before a low of 32°F Tuesday night with widespread frost. Residents should bring pets indoors, protect tender plants, and allow faucets to drip slowly to prevent pipe freezing. Warming centers can be reached by calling 211.",
