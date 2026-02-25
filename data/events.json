@@ -1,22 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-02-24",
-      "displayDate": "Tue, Feb 24",
-      "name": "Fort White Indians Baseball vs Dixie County",
-      "location": "Fort White High School",
-      "time": "7:00 PM",
-      "description": "Fort White Indians host the Dixie County Bears. Per MaxPreps schedule."
-    },
-    {
-      "date": "2026-02-24",
-      "displayDate": "Tue, Feb 24",
-      "name": "Fort White Lady Indians Softball @ Corinth Christian Academy",
-      "location": "Jacksonville, FL",
-      "time": "6:30 PM",
-      "description": "Fort White softball travels to Corinth Christian Academy. Per MaxPreps schedule."
-    },
-    {
       "date": "2026-02-26",
       "displayDate": "Thu, Feb 26",
       "name": "Fort White Indians Baseball @ Trenton",
@@ -35,7 +19,7 @@
     {
       "date": "2026-03-05",
       "displayDate": "Thu, Mar 5",
-      "name": "Columbia County Board of Commissioners — Regular Meeting",
+      "name": "Columbia County Board of Commissioners \u2014 Regular Meeting",
       "location": "School Board Administrative Complex Auditorium, 372 W Duval St, Lake City",
       "time": "6:00 PM",
       "description": "Regular meeting of the Board of County Commissioners. Meets 1st and 3rd Thursday of each month."
@@ -51,7 +35,7 @@
     {
       "date": "2026-03-19",
       "displayDate": "Thu, Mar 19",
-      "name": "Columbia County Board of Commissioners — Regular Meeting",
+      "name": "Columbia County Board of Commissioners \u2014 Regular Meeting",
       "location": "School Board Administrative Complex Auditorium, 372 W Duval St, Lake City",
       "time": "6:00 PM",
       "description": "Regular meeting of the Board of County Commissioners."

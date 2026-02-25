@@ -4,29 +4,9 @@
   "motto": "Believe in the TR1BE! #TIWAHE",
   "season": "Spring 2025-26",
   "maxPrepsUrl": "https://www.maxpreps.com/fl/fort-white/fort-white-indians/baseball/",
-  "record": "1-5",
+  "record": "1-6",
   "districtRecord": "0-2 (Rural District 6)",
   "upcoming": [
-    {
-      "sport": "Softball",
-      "event": "@ Corinth Christian Academy",
-      "date": "2026-02-24",
-      "displayDate": "Tue, Feb 24",
-      "time": "6:30 PM",
-      "location": "Jacksonville, FL",
-      "opponent": "Corinth Christian Academy",
-      "notes": "Road game."
-    },
-    {
-      "sport": "Baseball",
-      "event": "vs Dixie County",
-      "date": "2026-02-24",
-      "displayDate": "Tue, Feb 24",
-      "time": "7:00 PM",
-      "location": "Fort White",
-      "opponent": "Dixie County Bears",
-      "notes": "Home game."
-    },
     {
       "sport": "Baseball",
       "event": "@ Trenton",
@@ -39,6 +19,15 @@
     }
   ],
   "recentResults": [
+    {
+      "sport": "Baseball",
+      "event": "vs Dixie County",
+      "date": "2026-02-24",
+      "result": "Loss, 3-15",
+      "won": false,
+      "notes": "Fort White lost 15-3 at home to Dixie County, according to the MaxPreps team schedule/results page (updated Feb. 25, 2026).",
+      "maxPrepsUrl": "https://www.maxpreps.com/fl/fort-white/fort-white-indians/baseball/schedule/"
+    },
     {
       "sport": "Softball",
       "event": "@ Dixie County (District)",
