@@ -41,12 +41,28 @@
       "description": "Regular meeting of the Board of County Commissioners."
     },
     {
+      "date": "2026-03-19",
+      "displayDate": "Thu, Mar 19",
+      "name": "Columbia County Economic Development Board Meeting",
+      "location": "Columbia County",
+      "time": "TBD",
+      "description": "Regular meeting of the Columbia County Economic Development Board. Per the Columbia County meeting calendar."
+    },
+    {
       "date": "2026-03-26",
       "displayDate": "Thu, Mar 26",
       "name": "Planning & Zoning / Board of Adjustment",
       "location": "Columbia County",
       "time": "TBD",
       "description": "Regular meeting of the Planning & Zoning Board / Board of Adjustment. Per the Columbia County meeting calendar."
+    },
+    {
+      "date": "2026-04-02",
+      "displayDate": "Thu, Apr 2",
+      "name": "Columbia County Board of Commissioners \u2014 Regular Meeting",
+      "location": "School Board Administrative Complex Auditorium, 372 W Duval St, Lake City",
+      "time": "6:00 PM",
+      "description": "Regular meeting of the Board of County Commissioners. Meets 1st and 3rd Thursday of each month."
     }
   ]
 }

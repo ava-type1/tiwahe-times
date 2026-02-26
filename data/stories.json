@@ -1,6 +1,28 @@
 {
   "stories": [
     {
+      "id": 33,
+      "headline": "Columbia County Switches EMS Provider After Settlement; AmeriPro Takes Over 911 Coverage",
+      "summary": "Columbia County commissioners reached a settlement with Columbia EMS to part ways during an emergency meeting on Tuesday night, February 24, according to WCJB. Concerns about Columbia EMS response times were cited as a driving factor in the split. During the 90-day separation period, AmeriPro EMS will serve as the county's backup contractor, with a guarantee of at least five ambulances dedicated to 911 calls. The county will pay Columbia EMS approximately $35,000 per month through the separation period. Residents with emergency medical situations should continue to call 911 as normal.",
+      "category": "Public Safety",
+      "locality": "fortwhite",
+      "source": "WCJB TV20",
+      "sourceUrl": "https://www.wcjb.com/2026/02/26/columbia-county-commissioners-switching-ems-providers-after-settlement/",
+      "date": "2026-02-26",
+      "featured": true
+    },
+    {
+      "id": 32,
+      "headline": "Columbia County Judge Issues Formal Burn Ban Order; All Outdoor Burning Prohibited Until Further Notice",
+      "summary": "Columbia County Circuit Judge Doug Fields issued a formal judicial burn ban order on Tuesday afternoon, February 24, 2026, prohibiting all outdoor burning in Columbia County until further notice. The order stated that 'due to dry and windy conditions, there is the potential for causing fire and damage to property within the county.' The judicial order adds legal weight to the county-wide burn ban that commissioners approved on February 5. Eight North Central Florida counties are currently under burn bans. Residents who violate the ban could face legal penalties; anyone who spots a wildfire should call 911 immediately.",
+      "category": "Public Safety",
+      "locality": "fortwhite",
+      "source": "Magnolia Reporter",
+      "sourceUrl": "https://www.magnoliareporter.com/news_and_business/local_news/article_31dd7de6-afd5-4df6-96fa-101f15c8e65d.html",
+      "date": "2026-02-24",
+      "featured": false
+    },
+    {
       "id": 31,
       "headline": "Lake City House Fire Displaces Five Residents, Kills One Dog",
       "summary": "Lake City fire crews responded at about 11:38 p.m. Saturday to a house fire on Southeast Murray Terrace, according to WCJB. Firefighters reported heavy fire conditions when they arrived. Officials said one dog died in the fire, while two other dogs escaped unharmed. No residents were reported injured, but five people were displaced.",
@@ -20,7 +42,7 @@
       "source": "National Weather Service",
       "sourceUrl": "https://forecast.weather.gov/MapClick.php?CityName=Fort+White&state=FL&site=JAX&textField1=29.9253&textField2=-82.7210",
       "date": "2026-02-23",
-      "featured": true
+      "featured": false
     },
     {
       "id": 29,
