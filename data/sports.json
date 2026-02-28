@@ -56,6 +56,106 @@
       "location": "Mayo, FL",
       "opponent": "Lafayette Hornets",
       "notes": "District road game at Lafayette."
+    },
+    {
+      "sport": "Baseball",
+      "event": "vs Chiefland",
+      "date": "2026-03-12",
+      "displayDate": "Thu, Mar 12",
+      "time": "7:00 PM",
+      "location": "Fort White, FL",
+      "opponent": "Chiefland Indians",
+      "notes": "Home game vs Chiefland."
+    },
+    {
+      "sport": "Baseball",
+      "event": "@ Dixie County",
+      "date": "2026-03-17",
+      "displayDate": "Tue, Mar 17",
+      "time": "7:00 PM",
+      "location": "Cross City, FL",
+      "opponent": "Dixie County Bears",
+      "notes": "Road game at Dixie County."
+    },
+    {
+      "sport": "Baseball",
+      "event": "vs Trenton",
+      "date": "2026-03-19",
+      "displayDate": "Thu, Mar 19",
+      "time": "7:00 PM",
+      "location": "Fort White, FL",
+      "opponent": "Trenton Tigers",
+      "notes": "Home game vs Trenton."
+    },
+    {
+      "sport": "Baseball",
+      "event": "@ St. John Lutheran",
+      "date": "2026-03-30",
+      "displayDate": "Mon, Mar 30",
+      "time": "6:00 PM",
+      "location": "Ocala, FL",
+      "opponent": "St. John Lutheran Saints",
+      "notes": "Road game at St. John Lutheran."
+    },
+    {
+      "sport": "Baseball",
+      "event": "vs Branford (District)",
+      "date": "2026-03-31",
+      "displayDate": "Tue, Mar 31",
+      "time": "7:00 PM",
+      "location": "Fort White, FL",
+      "opponent": "Branford Buccaneers",
+      "notes": "Home district game vs Branford."
+    },
+    {
+      "sport": "Baseball",
+      "event": "@ Oak Hall",
+      "date": "2026-04-01",
+      "displayDate": "Wed, Apr 1",
+      "time": "4:15 PM",
+      "location": "Gainesville, FL",
+      "opponent": "Oak Hall Eagles",
+      "notes": "Road game at Oak Hall."
+    },
+    {
+      "sport": "Baseball",
+      "event": "@ Hamilton County",
+      "date": "2026-04-02",
+      "displayDate": "Thu, Apr 2",
+      "time": "6:00 PM",
+      "location": "Jasper, FL",
+      "opponent": "Hamilton County Trojans",
+      "notes": "Road game at Hamilton County."
+    },
+    {
+      "sport": "Baseball",
+      "event": "vs Bell",
+      "date": "2026-04-06",
+      "displayDate": "Mon, Apr 6",
+      "time": "6:00 PM",
+      "location": "Fort White, FL",
+      "opponent": "Bell Bulldogs",
+      "notes": "Home game vs Bell."
+    },
+    {
+      "sport": "Baseball",
+      "event": "@ Taylor County (District)",
+      "date": "2026-04-07",
+      "displayDate": "Tue, Apr 7",
+      "time": "6:00 PM",
+      "location": "Perry, FL",
+      "opponent": "Taylor County Bulldogs",
+      "notes": "District road game at Taylor County."
+    },
+    {
+      "sport": "Baseball",
+      "event": "vs Gainesville",
+      "date": "2026-04-09",
+      "displayDate": "Thu, Apr 9",
+      "time": "6:00 PM",
+      "location": "Fort White, FL",
+      "opponent": "Gainesville Hurricanes",
+      "notes": "Home game vs Gainesville."
     }
   ],
   "recentResults": [

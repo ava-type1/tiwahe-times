@@ -1,6 +1,28 @@
 {
   "stories": [
     {
+      "id": 37,
+      "headline": "Columbia County House Fire Contained to Single Room Southwest of Lake City",
+      "summary": "Columbia County Fire Rescue responded to a house fire southwest of Lake City late Friday night, officials announced. Firefighters were able to contain the blaze to the room where it started, preventing it from spreading to the rest of the home. Columbia County Fire Rescue shared photos of the incident on social media. The location southwest of Lake City places the incident in the rural corridor toward Fort White. No injuries were reported in the brief official statement.",
+      "category": "Public Safety",
+      "locality": "fortwhite",
+      "source": "WCJB TV20",
+      "sourceUrl": "https://www.wcjb.com/2026/02/28/columbia-county-house-fire-contained-single-room-officials-say/",
+      "date": "2026-02-27",
+      "featured": false
+    },
+    {
+      "id": 36,
+      "headline": "Columbia County 8th Grader Wins 2026 First Coast Spelling Bee at Fort White High School",
+      "summary": "Tucker Ayers, a Columbia County 8th grader, is the 2026 First Coast Spelling Bee champion after competing at Fort White High School on Friday, February 27. Tucker outlasted 12 other spellers across 25 grueling rounds, clinching the title with the championship word 'theca.' Beyond his academic excellence — Tucker is an A Honor Roll student, a Battle of the Brains winner, and a recipient of both the Principal's Award and the Tiwahe Award — he also plays three instruments: symphonic, jazz, and marching band. Tucker will now represent Northeast Florida at the National Spelling Bee in Washington, D.C. in May. Congratulations, Tucker!",
+      "category": "Community",
+      "locality": "fortwhite",
+      "source": "News4Jax",
+      "sourceUrl": "https://www.news4jax.com/news/local/2026/02/28/columbia-county-8th-grader-wins-2026-first-coast-spelling-bee/",
+      "date": "2026-02-27",
+      "featured": true
+    },
+    {
       "id": 35,
       "headline": "Fort White Woman Killed in Pickup Truck Crash on US-27 Thursday Night",
       "summary": "A 56-year-old Fort White woman died Thursday night after her pickup truck ran off US-27 and overturned into multiple trees, according to the Florida Highway Patrol. The crash occurred at approximately 8:30 p.m. as the woman was traveling westbound on US-27. Troopers say she drove off the roadway before the truck overturned and struck multiple trees. The woman was pronounced dead at the scene. FHP is investigating the crash.",
