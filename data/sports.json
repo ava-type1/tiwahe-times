@@ -160,6 +160,15 @@
   ],
   "recentResults": [
     {
+      "sport": "Softball",
+      "event": "@ Corinth Christian Academy",
+      "date": "2026-02-24",
+      "result": "Win, 22-5",
+      "won": true,
+      "notes": "Fort White Lady Indians won big at Corinth Christian Academy, 22-5, to improve to 2-0 on the season. Per MaxPreps schedule/results page.",
+      "maxPrepsUrl": "https://www.maxpreps.com/fl/fort-white/fort-white-indians/softball/schedule/"
+    },
+    {
       "sport": "Baseball",
       "event": "@ Trenton",
       "date": "2026-02-26",
