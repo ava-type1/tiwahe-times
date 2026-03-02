@@ -1,6 +1,39 @@
 {
   "stories": [
     {
+      "id": 41,
+      "headline": "Blood Moon Lunar Eclipse Visible From Fort White Tuesday Morning — No Special Equipment Needed",
+      "summary": "A total lunar eclipse — popularly called a 'blood moon' — will be visible from all of North Central Florida in the early morning hours of Tuesday, March 3, 2026, according to WCJB TV20. Earth will pass directly between the sun and moon, casting a shadow that turns the moon a burnt copper-orange color. The eclipse begins at 3:44 a.m. and reaches its peak at 6:33 a.m., just before sunrise. Unlike solar eclipses, lunar eclipses are completely safe to view with the naked eye, binoculars, or a telescope. Step outside before dawn Tuesday morning for a rare sky show right from your own backyard.",
+      "category": "Community",
+      "locality": "fortwhite",
+      "source": "WCJB TV20",
+      "sourceUrl": "https://www.wcjb.com/2026/03/01/how-you-can-see-upcoming-blood-moon-total-lunar-eclipse/",
+      "date": "2026-03-01",
+      "featured": false
+    },
+    {
+      "id": 40,
+      "headline": "Volunteers Pull Invasive Water Hyacinth From Santa Fe River as Drought Worsens Water Levels",
+      "summary": "Members of the conservation group Our Santa Fe River and volunteers from Boy Scout Troop 88 gathered Saturday at High Springs to hand-pull invasive water hyacinth from the Santa Fe River, continuing an effort the organization has led since 2007. Our Santa Fe River President Rick Lanese said the group prefers manual removal over herbicides because dead plant matter from chemical treatments can decay in the water column and release nitrates back into the river. The removal effort has taken on added urgency amid Florida's drought: water hyacinth evaporates water at a significantly higher rate than open water, further lowering already-depleted river and spring levels. The organization plans to host another removal event in the coming months, and interested volunteers can contact oursantaferiver.org for information.",
+      "category": "Environment",
+      "locality": "fortwhite",
+      "source": "WCJB TV20",
+      "sourceUrl": "https://www.wcjb.com/2026/02/28/water-hyacinth-removal-effort-continues-santa-fe-river/",
+      "date": "2026-02-28",
+      "featured": false
+    },
+    {
+      "id": 39,
+      "headline": "Columbia County Warns Residents of Building Permit Email Scam",
+      "summary": "Columbia County officials are warning residents who have applied for building permits about a targeted email scam, according to a WCJB TV20 report published Sunday, March 1. Scammers are using public records — including permit application data — to craft convincing emails and steal money from victims. Anyone who receives a suspicious email related to a building permit application should not send money and is asked to call the Columbia County Building and Zoning Department at (386) 758-1008 to verify whether the communication is legitimate.",
+      "category": "Public Safety",
+      "locality": "fortwhite",
+      "source": "WCJB TV20",
+      "sourceUrl": "https://www.wcjb.com/2026/03/01/columbia-county-leaders-warn-residents-building-permit-email-scam/",
+      "date": "2026-03-01",
+      "featured": true
+    },
+    {
       "id": 38,
       "headline": "Columbia County Crews Battle Two Brush Fires Covering 50 Acres; Burn Bans Expand Across North Central Florida",
       "summary": "Columbia County Fire Rescue responded to two separate out-of-control brush fires in the past two days, with crews battling a combined 50 acres of burning land, according to WCJB TV20. The fires came as most of North Central Florida remains under burn bans due to extreme drought conditions. Alachua County officials extended their burn ban through at least March 6. The Columbia County burn ban, in place since early February and reinforced by a judicial order on February 24, remains in effect — anyone who spots a wildfire should call 911 immediately. Residents are reminded that all outdoor burning is prohibited until further notice.",

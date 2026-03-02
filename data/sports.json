@@ -6,7 +6,20 @@
   "maxPrepsUrl": "https://www.maxpreps.com/fl/fort-white/fort-white-indians/baseball/",
   "record": "1-7",
   "districtRecord": "0-2 (Rural District 6)",
+  "softballRecord": "2-0",
+  "softballDistrictRecord": "1-0",
   "upcoming": [
+    {
+      "sport": "Softball",
+      "event": "vs Union County",
+      "date": "2026-03-02",
+      "displayDate": "Mon, Mar 2",
+      "time": "7:00 PM",
+      "location": "Fort White, FL",
+      "opponent": "Union County Fighting Tigers",
+      "notes": "Home softball game vs Union County.",
+      "maxPrepsUrl": "https://www.maxpreps.com/games/03-02-2026/softball-26/fort-white-vs-union-county.htm?c=lL8jWe93MUmJ2WmnIuxjdA"
+    },
     {
       "sport": "Baseball",
       "event": "vs SFCA",
@@ -156,6 +169,94 @@
       "location": "Fort White, FL",
       "opponent": "Gainesville Hurricanes",
       "notes": "Home game vs Gainesville."
+    },
+    {
+      "sport": "Softball",
+      "event": "vs Bradford",
+      "date": "2026-03-03",
+      "displayDate": "Tue, Mar 3",
+      "time": "7:00 PM",
+      "location": "Fort White, FL",
+      "opponent": "Bradford Tornadoes",
+      "notes": "Home softball game vs Bradford.",
+      "maxPrepsUrl": "https://www.maxpreps.com/games/03-03-2026/softball-26/bradford-vs-fort-white.htm?c=tmkOHS81I0yT1pegD0Fa6w"
+    },
+    {
+      "sport": "Softball",
+      "event": "vs Suwannee",
+      "date": "2026-03-05",
+      "displayDate": "Thu, Mar 5",
+      "time": "7:00 PM",
+      "location": "Fort White, FL",
+      "opponent": "Suwannee Bulldogs",
+      "notes": "Home softball game vs Suwannee.",
+      "maxPrepsUrl": "https://www.maxpreps.com/games/03-05-2026/softball-26/fort-white-vs-suwannee.htm?c=iFH9DcOMbEWnrwvss54dFA"
+    },
+    {
+      "sport": "Softball",
+      "event": "vs First Christian",
+      "date": "2026-03-06",
+      "displayDate": "Fri, Mar 6",
+      "time": "7:00 PM",
+      "location": "Fort White, FL",
+      "opponent": "First Christian Lions",
+      "notes": "Home softball game vs First Christian (High Springs).",
+      "maxPrepsUrl": "https://www.maxpreps.com/games/03-06-2026/softball-26/first-christian-vs-fort-white.htm?c=y6-PhR_T1EK7frVMwPpFpw"
+    },
+    {
+      "sport": "Softball",
+      "event": "vs Lafayette",
+      "date": "2026-03-09",
+      "displayDate": "Mon, Mar 9",
+      "time": "7:00 PM",
+      "location": "Fort White, FL",
+      "opponent": "Lafayette Hornets",
+      "notes": "Home softball game vs Lafayette.",
+      "maxPrepsUrl": "https://www.maxpreps.com/games/03-09-2026/softball-26/fort-white-vs-lafayette.htm?c=29yrYUjnvU2olM9QAV1ocw"
+    },
+    {
+      "sport": "Softball",
+      "event": "vs Chiefland",
+      "date": "2026-03-10",
+      "displayDate": "Tue, Mar 10",
+      "time": "7:00 PM",
+      "location": "Fort White, FL",
+      "opponent": "Chiefland Indians",
+      "notes": "Home softball game vs Chiefland.",
+      "maxPrepsUrl": "https://www.maxpreps.com/games/03-10-2026/softball-26/chiefland-vs-fort-white.htm?c=nJ0bNE1EXki-GV2ATtcGJA"
+    },
+    {
+      "sport": "Softball",
+      "event": "vs Corinth Christian Academy",
+      "date": "2026-03-12",
+      "displayDate": "Thu, Mar 12",
+      "time": "7:00 PM",
+      "location": "Fort White, FL",
+      "opponent": "Corinth Christian Academy Warriors",
+      "notes": "Home softball game vs Corinth Christian.",
+      "maxPrepsUrl": "https://www.maxpreps.com/games/03-12-2026/softball-26/corinth-christian-academy-vs-fort-white.htm?c=z3znQP9wv0mYVuSx4h_6WA"
+    },
+    {
+      "sport": "Softball",
+      "event": "vs Madison County",
+      "date": "2026-03-17",
+      "displayDate": "Tue, Mar 17",
+      "time": "7:00 PM",
+      "location": "Fort White, FL",
+      "opponent": "Madison County Cowboys",
+      "notes": "Home softball game vs Madison County.",
+      "maxPrepsUrl": "https://www.maxpreps.com/games/03-17-2026/softball-26/fort-white-vs-madison-county.htm?c=wTuKAp99V0axvXhCUXOStw"
+    },
+    {
+      "sport": "Softball",
+      "event": "@ Bradford",
+      "date": "2026-03-20",
+      "displayDate": "Fri, Mar 20",
+      "time": "7:00 PM",
+      "location": "Starke, FL",
+      "opponent": "Bradford Tornadoes",
+      "notes": "Road softball game at Bradford.",
+      "maxPrepsUrl": "https://www.maxpreps.com/games/03-20-2026/softball-26/bradford-vs-fort-white.htm?c=BN5BmO2V6EC8PVviR0NsFw"
     }
   ],
   "recentResults": [
