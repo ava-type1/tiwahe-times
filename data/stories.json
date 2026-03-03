@@ -1,6 +1,50 @@
 {
   "stories": [
     {
+      "id": 45,
+      "headline": "NOAA: Warmer, Drier Spring Expected for Florida as Drought Likely to Intensify",
+      "summary": "NOAA's Climate Prediction Center projects warmer-than-average temperatures and near-normal to below-average precipitation for Florida during meteorological spring (March through May), offering little relief from the state's ongoing drought. La Niña conditions are expected to gradually weaken and transition toward neutral by late spring, but forecasters say this change is unlikely to bring significant rainfall. Nearly 68% of Florida is already experiencing extreme drought conditions, and seasonal outlooks indicate those conditions may intensify in coming weeks. Many counties have burn bans in place, and utilities have warned of possible increased water restrictions if rainfall deficits continue through the spring.",
+      "category": "Weather",
+      "locality": "fortwhite",
+      "source": "WUFT News",
+      "sourceUrl": "https://www.wuft.org/weather/2026-03-02/see-how-warm-and-dry-spring-could-be",
+      "date": "2026-03-02",
+      "featured": false
+    },
+    {
+      "id": 44,
+      "headline": "Motorcyclist from Tennessee Critically Injured in I-75 Crash in Columbia County",
+      "summary": "A 34-year-old man from Tennessee was critically injured Monday afternoon in a motorcycle crash on Interstate 75 in Columbia County, according to Florida State Troopers. The man was traveling north when he ran off the roadway north of the U.S. 90 exit and struck a semi-truck parked on the shoulder. The motorcyclist was airlifted to UF Health Shands hospital in Gainesville in critical condition. The crash occurred separately from a fatal motorcycle accident the same day in Gainesville.",
+      "category": "Public Safety",
+      "locality": "fortwhite",
+      "source": "WCJB TV20",
+      "sourceUrl": "https://www.wcjb.com/2026/03/02/1-dead-1-critically-hurt-separate-motorcycle-crashes-north-central-florida/",
+      "date": "2026-03-02",
+      "featured": false
+    },
+    {
+      "id": 43,
+      "headline": "Wildfire Smoke Shuts Down I-75 in Columbia County for 3 Hours Monday Night",
+      "summary": "All northbound and southbound lanes of Interstate 75 in Columbia County were shut down for approximately three hours Monday night after heavy smoke from a 25-acre wildfire caused extremely low visibility on the highway, according to WCJB TV20. Law enforcement blocked the road while crews battled the blaze. The fire was burning southwest of Lake City — toward the Fort White corridor. The Florida Forest Service reports the fire is now 100% contained and all lanes have since reopened.",
+      "category": "Public Safety",
+      "locality": "fortwhite",
+      "source": "WCJB TV20",
+      "sourceUrl": "https://www.wcjb.com/2026/03/03/wildfire-smoke-shuts-down-i-75-columbia-county-3-hours/",
+      "date": "2026-03-02",
+      "featured": true
+    },
+    {
+      "id": 42,
+      "headline": "Lake City Council Divided Over Proposed 'Unity Fest' with Columbia County",
+      "summary": "The Lake City City Council debated a proposal Monday night that would have both the City of Lake City and Columbia County each donate $10,000 to fund a joint 'Unity Fest' celebration of city-county partnership. A slim majority of council members spoke against committing city money to the event, frustrating the proposal's sponsor, Tammy Harris, who pointed out that funds were already available in a city festival account. Mayor Noah Walker said he would prefer to restore a city park and celebrate that achievement instead. No vote to fund the event was taken.",
+      "category": "Government",
+      "locality": "county",
+      "source": "WCJB TV20",
+      "sourceUrl": "https://www.wcjb.com/2026/03/03/slim-majority-lake-city-council-members-spoke-against-spending-money-proposed-unity-fest/",
+      "date": "2026-03-03",
+      "featured": false
+    },
+    {
       "id": 41,
       "headline": "Blood Moon Lunar Eclipse Visible From Fort White Tuesday Morning — No Special Equipment Needed",
       "summary": "A total lunar eclipse — popularly called a 'blood moon' — will be visible from all of North Central Florida in the early morning hours of Tuesday, March 3, 2026, according to WCJB TV20. Earth will pass directly between the sun and moon, casting a shadow that turns the moon a burnt copper-orange color. The eclipse begins at 3:44 a.m. and reaches its peak at 6:33 a.m., just before sunrise. Unlike solar eclipses, lunar eclipses are completely safe to view with the naked eye, binoculars, or a telescope. Step outside before dawn Tuesday morning for a rare sky show right from your own backyard.",
