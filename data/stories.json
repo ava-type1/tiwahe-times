@@ -1,6 +1,17 @@
 {
   "stories": [
     {
+      "id": 46,
+      "headline": "SRWMD Officials Exit NCFRPC Meeting Early as Multi-County Opposition to Aquifer Wastewater Plan Intensifies",
+      "summary": "Growing opposition to 'Water First North Florida' — a plan to pump 40 million gallons per day of treated Jacksonville wastewater into the Floridan Aquifer via the Suwannee River Basin — boiled over at the North Central Florida Regional Planning Council meeting on March 3. Residents from Alachua, Columbia, Hamilton, and Clay counties packed the meeting to voice strong opposition, citing fears of PFAS 'forever chemicals,' nitrates, and other contaminants reaching local springs and drinking water. Madison County Commissioner Rick Davis formally announced his county is sending a letter of opposition to the Suwannee River Water Management District and called on other counties to do the same. In a striking moment reported by the Columbia County Observer, the SRWMD's Deputy Executive Director and Public Information Officer left the meeting before hearing public comment — what the Observer called 'not a good look' for the unelected, tax-levying water district.",
+      "category": "Environment",
+      "locality": "fortwhite",
+      "source": "Columbia County Observer",
+      "sourceUrl": "https://www.columbiacountyobserver.com/master_files/Florida_News_2026/20260303-srwmd-at-ncfrpc-not-for-long.html",
+      "date": "2026-03-03",
+      "featured": true
+    },
+    {
       "id": 45,
       "headline": "NOAA: Warmer, Drier Spring Expected for Florida as Drought Likely to Intensify",
       "summary": "NOAA's Climate Prediction Center projects warmer-than-average temperatures and near-normal to below-average precipitation for Florida during meteorological spring (March through May), offering little relief from the state's ongoing drought. La Niña conditions are expected to gradually weaken and transition toward neutral by late spring, but forecasters say this change is unlikely to bring significant rainfall. Nearly 68% of Florida is already experiencing extreme drought conditions, and seasonal outlooks indicate those conditions may intensify in coming weeks. Many counties have burn bans in place, and utilities have warned of possible increased water restrictions if rainfall deficits continue through the spring.",

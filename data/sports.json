@@ -4,21 +4,11 @@
   "motto": "Believe in the TR1BE! #TIWAHE",
   "season": "Spring 2025-26",
   "maxPrepsUrl": "https://www.maxpreps.com/fl/fort-white/fort-white-indians/baseball/",
-  "record": "1-7",
+  "record": "2-8",
   "districtRecord": "0-2 (Rural District 6)",
-  "softballRecord": "2-1",
+  "softballRecord": "2-2",
   "softballDistrictRecord": "1-0",
   "upcoming": [
-    {
-      "sport": "Baseball",
-      "event": "@ Gainesville",
-      "date": "2026-03-03",
-      "displayDate": "Tue, Mar 3",
-      "time": "6:00 PM",
-      "location": "Gainesville, FL",
-      "opponent": "Gainesville Hurricanes",
-      "notes": "Road game at Gainesville."
-    },
     {
       "sport": "Baseball",
       "event": "@ Branford (District)",
@@ -151,17 +141,6 @@
     },
     {
       "sport": "Softball",
-      "event": "vs Bradford",
-      "date": "2026-03-03",
-      "displayDate": "Tue, Mar 3",
-      "time": "7:00 PM",
-      "location": "Fort White, FL",
-      "opponent": "Bradford Tornadoes",
-      "notes": "Home softball game vs Bradford.",
-      "maxPrepsUrl": "https://www.maxpreps.com/games/03-03-2026/softball-26/bradford-vs-fort-white.htm?c=tmkOHS81I0yT1pegD0Fa6w"
-    },
-    {
-      "sport": "Softball",
       "event": "vs Suwannee",
       "date": "2026-03-05",
       "displayDate": "Thu, Mar 5",
@@ -239,6 +218,81 @@
     }
   ],
   "recentResults": [
+    {
+      "sport": "Baseball",
+      "event": "@ Gainesville",
+      "date": "2026-03-03",
+      "result": "Win, 11-1",
+      "won": true,
+      "notes": "The Indians bounced back with a convincing 11-1 road win at Gainesville Tuesday night. Fort White scored 2 in the 1st, 3 in the 2nd, 5 in the 4th, and 1 in the 6th to win in 6 innings. Carson Capallia went 2-for-4 with 2 RBI; Ryder Mandarino added 2 hits and 2 RBI; Aaron Parnell drove in 2. Cole Westland earned the pitching win. Fort White is now 2-8 on the season.",
+      "lineScore": {
+        "away": {
+          "team": "Fort White",
+          "innings": [2, 3, 0, 5, 0, 1],
+          "R": 11,
+          "H": 8,
+          "E": 3
+        },
+        "home": {
+          "team": "Gainesville",
+          "innings": [0, 1, 0, 0, 0, 0],
+          "R": 1,
+          "H": 4,
+          "E": 3
+        }
+      },
+      "maxPrepsUrl": "https://www.maxpreps.com/games/3-3-2026/baseball-26/fort-white-vs-gainesville.htm?c=V_OaaEraa0aEnTptX_qrWw"
+    },
+    {
+      "sport": "Softball",
+      "event": "vs Bradford",
+      "date": "2026-03-03",
+      "result": "Loss, 8-11",
+      "won": false,
+      "notes": "The Lady Indians fell 11-8 to Bradford at home Tuesday night. Bradford broke the game open with 6 runs in the 2nd and 5 more in the 3rd to lead 11-0 before Fort White rallied with 4 in the 5th, 3 in the 6th, and 1 in the 7th. Layla Alvey led Fort White going 3-for-4; Taryn Clyatt and G. Durrance each added 2 hits. Fort White falls to 2-2 overall, 1-0 district.",
+      "lineScore": {
+        "away": {
+          "team": "Bradford",
+          "innings": [0, 6, 5, 0, 0, 0, 0],
+          "R": 11,
+          "H": 12,
+          "E": 7
+        },
+        "home": {
+          "team": "Fort White",
+          "innings": [0, 0, 0, 0, 4, 3, 1],
+          "R": 8,
+          "H": 9,
+          "E": 4
+        }
+      },
+      "maxPrepsUrl": "https://www.maxpreps.com/games/3-3-2026/softball-26/bradford-vs-fort-white.htm?c=tmkOHS81I0yT1pegD0Fa6w"
+    },
+    {
+      "sport": "Baseball",
+      "event": "vs Saint Francis Catholic Academy",
+      "date": "2026-03-02",
+      "result": "Loss, 7-17",
+      "won": false,
+      "notes": "Fort White fell 17-7 at home to Saint Francis Catholic Academy on Monday. SFCA jumped on the Indians for 3 in the 1st, then put up 5 and 6 more in the 4th and 5th. Fort White answered with 3 in the 3rd and 4 in the 4th but could not keep pace. Aaron Parnell had 3 RBI and Cole Westland drove in 2 for the Indians.",
+      "lineScore": {
+        "away": {
+          "team": "Saint Francis Catholic Academy",
+          "innings": [3, 0, 0, 5, 6, 0, 3],
+          "R": 17,
+          "H": 15,
+          "E": 3
+        },
+        "home": {
+          "team": "Fort White",
+          "innings": [0, 0, 3, 4, 0, 0, 0],
+          "R": 7,
+          "H": 5,
+          "E": 4
+        }
+      },
+      "maxPrepsUrl": "https://www.maxpreps.com/games/3-2-2026/baseball-26/fort-white-vs-saint-francis-catholic-academy.htm?c=3N9KPf1DS0q8sqV4OmAwUA"
+    },
     {
       "sport": "Softball",
       "event": "vs Union County",
