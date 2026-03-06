@@ -1,6 +1,28 @@
 {
   "stories": [
     {
+      "id": 48,
+      "headline": "Columbia County Burn Ban Extended Through March 19",
+      "summary": "Leaders in Columbia County officially extended the county-wide burn ban through March 19, 2026, according to WCJB TV20's Friday report. Levy and Gilchrist counties also extended their bans, which run through at least Thursday of next week. The extensions come as drought conditions continue to grip North Central Florida with no significant rainfall relief in sight. Putnam County lifted its ban this week, and Alachua County's ban was scheduled to end Friday unless extended. Residents of Columbia County — including Fort White — remain under strict prohibition on all outdoor burning through at least March 19; anyone who spots a wildfire should call 911 immediately.",
+      "category": "Public Safety",
+      "locality": "fortwhite",
+      "source": "WCJB TV20",
+      "sourceUrl": "https://www.wcjb.com/2026/03/06/burn-bans-extended-several-north-central-florida-counties/",
+      "date": "2026-03-06",
+      "featured": false
+    },
+    {
+      "id": 47,
+      "headline": "Columbia County Commissioners Send Official Letter Opposing Water First North Florida",
+      "summary": "The Columbia County Board of County Commissioners formally voted Thursday, March 5, to send an official opposition letter to the Suwannee River Water Management District regarding the 'Water First North Florida' project. District 3 Commissioner Robby Hollingsworth brought the proposal to County Manager David Kraus on March 4, and Kraus moved quickly to place it on the board's next-morning agenda. In the letter, commissioners wrote that 'the project poses unacceptable risks to the long-term welfare of our county and region,' citing environmental impact, public health and water concerns, economic consequences, and lack of local benefit. The letter calls on reviewing agencies and decision-makers to pursue 'sustainable alternatives that protect the long-term health of our water resources.' Columbia County follows Madison County, which sent a similar letter of opposition to the SRWMD on February 26.",
+      "category": "Environment",
+      "locality": "fortwhite",
+      "source": "Columbia County Observer",
+      "sourceUrl": "https://www.columbiacountyobserver.com/master_files/County_News_2026/20260305-county-5-to-give-the-thumbs-down-on-water-first-north-florida.html",
+      "date": "2026-03-05",
+      "featured": true
+    },
+    {
       "id": 46,
       "headline": "SRWMD Officials Exit NCFRPC Meeting Early as Multi-County Opposition to Aquifer Wastewater Plan Intensifies",
       "summary": "Growing opposition to 'Water First North Florida' — a plan to pump 40 million gallons per day of treated Jacksonville wastewater into the Floridan Aquifer via the Suwannee River Basin — boiled over at the North Central Florida Regional Planning Council meeting on March 3. Residents from Alachua, Columbia, Hamilton, and Clay counties packed the meeting to voice strong opposition, citing fears of PFAS 'forever chemicals,' nitrates, and other contaminants reaching local springs and drinking water. Madison County Commissioner Rick Davis formally announced his county is sending a letter of opposition to the Suwannee River Water Management District and called on other counties to do the same. In a striking moment reported by the Columbia County Observer, the SRWMD's Deputy Executive Director and Public Information Officer left the meeting before hearing public comment — what the Observer called 'not a good look' for the unelected, tax-levying water district.",
