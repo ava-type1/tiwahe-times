@@ -2,16 +2,6 @@
   "notices": [
     {
       "type": "Meeting",
-      "title": "Board of County Commissioners — Regular Meeting",
-      "date": "2026-03-05",
-      "displayDate": "Thursday, March 5",
-      "time": "6:00 PM",
-      "location": "School Board Administrative Complex Auditorium, 372 W Duval St, Lake City",
-      "description": "Regular meeting of the Columbia County Board of County Commissioners. Meets 1st and 3rd Thursday of each month.",
-      "link": "https://www.columbiacountyfla.com/MeetingCalendar.asp"
-    },
-    {
-      "type": "Meeting",
       "title": "Tourist Development Council Meeting",
       "date": "2026-03-18",
       "displayDate": "Wednesday, March 18",
@@ -22,7 +12,7 @@
     },
     {
       "type": "Meeting",
-      "title": "Board of County Commissioners — Regular Meeting",
+      "title": "Board of County Commissioners \u2014 Regular Meeting",
       "date": "2026-03-19",
       "displayDate": "Thursday, March 19",
       "time": "6:00 PM",
@@ -52,13 +42,23 @@
     },
     {
       "type": "Meeting",
-      "title": "Board of County Commissioners — Regular Meeting",
+      "title": "Board of County Commissioners \u2014 Regular Meeting",
       "date": "2026-04-02",
       "displayDate": "Thursday, April 2",
       "time": "6:00 PM",
       "location": "School Board Administrative Complex Auditorium, 372 W Duval St, Lake City",
       "description": "Regular meeting of the Columbia County Board of County Commissioners. Meets 1st and 3rd Thursday of each month.",
       "link": "https://www.columbiacountyfla.com/MeetingCalendar.asp"
+    },
+    {
+      "type": "Meeting",
+      "title": "Code Enforcement Magistrate Hearing",
+      "date": "2026-04-10",
+      "displayDate": "Friday, April 10",
+      "time": "TBD",
+      "location": "Columbia County, Lake City",
+      "description": "Code Enforcement Magistrate Hearing. Source: Columbia County official meeting calendar.",
+      "link": "https://www.columbiacountyfla.com/MeetingCalendarForCrawlers.asp"
     }
   ]
 }

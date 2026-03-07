@@ -39,6 +39,14 @@
       "location": "School Board Administrative Complex Auditorium, 372 W Duval St, Lake City",
       "time": "6:00 PM",
       "description": "Regular meeting of the Board of County Commissioners. Meets 1st and 3rd Thursday of each month."
+    },
+    {
+      "date": "2026-04-10",
+      "displayDate": "Fri, Apr 10",
+      "name": "Code Enforcement Magistrate Hearing",
+      "location": "Columbia County",
+      "time": "TBD",
+      "description": "Code Enforcement Magistrate Hearing. Per the Columbia County meeting calendar."
     }
   ]
 }
