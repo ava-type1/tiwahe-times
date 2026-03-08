@@ -1,55 +1,55 @@
 {
   "location": "Fort White, FL",
-  "updated": "2026-03-07T12:00:30-05:00",
+  "updated": "2026-03-08T08:01:16-04:00",
   "current": {
-    "temp": 81,
-    "feelsLike": 86,
-    "condition": "Mainly Clear",
-    "icon": "🌤️",
-    "humidity": 60,
-    "wind": "8 mph",
-    "uvIndex": 7,
-    "chanceOfRain": 17
+    "temp": 63,
+    "feelsLike": 67,
+    "condition": "Clear Sky",
+    "icon": "☀️",
+    "humidity": 95,
+    "wind": "2 mph",
+    "uvIndex": 0,
+    "chanceOfRain": 9
   },
   "forecast": [    {
-      "day": "Sat",
-      "date": "Mar 07",
-      "high": 87,
-      "low": 65,
-      "condition": "Foggy",
-      "icon": "🌫️",
-      "chanceOfRain": 17
-    },    {
       "day": "Sun",
       "date": "Mar 08",
-      "high": 83,
-      "low": 64,
-      "condition": "Foggy",
-      "icon": "🌫️",
-      "chanceOfRain": 6
+      "high": 85,
+      "low": 63,
+      "condition": "Overcast",
+      "icon": "☁️",
+      "chanceOfRain": 9
     },    {
       "day": "Mon",
       "date": "Mar 09",
-      "high": 87,
-      "low": 64,
-      "condition": "Foggy",
-      "icon": "🌫️",
+      "high": 85,
+      "low": 63,
+      "condition": "Overcast",
+      "icon": "☁️",
       "chanceOfRain": 6
     },    {
       "day": "Tue",
       "date": "Mar 10",
-      "high": 89,
+      "high": 88,
       "low": 64,
-      "condition": "Partly Cloudy",
-      "icon": "⛅",
+      "condition": "Overcast",
+      "icon": "☁️",
       "chanceOfRain": 4
     },    {
       "day": "Wed",
       "date": "Mar 11",
-      "high": 88,
+      "high": 89,
       "low": 66,
       "condition": "Overcast",
       "icon": "☁️",
-      "chanceOfRain": 3
+      "chanceOfRain": 2
+    },    {
+      "day": "Thu",
+      "date": "Mar 12",
+      "high": 72,
+      "low": 61,
+      "condition": "Rain Showers",
+      "icon": "🌦️",
+      "chanceOfRain": 48
     }]
 }

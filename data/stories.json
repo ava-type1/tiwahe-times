@@ -1,6 +1,28 @@
 {
   "stories": [
     {
+      "id": 51,
+      "headline": "Lake City Man Faces Attempted Murder, Arson Charges After Setting Woman's Home on Fire",
+      "summary": "Lake City police charged Marvin Roberts, 70, with attempted murder, arson of an occupied home, and aggravated assault with a deadly weapon on Friday, March 6, after investigators determined he intentionally set a house fire on Southeast Colburn Avenue in the early morning hours of February 18. Officers responding to the fire were told by the homeowner that Roberts was believed to be inside; firefighters found him in a storage shed behind the home and he was taken to the hospital. An investigation found fires had been started in two separate locations inside the home with evidence of accelerants, and that Roberts set the blaze while the homeowner was inside. He was booked into the Columbia County Jail after being released from medical care.",
+      "category": "Public Safety",
+      "locality": "county",
+      "source": "WCJB TV20",
+      "sourceUrl": "https://www.wcjb.com/2026/03/06/man-arrested-setting-womans-house-fire-lake-city/",
+      "date": "2026-03-06",
+      "featured": false
+    },
+    {
+      "id": 50,
+      "headline": "Columbia County Deputies Arrest Ocala Man in Online Predator Sting at Lake City",
+      "summary": "Columbia County Sheriff's deputies arrested Horatio Carrie, 25, of Ocala on Thursday, March 5, after he traveled from Ocala to Lake City to meet who he believed was a 14-year-old girl — who was in fact an undercover detective. Investigators say Carrie initiated contact online and also sent inappropriate images before arranging the meeting. He was arrested at the meeting location in Columbia County and is being held without bond for traveling to meet a minor as well as a probation violation from a prior fleeing and eluding case.",
+      "category": "Public Safety",
+      "locality": "county",
+      "source": "WCJB TV20",
+      "sourceUrl": "https://www.wcjb.com/2026/03/05/ocala-man-arrested-after-allegedly-traveling-meet-an-underage-girl/",
+      "date": "2026-03-05",
+      "featured": false
+    },
+    {
       "id": 49,
       "headline": "Columbia, Suwannee Deputies Rescue Boaters in Distress at Ezzell Boat Ramp",
       "summary": "Columbia and Suwannee County deputies rescued boaters in distress Friday at the Ezzell Boat Ramp on the Suwannee River, according to WCJB TV20. Deputies said they were already at the river recovering evidence in an unrelated criminal investigation when they heard boaters calling for help. The sheriff's dive team assisted as the boat reportedly took on water, and deputies got both the people and the vessel safely to shore. The incident happened in the Suwannee River corridor frequently used by Fort White-area residents for recreation.",
@@ -14,7 +36,7 @@
     {
       "id": 48,
       "headline": "Columbia County Burn Ban Extended Through March 19",
-      "summary": "Leaders in Columbia County officially extended the county-wide burn ban through March 19, 2026, according to WCJB TV20's Friday report. Levy and Gilchrist counties also extended their bans, which run through at least Thursday of next week. The extensions come as drought conditions continue to grip North Central Florida with no significant rainfall relief in sight. Putnam County lifted its ban this week, and Alachua County's ban was scheduled to end Friday unless extended. Residents of Columbia County \u2014 including Fort White \u2014 remain under strict prohibition on all outdoor burning through at least March 19; anyone who spots a wildfire should call 911 immediately.",
+      "summary": "Leaders in Columbia County officially extended the county-wide burn ban through March 19, 2026, according to WCJB TV20's Friday report. Levy and Gilchrist counties also extended their bans, which run through at least Thursday of next week. The extensions come as drought conditions continue to grip North Central Florida with no significant rainfall relief in sight. Putnam County lifted its ban this week, and Alachua County's ban was scheduled to end Friday unless extended. Residents of Columbia County — including Fort White — remain under strict prohibition on all outdoor burning through at least March 19; anyone who spots a wildfire should call 911 immediately.",
       "category": "Public Safety",
       "locality": "fortwhite",
       "source": "WCJB TV20",
@@ -36,7 +58,7 @@
     {
       "id": 46,
       "headline": "SRWMD Officials Exit NCFRPC Meeting Early as Multi-County Opposition to Aquifer Wastewater Plan Intensifies",
-      "summary": "Growing opposition to 'Water First North Florida' \u2014 a plan to pump 40 million gallons per day of treated Jacksonville wastewater into the Floridan Aquifer via the Suwannee River Basin \u2014 boiled over at the North Central Florida Regional Planning Council meeting on March 3. Residents from Alachua, Columbia, Hamilton, and Clay counties packed the meeting to voice strong opposition, citing fears of PFAS 'forever chemicals,' nitrates, and other contaminants reaching local springs and drinking water. Madison County Commissioner Rick Davis formally announced his county is sending a letter of opposition to the Suwannee River Water Management District and called on other counties to do the same. In a striking moment reported by the Columbia County Observer, the SRWMD's Deputy Executive Director and Public Information Officer left the meeting before hearing public comment \u2014 what the Observer called 'not a good look' for the unelected, tax-levying water district.",
+      "summary": "Growing opposition to 'Water First North Florida' — a plan to pump 40 million gallons per day of treated Jacksonville wastewater into the Floridan Aquifer via the Suwannee River Basin — boiled over at the North Central Florida Regional Planning Council meeting on March 3. Residents from Alachua, Columbia, Hamilton, and Clay counties packed the meeting to voice strong opposition, citing fears of PFAS 'forever chemicals,' nitrates, and other contaminants reaching local springs and drinking water. Madison County Commissioner Rick Davis formally announced his county is sending a letter of opposition to the Suwannee River Water Management District and called on other counties to do the same. In a striking moment reported by the Columbia County Observer, the SRWMD's Deputy Executive Director and Public Information Officer left the meeting before hearing public comment — what the Observer called 'not a good look' for the unelected, tax-levying water district.",
       "category": "Environment",
       "locality": "fortwhite",
       "source": "Columbia County Observer",
@@ -47,7 +69,7 @@
     {
       "id": 45,
       "headline": "NOAA: Warmer, Drier Spring Expected for Florida as Drought Likely to Intensify",
-      "summary": "NOAA's Climate Prediction Center projects warmer-than-average temperatures and near-normal to below-average precipitation for Florida during meteorological spring (March through May), offering little relief from the state's ongoing drought. La Ni\u00f1a conditions are expected to gradually weaken and transition toward neutral by late spring, but forecasters say this change is unlikely to bring significant rainfall. Nearly 68% of Florida is already experiencing extreme drought conditions, and seasonal outlooks indicate those conditions may intensify in coming weeks. Many counties have burn bans in place, and utilities have warned of possible increased water restrictions if rainfall deficits continue through the spring.",
+      "summary": "NOAA's Climate Prediction Center projects warmer-than-average temperatures and near-normal to below-average precipitation for Florida during meteorological spring (March through May), offering little relief from the state's ongoing drought. La Niña conditions are expected to gradually weaken and transition toward neutral by late spring, but forecasters say this change is unlikely to bring significant rainfall. Nearly 68% of Florida is already experiencing extreme drought conditions, and seasonal outlooks indicate those conditions may intensify in coming weeks. Many counties have burn bans in place, and utilities have warned of possible increased water restrictions if rainfall deficits continue through the spring.",
       "category": "Weather",
       "locality": "fortwhite",
       "source": "WUFT News",
@@ -69,7 +91,7 @@
     {
       "id": 43,
       "headline": "Wildfire Smoke Shuts Down I-75 in Columbia County for 3 Hours Monday Night",
-      "summary": "All northbound and southbound lanes of Interstate 75 in Columbia County were shut down for approximately three hours Monday night after heavy smoke from a 25-acre wildfire caused extremely low visibility on the highway, according to WCJB TV20. Law enforcement blocked the road while crews battled the blaze. The fire was burning southwest of Lake City \u2014 toward the Fort White corridor. The Florida Forest Service reports the fire is now 100% contained and all lanes have since reopened.",
+      "summary": "All northbound and southbound lanes of Interstate 75 in Columbia County were shut down for approximately three hours Monday night after heavy smoke from a 25-acre wildfire caused extremely low visibility on the highway, according to WCJB TV20. Law enforcement blocked the road while crews battled the blaze. The fire was burning southwest of Lake City — toward the Fort White corridor. The Florida Forest Service reports the fire is now 100% contained and all lanes have since reopened.",
       "category": "Public Safety",
       "locality": "fortwhite",
       "source": "WCJB TV20",
@@ -90,8 +112,8 @@
     },
     {
       "id": 41,
-      "headline": "Blood Moon Lunar Eclipse Visible From Fort White Tuesday Morning \u2014 No Special Equipment Needed",
-      "summary": "A total lunar eclipse \u2014 popularly called a 'blood moon' \u2014 will be visible from all of North Central Florida in the early morning hours of Tuesday, March 3, 2026, according to WCJB TV20. Earth will pass directly between the sun and moon, casting a shadow that turns the moon a burnt copper-orange color. The eclipse begins at 3:44 a.m. and reaches its peak at 6:33 a.m., just before sunrise. Unlike solar eclipses, lunar eclipses are completely safe to view with the naked eye, binoculars, or a telescope. Step outside before dawn Tuesday morning for a rare sky show right from your own backyard.",
+      "headline": "Blood Moon Lunar Eclipse Visible From Fort White Tuesday Morning — No Special Equipment Needed",
+      "summary": "A total lunar eclipse — popularly called a 'blood moon' — was visible from all of North Central Florida in the early morning hours of Tuesday, March 3, 2026, according to WCJB TV20. Earth passed directly between the sun and moon, casting a shadow that turned the moon a burnt copper-orange color. The eclipse began at 3:44 a.m. and reached its peak at 6:33 a.m., just before sunrise. Unlike solar eclipses, lunar eclipses are completely safe to view with the naked eye, binoculars, or a telescope.",
       "category": "Community",
       "locality": "fortwhite",
       "source": "WCJB TV20",
@@ -113,7 +135,7 @@
     {
       "id": 39,
       "headline": "Columbia County Warns Residents of Building Permit Email Scam",
-      "summary": "Columbia County officials are warning residents who have applied for building permits about a targeted email scam, according to a WCJB TV20 report published Sunday, March 1. Scammers are using public records \u2014 including permit application data \u2014 to craft convincing emails and steal money from victims. Anyone who receives a suspicious email related to a building permit application should not send money and is asked to call the Columbia County Building and Zoning Department at (386) 758-1008 to verify whether the communication is legitimate.",
+      "summary": "Columbia County officials are warning residents who have applied for building permits about a targeted email scam, according to a WCJB TV20 report published Sunday, March 1. Scammers are using public records — including permit application data — to craft convincing emails and steal money from victims. Anyone who receives a suspicious email related to a building permit application should not send money and is asked to call the Columbia County Building and Zoning Department at (386) 758-1008 to verify whether the communication is legitimate.",
       "category": "Public Safety",
       "locality": "fortwhite",
       "source": "WCJB TV20",
@@ -124,7 +146,7 @@
     {
       "id": 38,
       "headline": "Columbia County Crews Battle Two Brush Fires Covering 50 Acres; Burn Bans Expand Across North Central Florida",
-      "summary": "Columbia County Fire Rescue responded to two separate out-of-control brush fires in the past two days, with crews battling a combined 50 acres of burning land, according to WCJB TV20. The fires came as most of North Central Florida remains under burn bans due to extreme drought conditions. Alachua County officials extended their burn ban through at least March 6. The Columbia County burn ban, in place since early February and reinforced by a judicial order on February 24, remains in effect \u2014 anyone who spots a wildfire should call 911 immediately. Residents are reminded that all outdoor burning is prohibited until further notice.",
+      "summary": "Columbia County Fire Rescue responded to two separate out-of-control brush fires in the past two days, with crews battling a combined 50 acres of burning land, according to WCJB TV20. The fires came as most of North Central Florida remains under burn bans due to extreme drought conditions. Alachua County officials extended their burn ban through at least March 6. The Columbia County burn ban, in place since early February and reinforced by a judicial order on February 24, remains in effect — anyone who spots a wildfire should call 911 immediately. Residents are reminded that all outdoor burning is prohibited until further notice.",
       "category": "Public Safety",
       "locality": "fortwhite",
       "source": "WCJB TV20",
@@ -146,7 +168,7 @@
     {
       "id": 36,
       "headline": "Columbia County 8th Grader Wins 2026 First Coast Spelling Bee at Fort White High School",
-      "summary": "Tucker Ayers, a Columbia County 8th grader, is the 2026 First Coast Spelling Bee champion after competing at Fort White High School on Friday, February 27. Tucker outlasted 12 other spellers across 25 grueling rounds, clinching the title with the championship word 'theca.' Beyond his academic excellence \u2014 Tucker is an A Honor Roll student, a Battle of the Brains winner, and a recipient of both the Principal's Award and the Tiwahe Award \u2014 he also plays three instruments: symphonic, jazz, and marching band. Tucker will now represent Northeast Florida at the National Spelling Bee in Washington, D.C. in May. Congratulations, Tucker!",
+      "summary": "Tucker Ayers, a Columbia County 8th grader, is the 2026 First Coast Spelling Bee champion after competing at Fort White High School on Friday, February 27. Tucker outlasted 12 other spellers across 25 grueling rounds, clinching the title with the championship word 'theca.' Beyond his academic excellence — Tucker is an A Honor Roll student, a Battle of the Brains winner, and a recipient of both the Principal's Award and the Tiwahe Award — he also plays three instruments: symphonic, jazz, and marching band. Tucker will now represent Northeast Florida at the National Spelling Bee in Washington, D.C. in May. Congratulations, Tucker!",
       "category": "Community",
       "locality": "fortwhite",
       "source": "News4Jax",
@@ -168,7 +190,7 @@
     {
       "id": 34,
       "headline": "Fort White Town Council Removes Dissolution Ordinance; Town Not Dissolving",
-      "summary": "The Fort White Town Council voted Monday, February 23 to remove a proposed dissolution ordinance from the regular meeting agenda, effectively ending the immediate threat to the town's existence. Council Member Monica Merricks moved to strike the item; Member Lonnie Harrell \u2014 the very councilman who originally placed dissolution on the agenda \u2014 agreed with the removal, telling the crowd there wasn't enough support and that without a town attorney there could be no ordinance anyway. Attendees applauded. Council Member Kathryn Terry said the town was 'nowhere near dissolving' and urged exploring grant opportunities to address staffing and budget gaps. If dissolution were ever to be reconsidered, it would first require a majority council vote followed by a voter referendum.",
+      "summary": "The Fort White Town Council voted Monday, February 23 to remove a proposed dissolution ordinance from the regular meeting agenda, effectively ending the immediate threat to the town's existence. Council Member Monica Merricks moved to strike the item; Member Lonnie Harrell — the very councilman who originally placed dissolution on the agenda — agreed with the removal, telling the crowd there wasn't enough support and that without a town attorney there could be no ordinance anyway. Attendees applauded. Council Member Kathryn Terry said the town was 'nowhere near dissolving' and urged exploring grant opportunities to address staffing and budget gaps. If dissolution were ever to be reconsidered, it would first require a majority council vote followed by a voter referendum.",
       "category": "Government",
       "locality": "fortwhite",
       "source": "Mainstreet Daily News",
@@ -211,8 +233,8 @@
     },
     {
       "id": 30,
-      "headline": "Freeze Tonight in Fort White: Low Near 25\u00b0F, Wind Chills in the 20s Through Tuesday",
-      "summary": "A hard freeze is in store for Fort White and all of Columbia County as a strong cold front continues to push through North Florida. The National Weather Service forecast for Fort White shows today's high reaching only 52\u00b0F with wind chills as low as 26 early and northwest gusts up to 29 mph. Tonight, temperatures will drop to around 25\u00b0F with patchy frost expected after 3 a.m. \u2014 cold enough to damage unprotected plants and pipes. Tuesday will bring another wind chill as low as 21\u00b0F before a low of 32\u00b0F Tuesday night with widespread frost. Residents should bring pets indoors, protect tender plants, and allow faucets to drip slowly to prevent pipe freezing. Warming centers can be reached by calling 211.",
+      "headline": "Freeze Tonight in Fort White: Low Near 25°F, Wind Chills in the 20s Through Tuesday",
+      "summary": "A hard freeze is in store for Fort White and all of Columbia County as a strong cold front continues to push through North Florida. The National Weather Service forecast for Fort White shows today's high reaching only 52°F with wind chills as low as 26 early and northwest gusts up to 29 mph. Tonight, temperatures will drop to around 25°F with patchy frost expected after 3 a.m. — cold enough to damage unprotected plants and pipes. Tuesday will bring another wind chill as low as 21°F before a low of 32°F Tuesday night with widespread frost. Residents should bring pets indoors, protect tender plants, and allow faucets to drip slowly to prevent pipe freezing. Warming centers can be reached by calling 211.",
       "category": "Weather",
       "locality": "fortwhite",
       "source": "National Weather Service",
@@ -234,7 +256,7 @@
     {
       "id": 27,
       "headline": "Red Flag Warning Declared; Dangerous Fire Conditions Expected This Week as Cold Front Arrives",
-      "summary": "The National Weather Service declared a Red Flag Warning Saturday, February 21 for most of North Central Florida \u2014 including neighboring Alachua and Gilchrist counties \u2014 as extreme wildfire conditions intensify across the region. A strong cold front moving through Florida this weekend will usher in dangerously low humidity levels and wind gusts exceeding 30 mph on Monday and Tuesday, a deadly combination with bone-dry vegetation left from months of extreme drought. Any fire that starts under these conditions could spread out of control rapidly. Overnight temperatures are expected to drop into the upper 20s to low 30s across North Florida by mid-week. Columbia County's burn ban remains in effect, and residents are urged to avoid all outdoor burning. High Sunday in Fort White: 71\u00b0F with scattered showers, dropping sharply to a high of only 49\u00b0F on Monday as cold air arrives.",
+      "summary": "The National Weather Service declared a Red Flag Warning Saturday, February 21 for most of North Central Florida — including neighboring Alachua and Gilchrist counties — as extreme wildfire conditions intensify across the region. A strong cold front moving through Florida this weekend will usher in dangerously low humidity levels and wind gusts exceeding 30 mph on Monday and Tuesday, a deadly combination with bone-dry vegetation left from months of extreme drought. Any fire that starts under these conditions could spread out of control rapidly. Overnight temperatures are expected to drop into the upper 20s to low 30s across North Florida by mid-week. Columbia County's burn ban remains in effect, and residents are urged to avoid all outdoor burning. High Sunday in Fort White: 71°F with scattered showers, dropping sharply to a high of only 49°F on Monday as cold air arrives.",
       "category": "Weather",
       "locality": "fortwhite",
       "source": "WCJB TV20 / WUFT News",
@@ -245,7 +267,7 @@
     {
       "id": 28,
       "headline": "SR-47 Through Fort White to Close Tuesday and Wednesday for Road Work; Hal Adams Bridge Also Closed",
-      "summary": "The Florida Department of Transportation announced multiple road closures in Columbia County for the week of February 21\u201327. State Road 47 \u2014 the main highway running through Fort White \u2014 will have daytime lane closures on Tuesday and Wednesday from 8 a.m. to 6 p.m. for road work between Clay Hole Creek and Southwest Main Boulevard. The Hal Adams Bridge on State Road 51, which crosses the Suwannee River, faces daytime closures Monday through February 28 for bridge repair. Additional nighttime closures are planned on I-75 at County Road 341 (Tuesday and Wednesday, 9:30 p.m.\u20134:30 a.m.) and at US-90 (Monday, 9:30 p.m.\u20134:30 a.m.). US-41 at Howell Road will also see weekday closures for traffic signal work. Drivers traveling through the area should plan for delays and allow extra travel time.",
+      "summary": "The Florida Department of Transportation announced multiple road closures in Columbia County for the week of February 21–27. State Road 47 — the main highway running through Fort White — will have daytime lane closures on Tuesday and Wednesday from 8 a.m. to 6 p.m. for road work between Clay Hole Creek and Southwest Main Boulevard. The Hal Adams Bridge on State Road 51, which crosses the Suwannee River, faces daytime closures Monday through February 28 for bridge repair. Additional nighttime closures are planned on I-75 at County Road 341 (Tuesday and Wednesday, 9:30 p.m.–4:30 a.m.) and at US-90 (Monday, 9:30 p.m.–4:30 a.m.). US-41 at Howell Road will also see weekday closures for traffic signal work. Drivers traveling through the area should plan for delays and allow extra travel time.",
       "category": "Community",
       "locality": "fortwhite",
       "source": "WCJB TV20",
@@ -256,7 +278,7 @@
     {
       "id": 26,
       "headline": "Should Fort White Cease to Exist? The Full Story Behind the Town's Dissolution Fight",
-      "summary": "Fort White \u2014 chartered in 1957 and one of Columbia County's smallest incorporated towns \u2014 has been locked in a months-long political battle over whether it should dissolve itself and hand governance over to Columbia County. The conflict started in December 2025, when Mayor George Thomas walked out of a council meeting after four council members voted to strip him of his presiding officer role \u2014 a move Thomas called 'ridiculous and silly behavior' in a letter to residents. The tension escalated in January when those same four members voted to schedule a special dissolution workshop over the Mayor's sole objection. On February 5, Columbia County commissioners weighed in, with Commissioner Rocky Ford insisting the county needed to be involved \u2014 though commissioners have no legal authority to block a dissolution vote. The Feb. 18 workshop, packed with roughly 140 people, became the defining moment: financial consultant Richard Powell presented five years of data showing the town has zero debt and grew its reserves from eight months of expenditures to sixteen months \u2014 a clean bill of health. When Mayor Thomas asked for a show of hands of Town residents who wanted to dissolve Fort White, not a single hand went up. The workshop's instigator, Councilman Bill Koon \u2014 notably a Columbia County employee \u2014 had previously tried to pass a dissolution resolution without public notice. Despite the overwhelming opposition, a first reading of an ordinance to dissolve the town is still on the agenda for Monday's council meeting, February 23 at 6 PM at the Fort White Community Center. Fort White has 411 registered voters and collects no property taxes, operating entirely on state grants and revenue sharing.",
+      "summary": "Fort White — chartered in 1957 and one of Columbia County's smallest incorporated towns — has been locked in a months-long political battle over whether it should dissolve itself and hand governance over to Columbia County. The conflict started in December 2025, when Mayor George Thomas walked out of a council meeting after four council members voted to strip him of his presiding officer role — a move Thomas called 'ridiculous and silly behavior' in a letter to residents. The tension escalated in January when those same four members voted to schedule a special dissolution workshop over the Mayor's sole objection. On February 5, Columbia County commissioners weighed in, with Commissioner Rocky Ford insisting the county needed to be involved — though commissioners have no legal authority to block a dissolution vote. The Feb. 18 workshop, packed with roughly 140 people, became the defining moment: financial consultant Richard Powell presented five years of data showing the town has zero debt and grew its reserves from eight months of expenditures to sixteen months — a clean bill of health. When Mayor Thomas asked for a show of hands of Town residents who wanted to dissolve Fort White, not a single hand went up. The workshop's instigator, Councilman Bill Koon — notably a Columbia County employee — had previously tried to pass a dissolution resolution without public notice. Despite the overwhelming opposition, a first reading of an ordinance to dissolve the town is still on the agenda for Monday's council meeting, February 23 at 6 PM at the Fort White Community Center. Fort White has 411 registered voters and collects no property taxes, operating entirely on state grants and revenue sharing.",
       "category": "Government",
       "locality": "fortwhite",
       "source": "Columbia County Observer / WCJB TV20",
@@ -267,7 +289,7 @@
     {
       "id": 25,
       "headline": "Florida Extreme Drought Coverage Grows 24% in One Week; All of State Now in Drought",
-      "summary": "According to a WUFT News report published Thursday, February 19, the area of Florida covered by extreme drought grew by nearly 24 percent compared to the prior week's U.S. Drought Monitor report, expanding into Volusia, Lake, and several South Florida counties including Palm Beach, Broward, and Miami-Dade. As of February 19, 87.5 percent of Florida is under severe drought conditions \u2014 up from 85.5 percent the prior week \u2014 and all of the state is experiencing at least some level of drought. Only two tiny areas remain classified as merely 'abnormally dry': the northern Brevard County coastline and the immediate coast of Miami-Dade. Meteorologists attribute the worsening conditions to a La Ni\u00f1a winter pattern, a lack of major rain events, and persistent high pressure that both limited rainfall and drove up temperatures. Long-term models show below-average rainfall likely through May; a cold front approaching Sunday is expected to bring some rain but will not meaningfully relieve drought conditions in Columbia County or North Florida.",
+      "summary": "According to a WUFT News report published Thursday, February 19, the area of Florida covered by extreme drought grew by nearly 24 percent compared to the prior week's U.S. Drought Monitor report, expanding into Volusia, Lake, and several South Florida counties including Palm Beach, Broward, and Miami-Dade. As of February 19, 87.5 percent of Florida is under severe drought conditions — up from 85.5 percent the prior week — and all of the state is experiencing at least some level of drought. Only two tiny areas remain classified as merely 'abnormally dry': the northern Brevard County coastline and the immediate coast of Miami-Dade. Meteorologists attribute the worsening conditions to a La Niña winter pattern, a lack of major rain events, and persistent high pressure that both limited rainfall and drove up temperatures. Long-term models show below-average rainfall likely through May; a cold front approaching Sunday is expected to bring some rain but will not meaningfully relieve drought conditions in Columbia County or North Florida.",
       "category": "Weather",
       "locality": "fortwhite",
       "source": "WUFT News",
@@ -278,7 +300,7 @@
     {
       "id": 24,
       "headline": "140 Residents Pack Fort White Forum; Financial Consultant Gives Town Clean Bill of Health",
-      "summary": "About 140 people \u2014 residents, non-residents, and county officials \u2014 packed the Fort White Community Center on Tuesday, February 17 for a special workshop on whether to dissolve the town. Former Columbia County auditor Richard 'Dick' Powell, invited by Mayor George Thomas, gave a surprise presentation showing the town's fund balance grew from eight months of expenditures to sixteen months over five years, and that the town carries zero debt. When Mayor Thomas asked for a show of hands from Town residents who wanted to dissolve Fort White, not a single hand went up. County Commission Chair Tim Murphy and other prominent county figures attended the meeting, which was initiated by Councilman Bill Koon \u2014 a Columbia County employee \u2014 who had previously tried to pass a dissolution resolution without public notice. Fort White has 411 registered voters, according to the Supervisor of Elections.",
+      "summary": "About 140 people — residents, non-residents, and county officials — packed the Fort White Community Center on Tuesday, February 17 for a special workshop on whether to dissolve the town. Former Columbia County auditor Richard 'Dick' Powell, invited by Mayor George Thomas, gave a surprise presentation showing the town's fund balance grew from eight months of expenditures to sixteen months over five years, and that the town carries zero debt. When Mayor Thomas asked for a show of hands from Town residents who wanted to dissolve Fort White, not a single hand went up. County Commission Chair Tim Murphy and other prominent county figures attended the meeting, which was initiated by Councilman Bill Koon — a Columbia County employee — who had previously tried to pass a dissolution resolution without public notice. Fort White has 411 registered voters, according to the Supervisor of Elections.",
       "category": "Government",
       "locality": "fortwhite",
       "source": "Columbia County Observer",
@@ -289,7 +311,7 @@
     {
       "id": 23,
       "headline": "Lady Indians Fall to Hilliard in Region 3-R Championship; Season Ends at 17-10",
-      "summary": "The Fort White Lady Indians' season came to an end Friday night in Hilliard, as the No. 2-seeded Indians fell to top-seeded Hilliard 56-37 in the Region 3-R girls basketball championship \u2014 a rematch of last year's regional final loss. Jahlaya Wilson led Fort White with 15 points, 7 rebounds, and 5 blocks, but the Indians could not contain Hilliard senior Alyssa Hallman, who scored 31 points after being held scoreless in the first quarter. Fort White trailed 30-20 at halftime and could not mount a sustained comeback. Head coach Bregay Harris expressed confidence in the team's future, noting several key players are juniors with high-level AAU opportunities ahead. The Flashes (24-5) advance to their second consecutive state semifinal. Fort White finishes 17-10.",
+      "summary": "The Fort White Lady Indians' season came to an end Friday night in Hilliard, as the No. 2-seeded Indians fell to top-seeded Hilliard 56-37 in the Region 3-R girls basketball championship — a rematch of last year's regional final loss. Jahlaya Wilson led Fort White with 15 points, 7 rebounds, and 5 blocks, but the Indians could not contain Hilliard senior Alyssa Hallman, who scored 31 points after being held scoreless in the first quarter. Fort White trailed 30-20 at halftime and could not mount a sustained comeback. Head coach Bregay Harris expressed confidence in the team's future, noting several key players are juniors with high-level AAU opportunities ahead. The Flashes (24-5) advance to their second consecutive state semifinal. Fort White finishes 17-10.",
       "category": "Sports",
       "locality": "fortwhite",
       "source": "Lake City Reporter",
@@ -300,7 +322,7 @@
     {
       "id": 21,
       "headline": "FHSAA Merges Rural and Class 1A Football; Fort White Indians Assigned to New District",
-      "summary": "The Florida High School Athletic Association voted 11-1 on Thursday, January 29 to merge the Rural and Class 1A football classifications for the 2026 and 2027 seasons. The emergency board meeting was called after a sudden wave of Rural schools \u2014 including Union County and Dixie County \u2014 switched to the Sunshine State Athletic Association (SSAA), shrinking the Rural class from 32 to just 16 schools. Fort White, which was one of five Gainesville-area teams remaining in the Rural class, will now compete in Class 1A football alongside former Rural rivals. FHSAA released new 2026\u201328 district assignments on Friday, February 13, placing Fort White in a district with Lafayette (Mayo), Madison County, and Taylor County. The Rural classification will remain in place for all other sports.",
+      "summary": "The Florida High School Athletic Association voted 11-1 on Thursday, January 29 to merge the Rural and Class 1A football classifications for the 2026 and 2027 seasons. The emergency board meeting was called after a sudden wave of Rural schools — including Union County and Dixie County — switched to the Sunshine State Athletic Association (SSAA), shrinking the Rural class from 32 to just 16 schools. Fort White, which was one of five Gainesville-area teams remaining in the Rural class, will now compete in Class 1A football alongside former Rural rivals. FHSAA released new 2026–28 district assignments on Friday, February 13, placing Fort White in a district with Lafayette (Mayo), Madison County, and Taylor County. The Rural classification will remain in place for all other sports.",
       "category": "Sports",
       "locality": "fortwhite",
       "source": "Gainesville Sun",
@@ -377,7 +399,7 @@
     {
       "id": 14,
       "headline": "Wildfire Response Ramps Up Across North Florida; Air Tankers Staged in Lake City",
-      "summary": "The Florida Forest Service has moved large air tankers to Lake City as wildfire response intensifies across North Florida. According to News4Jax, Jacksonville Fire Rescue has responded to 29 wildfire incidents so far this year \u2014 more than double the 13 from the same period last year. In Duval County alone, the Forest Service has gone from 1 fire on 1 acre at this point last year to 11 fires on 50 acres. Four tractor plow units are now dedicated to Duval County. Officials urge residents to clear vegetation away from homes, trim bushes and trees, rake leaves several feet from structures, and clean roofs and gutters since fire travels by air as well as by ground.",
+      "summary": "The Florida Forest Service has moved large air tankers to Lake City as wildfire response intensifies across North Florida. According to News4Jax, Jacksonville Fire Rescue has responded to 29 wildfire incidents so far this year — more than double the 13 from the same period last year. In Duval County alone, the Forest Service has gone from 1 fire on 1 acre at this point last year to 11 fires on 50 acres. Four tractor plow units are now dedicated to Duval County. Officials urge residents to clear vegetation away from homes, trim bushes and trees, rake leaves several feet from structures, and clean roofs and gutters since fire travels by air as well as by ground.",
       "category": "Public Safety",
       "locality": "fortwhite",
       "source": "News4Jax",
@@ -388,7 +410,7 @@
     {
       "id": 13,
       "headline": "Two Arrested in Lake City Undercover Child Predator Operation; One Suspect From Fort White",
-      "summary": "Two men face charges after Lake City police conducted an undercover operation to catch online child predators. Joseph Anderson, 25, of Chiefland and Robert Smith, 38, of Fort White were arrested after attempting to arrange meetings with who they believed were underage girls \u2014 but were actually undercover detectives. Anderson was arrested Monday and Smith was taken into custody on Tuesday. Both men engaged in sexually explicit conversations before arranging the meetings, according to police.",
+      "summary": "Two men face charges after Lake City police conducted an undercover operation to catch online child predators. Joseph Anderson, 25, of Chiefland and Robert Smith, 38, of Fort White were arrested after attempting to arrange meetings with who they believed were underage girls — but were actually undercover detectives. Anderson was arrested Monday and Smith was taken into custody on Tuesday. Both men engaged in sexually explicit conversations before arranging the meetings, according to police.",
       "category": "Public Safety",
       "locality": "fortwhite",
       "source": "WCJB TV20",
@@ -399,7 +421,7 @@
     {
       "id": 12,
       "headline": "Drought Worsens Across Northeast Florida Despite Sunday's Storms",
-      "summary": "Despite Sunday's severe weather, Northeast Florida's drought situation remains dire. According to News4Jax meteorologist Katie Garner, the region is sitting at 'severe drought' \u2014 just one step below 'extreme.' The storms on February 15 barely made a dent in the rainfall deficit. Fire risk remains elevated, with dry conditions making it easier for wildfires to start and spread. Light winds of 5\u201310 mph and mild temperatures around 69\u00b0F are expected early this week.",
+      "summary": "Despite Sunday's severe weather, Northeast Florida's drought situation remains dire. According to News4Jax meteorologist Katie Garner, the region is sitting at 'severe drought' — just one step below 'extreme.' The storms on February 15 barely made a dent in the rainfall deficit. Fire risk remains elevated, with dry conditions making it easier for wildfires to start and spread. Light winds of 5–10 mph and mild temperatures around 69°F are expected early this week.",
       "category": "Weather",
       "locality": "fortwhite",
       "source": "News4Jax",
@@ -410,7 +432,7 @@
     {
       "id": 11,
       "headline": "National Wildfire Prevention Team Deployed to Florida Amid Growing Fire Risk",
-      "summary": "The National Wildfire Prevention and Education team has arrived in Florida for a two-week assignment to raise awareness about wildfire risk as drought conditions worsen. According to the Florida Forest Service, human activity causes 80% of wildfires \u2014 including outdoor cooking, campfires, yard debris burning, and even sparks from vehicle maintenance issues like low tire pressure or towing chains. About 95% of Florida is experiencing at least moderate drought, with severe drought conditions across Central and North Florida. Residents are urged not to burn anything outdoors and to clear vegetation away from homes.",
+      "summary": "The National Wildfire Prevention and Education team has arrived in Florida for a two-week assignment to raise awareness about wildfire risk as drought conditions worsen. According to the Florida Forest Service, human activity causes 80% of wildfires — including outdoor cooking, campfires, yard debris burning, and even sparks from vehicle maintenance issues like low tire pressure or towing chains. About 95% of Florida is experiencing at least moderate drought, with severe drought conditions across Central and North Florida. Residents are urged not to burn anything outdoors and to clear vegetation away from homes.",
       "category": "Public Safety",
       "locality": "fortwhite",
       "source": "News4Jax",
@@ -421,7 +443,7 @@
     {
       "id": 10,
       "headline": "Severe Storms and Tornado Watch Hit Northeast Florida Sunday",
-      "summary": "A strong cold front brought severe storms across Northeast Florida on Sunday, February 15, prompting a tornado watch through 8 p.m. The Storm Prediction Center placed the region at a Level 2 (Slight Risk) for severe weather. A Wind Advisory was in effect for areas west of the St. Johns River as south winds gusted up to 35\u201345 mph. The main squall line moved through western counties between 2\u20133 p.m. and reached inland Northeast Florida counties including Baker, Bradford, Clay, and Alachua by 4\u20135 p.m. The threat diminished by late evening as the cold front pushed through.",
+      "summary": "A strong cold front brought severe storms across Northeast Florida on Sunday, February 15, prompting a tornado watch through 8 p.m. The Storm Prediction Center placed the region at a Level 2 (Slight Risk) for severe weather. A Wind Advisory was in effect for areas west of the St. Johns River as south winds gusted up to 35–45 mph. The main squall line moved through western counties between 2–3 p.m. and reached inland Northeast Florida counties including Baker, Bradford, Clay, and Alachua by 4–5 p.m. The threat diminished by late evening as the cold front pushed through.",
       "category": "Weather",
       "locality": "fortwhite",
       "source": "News4Jax",
@@ -432,7 +454,7 @@
     {
       "id": 9,
       "headline": "47th Annual Olustee Festival Draws Crowds to Lake City",
-      "summary": "Lake City hosted the 47th Annual Olustee Festival over Presidents' Day weekend at Wilson Park on Lake DeSoto, commemorating the 1864 Battle of Olustee \u2014 the largest Civil War engagement fought in Florida. The festival, held annually since 1976, featured over 150 vendors, food trucks, a children's area, local entertainment, and homemade arts and crafts from across the country. Road closures were in effect around downtown Lake City. The festival ran Friday and Saturday, February 13\u201314, from 9 a.m. to 6 p.m.",
+      "summary": "Lake City hosted the 47th Annual Olustee Festival over Presidents' Day weekend at Wilson Park on Lake DeSoto, commemorating the 1864 Battle of Olustee — the largest Civil War engagement fought in Florida. The festival, held annually since 1976, featured over 150 vendors, food trucks, a children's area, local entertainment, and homemade arts and crafts from across the country. Road closures were in effect around downtown Lake City. The festival ran Friday and Saturday, February 13–14, from 9 a.m. to 6 p.m.",
       "category": "Community",
       "locality": "county",
       "source": "WCJB TV20",
@@ -443,7 +465,7 @@
     {
       "id": 8,
       "headline": "Wildfires Surge Across Florida as Drought Reaches 25-Year High",
-      "summary": "Florida is experiencing its worst drought in 25 years, with the Florida Forest Service reporting more than 650 wildfires and over 21,000 acres burned since January 1, 2026. According to Fox Weather, 98% of the state is under some level of drought, with 85% in severe drought \u2014 the most since March 2001. Emergency burn bans are active in 34 of 67 counties, including Columbia County. A wildfire in Marion County forced the closure of State Road 19 between CR-314 and SR-40, with detours in place.",
+      "summary": "Florida is experiencing its worst drought in 25 years, with the Florida Forest Service reporting more than 650 wildfires and over 21,000 acres burned since January 1, 2026. According to Fox Weather, 98% of the state is under some level of drought, with 85% in severe drought — the most since March 2001. Emergency burn bans are active in 34 of 67 counties, including Columbia County. A wildfire in Marion County forced the closure of State Road 19 between CR-314 and SR-40, with detours in place.",
       "category": "Public Safety",
       "locality": "fortwhite",
       "source": "Fox Weather / WCJB",
@@ -476,7 +498,7 @@
     {
       "id": 5,
       "headline": "49th Annual Battle of Olustee Re-enactment Wraps Up",
-      "summary": "The 49th Annual Battle of Olustee Re-enactment, the largest Civil War re-enactment in Florida and one of the largest in the Southeast, concluded Sunday, February 15 at Olustee Battlefield Historic State Park on US-90 east of Lake City. The three-day event running February 13\u201315 featured living history camps, period demonstrations, and the main battle re-enactment. The original 1864 battle involved 10,000 troops and was the largest Civil War engagement in Florida, with three U.S. Colored Regiments taking part including the 54th Massachusetts, later immortalized in the film Glory.",
+      "summary": "The 49th Annual Battle of Olustee Re-enactment, the largest Civil War re-enactment in Florida and one of the largest in the Southeast, concluded Sunday, February 15 at Olustee Battlefield Historic State Park on US-90 east of Lake City. The three-day event running February 13–15 featured living history camps, period demonstrations, and the main battle re-enactment. The original 1864 battle involved 10,000 troops and was the largest Civil War engagement in Florida, with three U.S. Colored Regiments taking part including the 54th Massachusetts, later immortalized in the film Glory.",
       "category": "Community",
       "locality": "fortwhite",
       "source": "Florida Rambler",
@@ -487,7 +509,7 @@
     {
       "id": 3,
       "headline": "Florida Burn Bans Expand as Drought Intensifies Statewide",
-      "summary": "Counties across Florida, including Columbia County, continue under burn bans as drought conditions worsen. According to WUFT, 100% of the state is now experiencing some form of drought, with extreme drought (Level 4 of 5) covering 43% of Florida \u2014 nearly double from the prior week. Severe drought (Level 3) covers over 85% of the state. Residents are urged to avoid all open burning and conserve water. The long-term outlook indicates below-average rainfall over the next three months.",
+      "summary": "Counties across Florida, including Columbia County, continue under burn bans as drought conditions worsen. According to WUFT, 100% of the state is now experiencing some form of drought, with extreme drought (Level 4 of 5) covering 43% of Florida — nearly double from the prior week. Severe drought (Level 3) covers over 85% of the state. Residents are urged to avoid all open burning and conserve water. The long-term outlook indicates below-average rainfall over the next three months.",
       "category": "Weather",
       "locality": "fortwhite",
       "source": "WUFT News",
@@ -504,28 +526,6 @@
       "source": "News4Jax",
       "sourceUrl": "https://www.news4jax.com/news/local/2026/02/12/chase-that-reached-100-mph-ends-with-k-9-apprehension-in-columbia-county/",
       "date": "2026-02-10",
-      "featured": false
-    },
-    {
-      "id": 1,
-      "headline": "Columbia County Commissioners Weigh In on Fort White Dissolution Proposal",
-      "summary": "Columbia County commissioners expressed concerns on Thursday, February 5 about the possibility of the town of Fort White dissolving. Commissioner Rocky Ford was adamant the county needs to be more involved in the process. However, commissioners ultimately cannot control whether or not the town dissolves. The discussion follows months of tense town council meetings, including Mayor George Thomas walking out during a December meeting amid a decorum debate. The next Fort White town council meeting is set for Tuesday, February 17.",
-      "category": "Government",
-      "locality": "fortwhite",
-      "source": "WCJB TV20",
-      "sourceUrl": "https://www.wcjb.com/2026/02/05/columbia-county-commissioners-express-concerns-over-fort-white-dissolution-proposal/",
-      "date": "2026-02-05",
-      "featured": false
-    },
-    {
-      "id": 2,
-      "headline": "Columbia County Approves Emergency Burn Ban Amid Wildfire Risk",
-      "summary": "Columbia County commissioners called an emergency meeting on Thursday, February 5 to approve a temporary county-wide burn ban at the request of the Florida Forest Service. Commission chair Tim Murphy said the Forest Service warned about an increase in fires across the region and ongoing drought conditions. Surrounding counties including Alachua, Union, Bradford, Gilchrist, and Putnam had already enacted similar bans. The burn ban restricts all open burning and will be reviewed every ten days.",
-      "category": "Public Safety",
-      "locality": "fortwhite",
-      "source": "WCJB TV20",
-      "sourceUrl": "https://www.wcjb.com/2026/02/05/columbia-county-commissioners-approve-emergency-burn-ban-due-wildfire-risk/",
-      "date": "2026-02-05",
       "featured": false
     }
   ]
