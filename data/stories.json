@@ -1,6 +1,39 @@
 {
   "stories": [
     {
+      "id": 54,
+      "headline": "Lake City Woman Killed in 3-Vehicle Crash on I-10 in Duval County",
+      "summary": "A 33-year-old Lake City woman was killed Sunday evening in a three-vehicle crash on Interstate 10 in Baldwin, Duval County, according to Florida Highway Patrol. Troopers say a 24-year-old driver rear-ended a stopped sedan just before 6:45 p.m., causing a chain-reaction collision that pushed the sedan into a second pickup truck. The Lake City woman, who was driving the sedan, was pronounced dead at the scene; a 43-year-old Lake City man in the sedan suffered serious injuries. The 24-year-old at-fault driver also suffered serious injuries. FHP is investigating the crash.",
+      "category": "Public Safety",
+      "locality": "county",
+      "source": "WCJB TV20",
+      "sourceUrl": "https://www.wcjb.com/2026/03/09/lake-city-woman-dies-after-3-vehicle-crash-i-10-duval-county/",
+      "date": "2026-03-09",
+      "featured": false
+    },
+    {
+      "id": 53,
+      "headline": "Hundreds of Volunteers Clean 30 Miles of Santa Fe and Ichetucknee Rivers Near Fort White",
+      "summary": "Hundreds of volunteers fanned out across 30 miles of Santa Fe and Ichetucknee River shoreline Sunday, March 8, pulling trash from banks and shallows in the 2026 Lower Santa Fe River Cleanup event hosted by Rum 138 and Our Santa Fe River. Organizers timed the cleanup to coincide with drought-driven low water levels, which exposed debris that is typically submerged and unreachable. Teams were assigned to eight segments spanning from the River Rise area all the way to the U.S. 129 Bridge, with a separate team covering the Ichetucknee spring run. After the cleanup wrapped, volunteers gathered at Rum 138 — located at 2070 SW County Road 138 in Fort White — for an after-party featuring live music, food, and prize contests for the most unusual items pulled from the water. Anyone interested in future cleanups can visit oursantaferiver.org.",
+      "category": "Environment",
+      "locality": "fortwhite",
+      "source": "WCJB TV20",
+      "sourceUrl": "https://www.wcjb.com/2026/03/08/hundreds-gathered-2026-lower-santa-fe-river-cleanup-event/",
+      "date": "2026-03-08",
+      "featured": true
+    },
+    {
+      "id": 52,
+      "headline": "750-Acre 'Dixie County 440 Fire' 80% Contained; Crews Move to Mop-Up Phase",
+      "summary": "A wildfire that broke out Saturday afternoon near Southwest 440th Avenue in Dixie County — just south of Fort White across the county line — burned approximately 750 acres before firefighters moved it to the mop-up phase, officials confirmed Monday. The fire, dubbed the '440 Fire,' produced flame lengths of 50 feet at its peak, according to Florida Forest Service Public Information Officer Dr. Ludie Bond, who credited dry weather and wind for the rapid spread. Crews from multiple agencies responded by ground and air and had the fire roughly 80% contained by Sunday evening, with smoke still visible from several hotspots. The cause of the fire remains under investigation. Bond urged North Central Florida residents to exercise extreme caution with any activity that could spark a fire — including welding, mowing, and vehicle engine work.",
+      "category": "Public Safety",
+      "locality": "fortwhite",
+      "source": "WCJB TV20",
+      "sourceUrl": "https://www.wcjb.com/2026/03/09/wildfire-burns-750-acres-dixie-county-crews-move-mop-up-phase/",
+      "date": "2026-03-09",
+      "featured": true
+    },
+    {
       "id": 51,
       "headline": "Lake City Man Faces Attempted Murder, Arson Charges After Setting Woman's Home on Fire",
       "summary": "Lake City police charged Marvin Roberts, 70, with attempted murder, arson of an occupied home, and aggravated assault with a deadly weapon on Friday, March 6, after investigators determined he intentionally set a house fire on Southeast Colburn Avenue in the early morning hours of February 18. Officers responding to the fire were told by the homeowner that Roberts was believed to be inside; firefighters found him in a storage shed behind the home and he was taken to the hospital. An investigation found fires had been started in two separate locations inside the home with evidence of accelerants, and that Roberts set the blaze while the homeowner was inside. He was booked into the Columbia County Jail after being released from medical care.",
@@ -232,17 +265,6 @@
       "featured": false
     },
     {
-      "id": 30,
-      "headline": "Freeze Tonight in Fort White: Low Near 25°F, Wind Chills in the 20s Through Tuesday",
-      "summary": "A hard freeze is in store for Fort White and all of Columbia County as a strong cold front continues to push through North Florida. The National Weather Service forecast for Fort White shows today's high reaching only 52°F with wind chills as low as 26 early and northwest gusts up to 29 mph. Tonight, temperatures will drop to around 25°F with patchy frost expected after 3 a.m. — cold enough to damage unprotected plants and pipes. Tuesday will bring another wind chill as low as 21°F before a low of 32°F Tuesday night with widespread frost. Residents should bring pets indoors, protect tender plants, and allow faucets to drip slowly to prevent pipe freezing. Warming centers can be reached by calling 211.",
-      "category": "Weather",
-      "locality": "fortwhite",
-      "source": "National Weather Service",
-      "sourceUrl": "https://forecast.weather.gov/MapClick.php?CityName=Fort+White&state=FL&site=JAX&textField1=29.9253&textField2=-82.7210",
-      "date": "2026-02-23",
-      "featured": false
-    },
-    {
       "id": 29,
       "headline": "Columbia County Pushes Back Against Plan to Pump Treated Wastewater Into Floridan Aquifer",
       "summary": "Columbia County commissioners and residents voiced strong opposition Sunday, February 22 to a project by the Suwannee River Water Management District called 'Water First North Florida,' which would pump 40 million gallons of reclaimed wastewater daily through a network of pipes across the state into more than a dozen North Central Florida counties in order to recharge the Floridan aquifer. The project has drawn sharp pushback in Columbia County because the county sits directly on top of the aquifer. Commission Chair Tim Murphy said bluntly that he does not want the reclaimed water coming to his county. Activist Merrillee Jipson urged residents to organize against the proposal. Commissioners said they want to see significantly more research before any further discussion of bringing the project to the county.",
@@ -276,50 +298,6 @@
       "featured": false
     },
     {
-      "id": 26,
-      "headline": "Should Fort White Cease to Exist? The Full Story Behind the Town's Dissolution Fight",
-      "summary": "Fort White — chartered in 1957 and one of Columbia County's smallest incorporated towns — has been locked in a months-long political battle over whether it should dissolve itself and hand governance over to Columbia County. The conflict started in December 2025, when Mayor George Thomas walked out of a council meeting after four council members voted to strip him of his presiding officer role — a move Thomas called 'ridiculous and silly behavior' in a letter to residents. The tension escalated in January when those same four members voted to schedule a special dissolution workshop over the Mayor's sole objection. On February 5, Columbia County commissioners weighed in, with Commissioner Rocky Ford insisting the county needed to be involved — though commissioners have no legal authority to block a dissolution vote. The Feb. 18 workshop, packed with roughly 140 people, became the defining moment: financial consultant Richard Powell presented five years of data showing the town has zero debt and grew its reserves from eight months of expenditures to sixteen months — a clean bill of health. When Mayor Thomas asked for a show of hands of Town residents who wanted to dissolve Fort White, not a single hand went up. The workshop's instigator, Councilman Bill Koon — notably a Columbia County employee — had previously tried to pass a dissolution resolution without public notice. Despite the overwhelming opposition, a first reading of an ordinance to dissolve the town is still on the agenda for Monday's council meeting, February 23 at 6 PM at the Fort White Community Center. Fort White has 411 registered voters and collects no property taxes, operating entirely on state grants and revenue sharing.",
-      "category": "Government",
-      "locality": "fortwhite",
-      "source": "Columbia County Observer / WCJB TV20",
-      "sourceUrl": "https://www.columbiacountyobserver.com/master_files/County_News_2026/20260219-fort-white-to-disolve-or-not-to-disolve.html",
-      "date": "2026-02-21",
-      "featured": false
-    },
-    {
-      "id": 25,
-      "headline": "Florida Extreme Drought Coverage Grows 24% in One Week; All of State Now in Drought",
-      "summary": "According to a WUFT News report published Thursday, February 19, the area of Florida covered by extreme drought grew by nearly 24 percent compared to the prior week's U.S. Drought Monitor report, expanding into Volusia, Lake, and several South Florida counties including Palm Beach, Broward, and Miami-Dade. As of February 19, 87.5 percent of Florida is under severe drought conditions — up from 85.5 percent the prior week — and all of the state is experiencing at least some level of drought. Only two tiny areas remain classified as merely 'abnormally dry': the northern Brevard County coastline and the immediate coast of Miami-Dade. Meteorologists attribute the worsening conditions to a La Niña winter pattern, a lack of major rain events, and persistent high pressure that both limited rainfall and drove up temperatures. Long-term models show below-average rainfall likely through May; a cold front approaching Sunday is expected to bring some rain but will not meaningfully relieve drought conditions in Columbia County or North Florida.",
-      "category": "Weather",
-      "locality": "fortwhite",
-      "source": "WUFT News",
-      "sourceUrl": "https://www.wuft.org/weather/2026-02-19/floridas-drought-continues-to-worsen-extreme-drought-grows-20-percent",
-      "date": "2026-02-19",
-      "featured": false
-    },
-    {
-      "id": 24,
-      "headline": "140 Residents Pack Fort White Forum; Financial Consultant Gives Town Clean Bill of Health",
-      "summary": "About 140 people — residents, non-residents, and county officials — packed the Fort White Community Center on Tuesday, February 17 for a special workshop on whether to dissolve the town. Former Columbia County auditor Richard 'Dick' Powell, invited by Mayor George Thomas, gave a surprise presentation showing the town's fund balance grew from eight months of expenditures to sixteen months over five years, and that the town carries zero debt. When Mayor Thomas asked for a show of hands from Town residents who wanted to dissolve Fort White, not a single hand went up. County Commission Chair Tim Murphy and other prominent county figures attended the meeting, which was initiated by Councilman Bill Koon — a Columbia County employee — who had previously tried to pass a dissolution resolution without public notice. Fort White has 411 registered voters, according to the Supervisor of Elections.",
-      "category": "Government",
-      "locality": "fortwhite",
-      "source": "Columbia County Observer",
-      "sourceUrl": "https://www.columbiacountyobserver.com/master_files/County_News_2026/20260219-fort-white-to-disolve-or-not-to-disolve.html",
-      "date": "2026-02-19",
-      "featured": false
-    },
-    {
-      "id": 23,
-      "headline": "Lady Indians Fall to Hilliard in Region 3-R Championship; Season Ends at 17-10",
-      "summary": "The Fort White Lady Indians' season came to an end Friday night in Hilliard, as the No. 2-seeded Indians fell to top-seeded Hilliard 56-37 in the Region 3-R girls basketball championship — a rematch of last year's regional final loss. Jahlaya Wilson led Fort White with 15 points, 7 rebounds, and 5 blocks, but the Indians could not contain Hilliard senior Alyssa Hallman, who scored 31 points after being held scoreless in the first quarter. Fort White trailed 30-20 at halftime and could not mount a sustained comeback. Head coach Bregay Harris expressed confidence in the team's future, noting several key players are juniors with high-level AAU opportunities ahead. The Flashes (24-5) advance to their second consecutive state semifinal. Fort White finishes 17-10.",
-      "category": "Sports",
-      "locality": "fortwhite",
-      "source": "Lake City Reporter",
-      "sourceUrl": "https://www.lakecityreporter.com/sports/girls-basketball-fort-white-falls-hilliard-region-3-r-championship-again",
-      "date": "2026-02-20",
-      "featured": false
-    },
-    {
       "id": 21,
       "headline": "FHSAA Merges Rural and Class 1A Football; Fort White Indians Assigned to New District",
       "summary": "The Florida High School Athletic Association voted 11-1 on Thursday, January 29 to merge the Rural and Class 1A football classifications for the 2026 and 2027 seasons. The emergency board meeting was called after a sudden wave of Rural schools — including Union County and Dixie County — switched to the Sunshine State Athletic Association (SSAA), shrinking the Rural class from 32 to just 16 schools. Fort White, which was one of five Gainesville-area teams remaining in the Rural class, will now compete in Class 1A football alongside former Rural rivals. FHSAA released new 2026–28 district assignments on Friday, February 13, placing Fort White in a district with Lafayette (Mayo), Madison County, and Taylor County. The Rural classification will remain in place for all other sports.",
@@ -331,160 +309,6 @@
       "featured": false
     },
     {
-      "id": 20,
-      "headline": "Indians Win First Game of Season, Beat Bell 12-7 on the Road",
-      "summary": "The Fort White Indians picked up their first win of the 2026 baseball season Thursday night, defeating the Bell Bulldogs 12-7 on the road. The Indians outhit Bell 14 to 7 en route to the victory, with sophomore Aaron Parnell going 3-for-5 with 3 RBI and senior Elias Byrd going 2-for-3. Fort White improves to 1-4 on the season. The Indians return home Monday, February 23 to host the Hamilton County Trojans at 7:00 PM.",
-      "category": "Sports",
-      "locality": "fortwhite",
-      "source": "MaxPreps",
-      "sourceUrl": "https://www.maxpreps.com/games/2-19-2026/baseball-26/bell-vs-fort-white.htm?c=sZANr6--p06zUtEAcWYfkA",
-      "date": "2026-02-19",
-      "featured": false
-    },
-    {
-      "id": 19,
-      "headline": "Columbia County Commission to Vote on TD Bank Building Purchase for Tax Collector's Office",
-      "summary": "The Columbia County Board of Commissioners is set to vote Thursday night on whether to complete the purchase of the old TD Bank building in downtown Lake City to house the growing Tax Collector's Office. According to the Lake City Reporter, an inspection of the building showed no major structural issues. The commission meets at 6:00 PM at the School Board Administrative Complex Auditorium.",
-      "category": "Government",
-      "locality": "county",
-      "source": "Lake City Reporter",
-      "sourceUrl": "https://www.lakecityreporter.com/local/county-decide-td-bank-purchase",
-      "date": "2026-02-19",
-      "featured": false
-    },
-    {
-      "id": 18,
-      "headline": "New Olustee Battlefield Museum Breaks Ground at State Park",
-      "summary": "A new museum at Olustee Battlefield Historic State Park broke ground during last weekend's 49th Annual Battle of Olustee Re-enactment festivities. State Rep. Chuck Brannan attended the groundbreaking ceremony alongside a rendering of the planned facility. The museum will feature indoor and outdoor exhibits interpreting Florida's Civil War history and the events leading to the 1864 Battle of Olustee, the largest Civil War engagement fought in Florida. The state park is located on US-90, about 13 miles east of Lake City.",
-      "category": "Community",
-      "locality": "fortwhite",
-      "source": "Lake City Reporter / Florida Rambler",
-      "sourceUrl": "https://www.lakecityreporter.com/local-newsletter/breaking-ground-olustee-new-museum-coming-state-park",
-      "date": "2026-02-15",
-      "featured": false
-    },
-    {
-      "id": 17,
-      "headline": "Fort White Council Finds No Support to Dissolve Town; Ordinance Reading Set for Monday",
-      "summary": "Fort White council members and residents rejected the idea of dissolving the town into Columbia County at a packed special meeting Tuesday night at the Fort White Community Center. Both the public and council members voiced opposition to dissolution. Mayor George Thomas, who was the lone vote against holding the special meeting, echoed residents' sentiments. Councilman Bill Koon read from prepared notes during the session. Despite the lack of support, a first reading of an ordinance to dissolve the town remains on next Monday's (February 23) agenda, though its future is uncertain following the discussions.",
-      "category": "Government",
-      "locality": "fortwhite",
-      "source": "WCJB TV20 / WUFT News",
-      "sourceUrl": "https://www.wcjb.com/2026/02/18/fort-white-council-finds-no-support-town-dissolution-plans/",
-      "date": "2026-02-18",
-      "featured": false
-    },
-    {
-      "id": 16,
-      "headline": "All North-Central Florida Counties Now at Extreme Drought; Experts Warn of Months More",
-      "summary": "Every county in north-central Florida is now under extreme drought conditions, according to the latest U.S. Drought Monitor analysis. Despite parts of the area receiving over an inch of rain on February 15, the region remains far behind on rainfall for the water year. Gainesville has received just 25% of its usual rainfall since January, while Ocala has received only 18%. Alachua Conservation Trust fire specialist Nathan Bullian warned of a direct correlation between the drought and wildfire incidents, with more than 600 wildfires burning about 16,000 acres statewide from January to February 8. Two water management districts have declared Phase I Moderate Water Shortages, asking residents to voluntarily reduce water use.",
-      "category": "Weather",
-      "locality": "fortwhite",
-      "source": "WUFT News",
-      "sourceUrl": "https://www.wuft.org/weather/2026-02-18/how-drought-conditions-are-impacting-north-central-florida",
-      "date": "2026-02-18",
-      "featured": false
-    },
-    {
-      "id": 15,
-      "headline": "Lake City Man Arrested on Child Pornography Charges",
-      "summary": "Joshua Lee Hoger, 30, of Lake City was arrested Thursday after Columbia County Sheriff's Office detectives found over 20 images and videos of child sexual abuse material on his computer. The investigation began January 26 when the North Florida Internet Crimes Against Children Task Force received a tip from the National Center for Missing and Exploited Children. After tracing the case to a Lake City address and serving search warrants, authorities recovered evidence and issued an arrest warrant. Hoger was booked into the Columbia County Detention Facility on charges of using a two-way communication device to commit a felony and possession of child pornography. The investigation is ongoing and more charges could be filed.",
-      "category": "Public Safety",
-      "locality": "county",
-      "source": "Action News Jax",
-      "sourceUrl": "https://www.yahoo.com/news/articles/lake-city-man-arrested-child-121044031.html",
-      "date": "2026-02-16",
-      "featured": false
-    },
-    {
-      "id": 14,
-      "headline": "Wildfire Response Ramps Up Across North Florida; Air Tankers Staged in Lake City",
-      "summary": "The Florida Forest Service has moved large air tankers to Lake City as wildfire response intensifies across North Florida. According to News4Jax, Jacksonville Fire Rescue has responded to 29 wildfire incidents so far this year — more than double the 13 from the same period last year. In Duval County alone, the Forest Service has gone from 1 fire on 1 acre at this point last year to 11 fires on 50 acres. Four tractor plow units are now dedicated to Duval County. Officials urge residents to clear vegetation away from homes, trim bushes and trees, rake leaves several feet from structures, and clean roofs and gutters since fire travels by air as well as by ground.",
-      "category": "Public Safety",
-      "locality": "fortwhite",
-      "source": "News4Jax",
-      "sourceUrl": "https://www.news4jax.com/news/local/2026/02/16/extreme-drought-persists-in-northeast-florida-southeast-georgia-despite-sunday-rain-heres-how-to-reduce-wildfire-risk/",
-      "date": "2026-02-16",
-      "featured": false
-    },
-    {
-      "id": 13,
-      "headline": "Two Arrested in Lake City Undercover Child Predator Operation; One Suspect From Fort White",
-      "summary": "Two men face charges after Lake City police conducted an undercover operation to catch online child predators. Joseph Anderson, 25, of Chiefland and Robert Smith, 38, of Fort White were arrested after attempting to arrange meetings with who they believed were underage girls — but were actually undercover detectives. Anderson was arrested Monday and Smith was taken into custody on Tuesday. Both men engaged in sexually explicit conversations before arranging the meetings, according to police.",
-      "category": "Public Safety",
-      "locality": "fortwhite",
-      "source": "WCJB TV20",
-      "sourceUrl": "https://www.wcjb.com/2026/02/10/two-arrested-lake-city-undercover-child-predator-operation/",
-      "date": "2026-02-10",
-      "featured": false
-    },
-    {
-      "id": 12,
-      "headline": "Drought Worsens Across Northeast Florida Despite Sunday's Storms",
-      "summary": "Despite Sunday's severe weather, Northeast Florida's drought situation remains dire. According to News4Jax meteorologist Katie Garner, the region is sitting at 'severe drought' — just one step below 'extreme.' The storms on February 15 barely made a dent in the rainfall deficit. Fire risk remains elevated, with dry conditions making it easier for wildfires to start and spread. Light winds of 5–10 mph and mild temperatures around 69°F are expected early this week.",
-      "category": "Weather",
-      "locality": "fortwhite",
-      "source": "News4Jax",
-      "sourceUrl": "https://www.news4jax.com/weather/2026/02/16/jacksonville-faces-severe-drought-meteorologist-katie-garner-warns-of-nearly-one-foot-rain-deficit/",
-      "date": "2026-02-16",
-      "featured": false
-    },
-    {
-      "id": 11,
-      "headline": "National Wildfire Prevention Team Deployed to Florida Amid Growing Fire Risk",
-      "summary": "The National Wildfire Prevention and Education team has arrived in Florida for a two-week assignment to raise awareness about wildfire risk as drought conditions worsen. According to the Florida Forest Service, human activity causes 80% of wildfires — including outdoor cooking, campfires, yard debris burning, and even sparks from vehicle maintenance issues like low tire pressure or towing chains. About 95% of Florida is experiencing at least moderate drought, with severe drought conditions across Central and North Florida. Residents are urged not to burn anything outdoors and to clear vegetation away from homes.",
-      "category": "Public Safety",
-      "locality": "fortwhite",
-      "source": "News4Jax",
-      "sourceUrl": "https://www.news4jax.com/news/local/2026/02/15/wildfire-prevention-team-arrives-in-florida-amid-worsening-statewide-drought-conditions/",
-      "date": "2026-02-15",
-      "featured": false
-    },
-    {
-      "id": 10,
-      "headline": "Severe Storms and Tornado Watch Hit Northeast Florida Sunday",
-      "summary": "A strong cold front brought severe storms across Northeast Florida on Sunday, February 15, prompting a tornado watch through 8 p.m. The Storm Prediction Center placed the region at a Level 2 (Slight Risk) for severe weather. A Wind Advisory was in effect for areas west of the St. Johns River as south winds gusted up to 35–45 mph. The main squall line moved through western counties between 2–3 p.m. and reached inland Northeast Florida counties including Baker, Bradford, Clay, and Alachua by 4–5 p.m. The threat diminished by late evening as the cold front pushed through.",
-      "category": "Weather",
-      "locality": "fortwhite",
-      "source": "News4Jax",
-      "sourceUrl": "https://www.news4jax.com/weather/2026/02/14/sundays-strong-to-severe-storms-will-impact-southeast-georgia-northeast-florida/",
-      "date": "2026-02-15",
-      "featured": false
-    },
-    {
-      "id": 9,
-      "headline": "47th Annual Olustee Festival Draws Crowds to Lake City",
-      "summary": "Lake City hosted the 47th Annual Olustee Festival over Presidents' Day weekend at Wilson Park on Lake DeSoto, commemorating the 1864 Battle of Olustee — the largest Civil War engagement fought in Florida. The festival, held annually since 1976, featured over 150 vendors, food trucks, a children's area, local entertainment, and homemade arts and crafts from across the country. Road closures were in effect around downtown Lake City. The festival ran Friday and Saturday, February 13–14, from 9 a.m. to 6 p.m.",
-      "category": "Community",
-      "locality": "county",
-      "source": "WCJB TV20",
-      "sourceUrl": "https://www.wcjb.com/2026/02/13/lake-city-holds-47th-annual-olustee-festival/",
-      "date": "2026-02-13",
-      "featured": false
-    },
-    {
-      "id": 8,
-      "headline": "Wildfires Surge Across Florida as Drought Reaches 25-Year High",
-      "summary": "Florida is experiencing its worst drought in 25 years, with the Florida Forest Service reporting more than 650 wildfires and over 21,000 acres burned since January 1, 2026. According to Fox Weather, 98% of the state is under some level of drought, with 85% in severe drought — the most since March 2001. Emergency burn bans are active in 34 of 67 counties, including Columbia County. A wildfire in Marion County forced the closure of State Road 19 between CR-314 and SR-40, with detours in place.",
-      "category": "Public Safety",
-      "locality": "fortwhite",
-      "source": "Fox Weather / WCJB",
-      "sourceUrl": "https://www.foxweather.com/weather-news/florida-fire-danger-extreme-drought-record",
-      "date": "2026-02-13",
-      "featured": false
-    },
-    {
-      "id": 7,
-      "headline": "Gov. DeSantis Declares State of Emergency Over Drought and Cold Weather",
-      "summary": "Governor Ron DeSantis signed Executive Order 26-33 on Monday, February 9 declaring a state of emergency due to worsening drought and the impact of recent cold weather on Florida agriculture. The order provides emergency support for farmers, waives agricultural weight restrictions for crop transport, and directs the state to seek federal aid from the USDA and Small Business Administration. The Suwannee River Water Management District, which includes Columbia County, has an ongoing water shortage advisory citing an average rainfall deficit of nearly 11.5 inches across 14 of its 15 counties.",
-      "category": "Government",
-      "locality": "fortwhite",
-      "source": "WCJB TV20",
-      "sourceUrl": "https://www.wcjb.com/2026/02/10/desantis-signs-emergency-order-help-florida-farmers-after-cold-weather/",
-      "date": "2026-02-10",
-      "featured": false
-    },
-    {
       "id": 6,
       "headline": "Rep. Cammack Hosts Farm Bill Listening Session at Santa Fe River Ranch",
       "summary": "Congresswoman Kat Cammack hosted an agricultural listening session on Friday, February 13 at the Santa Fe River Ranch in North Central Florida, hours before a draft of the 2026 Farm Bill was released. Cammack highlighted wins including long-term funding to combat Citrus Greening disease, increased block grants for Florida farmers, and specialty crop innovation. She also noted additional disaster relief funding is on the way for farmers impacted by tariffs and recent freezing temperatures, and pushed for the expansion of broadband and water infrastructure in rural communities.",
@@ -493,39 +317,6 @@
       "source": "WCJB TV20",
       "sourceUrl": "https://www.wcjb.com/2026/02/13/rep-cammack-celebrates-wins-florida-farmers-included-2026-farm-bill/",
       "date": "2026-02-13",
-      "featured": false
-    },
-    {
-      "id": 5,
-      "headline": "49th Annual Battle of Olustee Re-enactment Wraps Up",
-      "summary": "The 49th Annual Battle of Olustee Re-enactment, the largest Civil War re-enactment in Florida and one of the largest in the Southeast, concluded Sunday, February 15 at Olustee Battlefield Historic State Park on US-90 east of Lake City. The three-day event running February 13–15 featured living history camps, period demonstrations, and the main battle re-enactment. The original 1864 battle involved 10,000 troops and was the largest Civil War engagement in Florida, with three U.S. Colored Regiments taking part including the 54th Massachusetts, later immortalized in the film Glory.",
-      "category": "Community",
-      "locality": "fortwhite",
-      "source": "Florida Rambler",
-      "sourceUrl": "https://www.floridarambler.com/historic-florida-getaways/florida-civil-war-reenactment/",
-      "date": "2026-02-15",
-      "featured": false
-    },
-    {
-      "id": 3,
-      "headline": "Florida Burn Bans Expand as Drought Intensifies Statewide",
-      "summary": "Counties across Florida, including Columbia County, continue under burn bans as drought conditions worsen. According to WUFT, 100% of the state is now experiencing some form of drought, with extreme drought (Level 4 of 5) covering 43% of Florida — nearly double from the prior week. Severe drought (Level 3) covers over 85% of the state. Residents are urged to avoid all open burning and conserve water. The long-term outlook indicates below-average rainfall over the next three months.",
-      "category": "Weather",
-      "locality": "fortwhite",
-      "source": "WUFT News",
-      "sourceUrl": "https://www.wuft.org/weather/2026-02-13/floridas-burn-bans-are-in-effect-drought-update",
-      "date": "2026-02-13",
-      "featured": false
-    },
-    {
-      "id": 4,
-      "headline": "High-Speed Chase Ends with K-9 Apprehension in Columbia County",
-      "summary": "On the night of February 10, a deputy working traffic enforcement near CR 131 and SW Cumorah Hill attempted to stop a silver Chevrolet Traverse that ran a stop sign. The driver, Jeffery Allen Steele, 44, of Wellborn, accelerated to 102 mph. Deputies deployed spike strips and performed a P.I.T. maneuver to stop the vehicle south of CR-242A. After Steele refused to exit, a K-9 was deployed. Deputies found multiple narcotics and drug paraphernalia. Steele was booked into the Columbia County Detention Facility on $32,000 bond.",
-      "category": "Public Safety",
-      "locality": "county",
-      "source": "News4Jax",
-      "sourceUrl": "https://www.news4jax.com/news/local/2026/02/12/chase-that-reached-100-mph-ends-with-k-9-apprehension-in-columbia-county/",
-      "date": "2026-02-10",
       "featured": false
     }
   ]
