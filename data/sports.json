@@ -4,21 +4,11 @@
   "motto": "Believe in the TR1BE! #TIWAHE",
   "season": "Spring 2025-26",
   "maxPrepsUrl": "https://www.maxpreps.com/fl/fort-white/fort-white-indians/baseball/",
-  "record": "2-9",
+  "record": "3-9",
   "districtRecord": "0-3 (Rural District 6)",
-  "softballRecord": "3-2",
+  "softballRecord": "3-3",
   "softballDistrictRecord": "1-0",
   "upcoming": [
-    {
-      "sport": "Baseball",
-      "event": "vs Oak Hall",
-      "date": "2026-03-09",
-      "displayDate": "Mon, Mar 9",
-      "time": "6:00 PM",
-      "location": "Fort White, FL",
-      "opponent": "Oak Hall Eagles",
-      "notes": "Home game vs Oak Hall."
-    },
     {
       "sport": "Baseball",
       "event": "@ Lafayette (District)",
@@ -28,6 +18,17 @@
       "location": "Mayo, FL",
       "opponent": "Lafayette Hornets",
       "notes": "District road game at Lafayette."
+    },
+    {
+      "sport": "Softball",
+      "event": "vs Chiefland",
+      "date": "2026-03-10",
+      "displayDate": "Tue, Mar 10",
+      "time": "7:00 PM",
+      "location": "Fort White, FL",
+      "opponent": "Chiefland Indians",
+      "notes": "Home softball game vs Chiefland.",
+      "maxPrepsUrl": "https://www.maxpreps.com/games/03-10-2026/softball-26/chiefland-vs-fort-white.htm?c=nJ0bNE1EXki-GV2ATtcGJA"
     },
     {
       "sport": "Baseball",
@@ -40,6 +41,17 @@
       "notes": "Home game vs Chiefland."
     },
     {
+      "sport": "Softball",
+      "event": "vs Corinth Christian Academy",
+      "date": "2026-03-12",
+      "displayDate": "Thu, Mar 12",
+      "time": "7:00 PM",
+      "location": "Fort White, FL",
+      "opponent": "Corinth Christian Academy Warriors",
+      "notes": "Home softball game vs Corinth Christian.",
+      "maxPrepsUrl": "https://www.maxpreps.com/games/03-12-2026/softball-26/corinth-christian-academy-vs-fort-white.htm?c=z3znQP9wv0mYVuSx4h_6WA"
+    },
+    {
       "sport": "Baseball",
       "event": "@ Dixie County",
       "date": "2026-03-17",
@@ -48,6 +60,17 @@
       "location": "Cross City, FL",
       "opponent": "Dixie County Bears",
       "notes": "Road game at Dixie County."
+    },
+    {
+      "sport": "Softball",
+      "event": "vs Madison County",
+      "date": "2026-03-17",
+      "displayDate": "Tue, Mar 17",
+      "time": "7:00 PM",
+      "location": "Fort White, FL",
+      "opponent": "Madison County Cowboys",
+      "notes": "Home softball game vs Madison County.",
+      "maxPrepsUrl": "https://www.maxpreps.com/games/03-17-2026/softball-26/fort-white-vs-madison-county.htm?c=wTuKAp99V0axvXhCUXOStw"
     },
     {
       "sport": "Baseball",
@@ -60,6 +83,17 @@
       "notes": "Home game vs Trenton."
     },
     {
+      "sport": "Softball",
+      "event": "@ Bradford",
+      "date": "2026-03-20",
+      "displayDate": "Fri, Mar 20",
+      "time": "7:00 PM",
+      "location": "Starke, FL",
+      "opponent": "Bradford Tornadoes",
+      "notes": "Road softball game at Bradford.",
+      "maxPrepsUrl": "https://www.maxpreps.com/games/03-20-2026/softball-26/bradford-vs-fort-white.htm?c=BN5BmO2V6EC8PVviR0NsFw"
+    },
+    {
       "sport": "Baseball",
       "event": "@ St. John Lutheran",
       "date": "2026-03-30",
@@ -68,6 +102,17 @@
       "location": "Ocala, FL",
       "opponent": "St. John Lutheran Saints",
       "notes": "Road game at St. John Lutheran."
+    },
+    {
+      "sport": "Softball",
+      "event": "vs Eastside",
+      "date": "2026-03-30",
+      "displayDate": "Mon, Mar 30",
+      "time": "7:00 PM",
+      "location": "Fort White, FL",
+      "opponent": "Eastside Rams",
+      "notes": "Home softball game vs Eastside.",
+      "maxPrepsUrl": "https://www.maxpreps.com/games/03-30-2026/softball-26/eastside-vs-fort-white.htm?c=NLZIlD0soEmls2uFLqRMWw"
     },
     {
       "sport": "Baseball",
@@ -88,6 +133,17 @@
       "location": "Gainesville, FL",
       "opponent": "Oak Hall Eagles",
       "notes": "Road game at Oak Hall."
+    },
+    {
+      "sport": "Softball",
+      "event": "@ Union County (District)",
+      "date": "2026-04-02",
+      "displayDate": "Thu, Apr 2",
+      "time": "7:00 PM",
+      "location": "Lake Butler, FL",
+      "opponent": "Union County Fightin' Tigers",
+      "notes": "District road game at Union County.",
+      "maxPrepsUrl": "https://www.maxpreps.com/games/04-02-2026/softball-26/fort-white-vs-union-county.htm?c=zBBKDZPwpUqSVg3Ke08bDg"
     },
     {
       "sport": "Baseball",
@@ -120,93 +176,6 @@
       "notes": "District road game at Taylor County."
     },
     {
-      "sport": "Baseball",
-      "event": "vs Gainesville",
-      "date": "2026-04-09",
-      "displayDate": "Thu, Apr 9",
-      "time": "6:00 PM",
-      "location": "Fort White, FL",
-      "opponent": "Gainesville Hurricanes",
-      "notes": "Home game vs Gainesville."
-    },
-    {
-      "sport": "Softball",
-      "event": "vs Lafayette",
-      "date": "2026-03-09",
-      "displayDate": "Mon, Mar 9",
-      "time": "7:00 PM",
-      "location": "Fort White, FL",
-      "opponent": "Lafayette Hornets",
-      "notes": "Home softball game vs Lafayette.",
-      "maxPrepsUrl": "https://www.maxpreps.com/games/03-09-2026/softball-26/fort-white-vs-lafayette.htm?c=29yrYUjnvU2olM9QAV1ocw"
-    },
-    {
-      "sport": "Softball",
-      "event": "vs Chiefland",
-      "date": "2026-03-10",
-      "displayDate": "Tue, Mar 10",
-      "time": "7:00 PM",
-      "location": "Fort White, FL",
-      "opponent": "Chiefland Indians",
-      "notes": "Home softball game vs Chiefland.",
-      "maxPrepsUrl": "https://www.maxpreps.com/games/03-10-2026/softball-26/chiefland-vs-fort-white.htm?c=nJ0bNE1EXki-GV2ATtcGJA"
-    },
-    {
-      "sport": "Softball",
-      "event": "vs Corinth Christian Academy",
-      "date": "2026-03-12",
-      "displayDate": "Thu, Mar 12",
-      "time": "7:00 PM",
-      "location": "Fort White, FL",
-      "opponent": "Corinth Christian Academy Warriors",
-      "notes": "Home softball game vs Corinth Christian.",
-      "maxPrepsUrl": "https://www.maxpreps.com/games/03-12-2026/softball-26/corinth-christian-academy-vs-fort-white.htm?c=z3znQP9wv0mYVuSx4h_6WA"
-    },
-    {
-      "sport": "Softball",
-      "event": "vs Madison County",
-      "date": "2026-03-17",
-      "displayDate": "Tue, Mar 17",
-      "time": "7:00 PM",
-      "location": "Fort White, FL",
-      "opponent": "Madison County Cowboys",
-      "notes": "Home softball game vs Madison County.",
-      "maxPrepsUrl": "https://www.maxpreps.com/games/03-17-2026/softball-26/fort-white-vs-madison-county.htm?c=wTuKAp99V0axvXhCUXOStw"
-    },
-    {
-      "sport": "Softball",
-      "event": "@ Bradford",
-      "date": "2026-03-20",
-      "displayDate": "Fri, Mar 20",
-      "time": "7:00 PM",
-      "location": "Starke, FL",
-      "opponent": "Bradford Tornadoes",
-      "notes": "Road softball game at Bradford.",
-      "maxPrepsUrl": "https://www.maxpreps.com/games/03-20-2026/softball-26/bradford-vs-fort-white.htm?c=BN5BmO2V6EC8PVviR0NsFw"
-    },
-    {
-      "sport": "Softball",
-      "event": "vs Eastside",
-      "date": "2026-03-30",
-      "displayDate": "Mon, Mar 30",
-      "time": "7:00 PM",
-      "location": "Fort White, FL",
-      "opponent": "Eastside Rams",
-      "notes": "Home softball game vs Eastside.",
-      "maxPrepsUrl": "https://www.maxpreps.com/games/03-30-2026/softball-26/eastside-vs-fort-white.htm?c=NLZIlD0soEmls2uFLqRMWw"
-    },
-    {
-      "sport": "Softball",
-      "event": "@ Union County (District)",
-      "date": "2026-04-02",
-      "displayDate": "Thu, Apr 2",
-      "time": "7:00 PM",
-      "location": "Lake Butler, FL",
-      "opponent": "Union County Fightin' Tigers",
-      "notes": "District road game at Union County.",
-      "maxPrepsUrl": "https://www.maxpreps.com/games/04-02-2026/softball-26/fort-white-vs-union-county.htm?c=zBBKDZPwpUqSVg3Ke08bDg"
-    },
-    {
       "sport": "Softball",
       "event": "@ Chiefland",
       "date": "2026-04-07",
@@ -216,6 +185,16 @@
       "opponent": "Chiefland Indians",
       "notes": "Road softball game at Chiefland.",
       "maxPrepsUrl": "https://www.maxpreps.com/games/04-07-2026/softball-26/chiefland-vs-fort-white.htm?c=2otLxPPxe0OX2D5iP_rCmw"
+    },
+    {
+      "sport": "Baseball",
+      "event": "vs Gainesville",
+      "date": "2026-04-09",
+      "displayDate": "Thu, Apr 9",
+      "time": "6:00 PM",
+      "location": "Fort White, FL",
+      "opponent": "Gainesville Hurricanes",
+      "notes": "Home game vs Gainesville."
     },
     {
       "sport": "Softball",
@@ -298,6 +277,40 @@
   "recentResults": [
     {
       "sport": "Softball",
+      "event": "vs Lafayette",
+      "date": "2026-03-09",
+      "result": "Loss, 4-12",
+      "won": false,
+      "notes": "Fort White fell at home to Lafayette 12-4 Monday evening. The Lady Indians drop to 3-3 on the season. Per MaxPreps.",
+      "maxPrepsUrl": "https://www.maxpreps.com/games/03-09-2026/softball-26/fort-white-vs-lafayette.htm?c=29yrYUjnvU2olM9QAV1ocw"
+    },
+    {
+      "sport": "Baseball",
+      "event": "vs Oak Hall",
+      "date": "2026-03-09",
+      "result": "Win, 9-8 (8 inn.)",
+      "won": true,
+      "notes": "The Indians edged Oak Hall 9-8 in eight innings in an exciting home extra-inning win Monday evening. Fort White trailed after Oak Hall scored 3 in the 3rd and 2 in the 6th, but the Indians scratched out 2 runs in the 7th and the walk-off run in the 8th. Aaron Parnell went 2-for-3 with 2 RBI; Elias Byrd hit a home run with 2 RBI; Mathew Pitts went 2-for-3 with a double and earned the pitching win. Fort White improves to 3-9 overall.",
+      "lineScore": {
+        "away": {
+          "team": "Oak Hall",
+          "innings": [2, 0, 3, 1, 0, 2, 0, 0],
+          "R": 8,
+          "H": 8,
+          "E": 4
+        },
+        "home": {
+          "team": "Fort White",
+          "innings": [2, 2, 2, 0, 0, 0, 2, 1],
+          "R": 9,
+          "H": 7,
+          "E": 4
+        }
+      },
+      "maxPrepsUrl": "https://www.maxpreps.com/games/03-09-2026/baseball-26/fort-white-vs-oak-hall.htm?c=3UNyPsgTnUaa8jEBe2rPLg"
+    },
+    {
+      "sport": "Softball",
       "event": "vs First Christian",
       "date": "2026-03-06",
       "result": "Win, 15-2",
@@ -311,32 +324,18 @@
       "date": "2026-03-06",
       "result": "Loss, 1-11",
       "won": false,
-      "notes": "Fort White lost 11-1 on the road at Branford in a district game on Friday night. MaxPreps lists Fort White with 1 run on 1 hit and 8 errors, while Branford finished with 11 runs on 15 hits. The Indians are now 2-9 overall and 0-3 in district play.",
+      "notes": "Fort White lost 11-1 on the road at Branford in a district game on Friday night. MaxPreps lists Fort White with 1 run on 1 hit and 8 errors, while Branford finished with 11 runs on 15 hits. The Indians fell to 2-9 overall and 0-3 in district play.",
       "lineScore": {
         "away": {
           "team": "Fort White",
-          "innings": [
-            0,
-            0,
-            0,
-            1,
-            0,
-            0
-          ],
+          "innings": [0, 0, 0, 1, 0, 0],
           "R": 1,
           "H": 1,
           "E": 8
         },
         "home": {
           "team": "Branford",
-          "innings": [
-            1,
-            3,
-            2,
-            0,
-            2,
-            3
-          ],
+          "innings": [1, 3, 2, 0, 2, 3],
           "R": 11,
           "H": 15,
           "E": 1
@@ -350,32 +349,18 @@
       "date": "2026-03-03",
       "result": "Win, 11-1",
       "won": true,
-      "notes": "The Indians bounced back with a convincing 11-1 road win at Gainesville Tuesday night. Fort White scored 2 in the 1st, 3 in the 2nd, 5 in the 4th, and 1 in the 6th to win in 6 innings. Carson Capallia went 2-for-4 with 2 RBI; Ryder Mandarino added 2 hits and 2 RBI; Aaron Parnell drove in 2. Cole Westland earned the pitching win. Fort White is now 2-8 on the season.",
+      "notes": "The Indians bounced back with a convincing 11-1 road win at Gainesville Tuesday night. Fort White scored 2 in the 1st, 3 in the 2nd, 5 in the 4th, and 1 in the 6th to win in 6 innings. Carson Capallia went 2-for-4 with 2 RBI; Ryder Mandarino added 2 hits and 2 RBI; Aaron Parnell drove in 2. Cole Westland earned the pitching win. Fort White improved to 2-8 on the season.",
       "lineScore": {
         "away": {
           "team": "Fort White",
-          "innings": [
-            2,
-            3,
-            0,
-            5,
-            0,
-            1
-          ],
+          "innings": [2, 3, 0, 5, 0, 1],
           "R": 11,
           "H": 8,
           "E": 3
         },
         "home": {
           "team": "Gainesville",
-          "innings": [
-            0,
-            1,
-            0,
-            0,
-            0,
-            0
-          ],
+          "innings": [0, 1, 0, 0, 0, 0],
           "R": 1,
           "H": 4,
           "E": 3
@@ -389,34 +374,18 @@
       "date": "2026-03-03",
       "result": "Loss, 8-11",
       "won": false,
-      "notes": "The Lady Indians fell 11-8 to Bradford at home Tuesday night. Bradford broke the game open with 6 runs in the 2nd and 5 more in the 3rd to lead 11-0 before Fort White rallied with 4 in the 5th, 3 in the 6th, and 1 in the 7th. Layla Alvey led Fort White going 3-for-4; Taryn Clyatt and G. Durrance each added 2 hits. Fort White falls to 2-2 overall, 1-0 district.",
+      "notes": "The Lady Indians fell 11-8 to Bradford at home Tuesday night. Bradford broke the game open with 6 runs in the 2nd and 5 more in the 3rd to lead 11-0 before Fort White rallied with 4 in the 5th, 3 in the 6th, and 1 in the 7th. Layla Alvey led Fort White going 3-for-4; Taryn Clyatt and G. Durrance each added 2 hits. Fort White fell to 2-2 overall, 1-0 district.",
       "lineScore": {
         "away": {
           "team": "Bradford",
-          "innings": [
-            0,
-            6,
-            5,
-            0,
-            0,
-            0,
-            0
-          ],
+          "innings": [0, 6, 5, 0, 0, 0, 0],
           "R": 11,
           "H": 12,
           "E": 7
         },
         "home": {
           "team": "Fort White",
-          "innings": [
-            0,
-            0,
-            0,
-            0,
-            4,
-            3,
-            1
-          ],
+          "innings": [0, 0, 0, 0, 4, 3, 1],
           "R": 8,
           "H": 9,
           "E": 4
@@ -434,30 +403,14 @@
       "lineScore": {
         "away": {
           "team": "Saint Francis Catholic Academy",
-          "innings": [
-            3,
-            0,
-            0,
-            5,
-            6,
-            0,
-            3
-          ],
+          "innings": [3, 0, 0, 5, 6, 0, 3],
           "R": 17,
           "H": 15,
           "E": 3
         },
         "home": {
           "team": "Fort White",
-          "innings": [
-            0,
-            0,
-            3,
-            4,
-            0,
-            0,
-            0
-          ],
+          "innings": [0, 0, 3, 4, 0, 0, 0],
           "R": 7,
           "H": 5,
           "E": 4
@@ -471,7 +424,7 @@
       "date": "2026-03-02",
       "result": "Loss, 2-16",
       "won": false,
-      "notes": "Fort White Lady Indians fell 2-16 at home to Union County. Union County batted .452 as a team with 14 hits and 16 runs; Fort White managed 6 hits and 2 runs. Fort White drops to 2-1 on the season.",
+      "notes": "Fort White Lady Indians fell 2-16 at home to Union County. Union County batted .452 as a team with 14 hits and 16 runs; Fort White managed 6 hits and 2 runs. Fort White dropped to 2-1 on the season.",
       "maxPrepsUrl": "https://www.maxpreps.com/games/03-02-2026/softball-26/fort-white-vs-union-county.htm?c=lL8jWe93MUmJ2WmnIuxjdA"
     },
     {
@@ -493,28 +446,14 @@
       "lineScore": {
         "away": {
           "team": "Fort White",
-          "innings": [
-            0,
-            1,
-            0,
-            0,
-            0,
-            0
-          ],
+          "innings": [0, 1, 0, 0, 0, 0],
           "R": 1,
           "H": 4,
           "E": 4
         },
         "home": {
           "team": "Trenton",
-          "innings": [
-            0,
-            1,
-            1,
-            2,
-            3,
-            4
-          ],
+          "innings": [0, 1, 1, 2, 3, 4],
           "R": 11,
           "H": 7,
           "E": 1
@@ -550,30 +489,14 @@
       "lineScore": {
         "away": {
           "team": "Hamilton County",
-          "innings": [
-            1,
-            3,
-            0,
-            0,
-            0,
-            1,
-            1
-          ],
+          "innings": [1, 3, 0, 0, 0, 1, 1],
           "R": 6,
           "H": 7,
           "E": 1
         },
         "home": {
           "team": "Fort White",
-          "innings": [
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
-            1
-          ],
+          "innings": [0, 0, 1, 0, 0, 0, 1],
           "R": 2,
           "H": 6,
           "E": 4
@@ -600,26 +523,14 @@
       "lineScore": {
         "away": {
           "team": "Lafayette",
-          "innings": [
-            0,
-            3,
-            3,
-            9,
-            1
-          ],
+          "innings": [0, 3, 3, 9, 1],
           "R": 16,
           "H": 9,
           "E": 1
         },
         "home": {
           "team": "Fort White",
-          "innings": [
-            1,
-            0,
-            0,
-            1,
-            0
-          ],
+          "innings": [1, 0, 0, 1, 0],
           "R": 2,
           "H": 3,
           "E": 3

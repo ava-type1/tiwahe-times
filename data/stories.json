@@ -1,6 +1,17 @@
 {
   "stories": [
     {
+      "id": 55,
+      "headline": "Dixie County Wildfire Grows to 764 Acres, Now 85% Contained; Second Fire Near Gainesville Airport Contained",
+      "summary": "The wildfire burning west of Cross City in Dixie County has grown slightly to 764 acres and is now 85% contained, according to Florida Forest Service and Dixie County Fire Rescue officials reporting Tuesday morning. Crews flew drones over the fire zone to locate and target remaining hot spots. A separate three-acre wildfire also broke out in the woods east of Gainesville Regional Airport Tuesday; crews used bulldozers to quickly contain that blaze. Both fires are burning during an ongoing drought and active burn ban period that includes Columbia County through at least March 19. Fort White-area residents are reminded that all outdoor burning remains prohibited; call 911 if you spot a wildfire.",
+      "category": "Public Safety",
+      "locality": "fortwhite",
+      "source": "WCJB TV20",
+      "sourceUrl": "https://www.wcjb.com/2026/03/10/crews-battle-764-acre-wildfire-dixie-county-second-fire-reported-near-gainesville-airport/",
+      "date": "2026-03-10",
+      "featured": true
+    },
+    {
       "id": 54,
       "headline": "Lake City Woman Killed in 3-Vehicle Crash on I-10 in Duval County",
       "summary": "A 33-year-old Lake City woman was killed Sunday evening in a three-vehicle crash on Interstate 10 in Baldwin, Duval County, according to Florida Highway Patrol. Troopers say a 24-year-old driver rear-ended a stopped sedan just before 6:45 p.m., causing a chain-reaction collision that pushed the sedan into a second pickup truck. The Lake City woman, who was driving the sedan, was pronounced dead at the scene; a 43-year-old Lake City man in the sedan suffered serious injuries. The 24-year-old at-fault driver also suffered serious injuries. FHP is investigating the crash.",
@@ -31,7 +42,7 @@
       "source": "WCJB TV20",
       "sourceUrl": "https://www.wcjb.com/2026/03/09/wildfire-burns-750-acres-dixie-county-crews-move-mop-up-phase/",
       "date": "2026-03-09",
-      "featured": true
+      "featured": false
     },
     {
       "id": 51,
