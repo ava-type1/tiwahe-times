@@ -1,6 +1,28 @@
 {
   "stories": [
     {
+      "id": 59,
+      "headline": "Columbia County Burn Ban Still in Effect; Neighboring Counties Also Extending Bans",
+      "summary": "Columbia County remains under an active burn ban as of Thursday, March 12, joining Bradford, Gilchrist, and Union counties, which all still have bans in place. Alachua County extended its ban through Saturday, March 21, while Levy County extended through Thursday, March 19. Marion County commissioners also extended their ban this week. The continued bans across North Central Florida reflect ongoing extreme drought conditions — Fort White-area residents should avoid all outdoor burning and call 911 immediately if they spot a wildfire.",
+      "category": "Public Safety",
+      "locality": "fortwhite",
+      "source": "WCJB TV20",
+      "sourceUrl": "https://www.wcjb.com/2026/03/12/alachua-levy-counties-extend-burn-bans/",
+      "date": "2026-03-12",
+      "featured": true
+    },
+    {
+      "id": 58,
+      "headline": "Humane Society and Columbia County Clash Over Animal Services; Shelter to Address Commission Next Week",
+      "summary": "Lake City Humane Society officials announced Tuesday they plan to attend an upcoming Columbia County commission meeting to push back against claims the shelter is not accepting animals. The Humane Society says it is still taking in animals within Lake City — where it holds a city contract — but is no longer accepting animals from outside the city after the county declined to renew its funding contract in January. Executive Director Elizabeth Halloran said the county cited the shelter's transition to no-kill status as a reason the 'business models no longer work together.' Columbia County says it has since contracted with ZooTrek to provide animal rehoming services and that residents needing to surrender pets can contact Columbia County Animal Enforcement at 386-758-3352.",
+      "category": "Community",
+      "locality": "fortwhite",
+      "source": "WCJB TV20",
+      "sourceUrl": "https://www.wcjb.com/2026/03/10/lake-city-humane-society-address-county-over-animal-intake-claims/",
+      "date": "2026-03-10",
+      "featured": false
+    },
+    {
       "id": 57,
       "headline": "SRWMD Escalates to Phase II Water Restrictions Starting March 17; Affects All of Columbia County Through July",
       "summary": "The Suwannee River Water Management District voted to upgrade from Phase I to Phase II water shortage restrictions beginning March 17, 2026, with the new rules running through July 31. Phase II limits landscape irrigation to no more than once per week, prohibits HOAs from requiring increased water use to meet aesthetic standards, and restricts pressure cleaning to low-volume methods. The district also continues to urge all users to voluntarily reduce overall water consumption and limit water-intensive cleaning activities. Columbia County falls entirely within the SRWMD's 16-county jurisdiction, meaning the new restrictions apply directly to Fort White residents, businesses, and agricultural operations.",
