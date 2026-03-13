@@ -59,6 +59,26 @@
       "location": "Columbia County, Lake City",
       "description": "Code Enforcement Magistrate Hearing. Source: Columbia County official meeting calendar.",
       "link": "https://www.columbiacountyfla.com/MeetingCalendarForCrawlers.asp"
+    },
+    {
+      "type": "Meeting",
+      "title": "Board of County Commissioners — Regular Meeting",
+      "date": "2026-04-16",
+      "displayDate": "Thursday, April 16",
+      "time": "6:00 PM",
+      "location": "School Board Administrative Complex Auditorium, 372 W Duval St, Lake City",
+      "description": "Regular meeting of the Columbia County Board of County Commissioners. Meets 1st and 3rd Thursday of each month. Source: Columbia County official meeting calendar.",
+      "link": "https://www.columbiacountyfla.com/MeetingCalendar.asp"
+    },
+    {
+      "type": "Meeting",
+      "title": "Economic Development Board Meeting",
+      "date": "2026-04-16",
+      "displayDate": "Thursday, April 16",
+      "time": "TBD",
+      "location": "Columbia County, Lake City",
+      "description": "Regular meeting of the Columbia County Economic Development Board. Source: Columbia County official meeting calendar.",
+      "link": "https://www.columbiacountyfla.com/MeetingCalendar.asp"
     }
   ]
 }

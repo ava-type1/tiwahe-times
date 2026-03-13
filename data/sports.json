@@ -4,32 +4,11 @@
   "motto": "Believe in the TR1BE! #TIWAHE",
   "season": "Spring 2025-26",
   "maxPrepsUrl": "https://www.maxpreps.com/fl/fort-white/fort-white-indians/baseball/",
-  "record": "3-10",
-  "districtRecord": "0-4 (Class 1A District)",
-  "softballRecord": "3-4",
+  "record": "3-11",
+  "districtRecord": "0-5 (Class 1A District)",
+  "softballRecord": "4-4",
   "softballDistrictRecord": "1-0",
   "upcoming": [
-    {
-      "sport": "Baseball",
-      "event": "vs Chiefland",
-      "date": "2026-03-12",
-      "displayDate": "Thu, Mar 12",
-      "time": "7:00 PM",
-      "location": "Fort White, FL",
-      "opponent": "Chiefland Indians",
-      "notes": "Home game vs Chiefland."
-    },
-    {
-      "sport": "Softball",
-      "event": "vs Corinth Christian Academy",
-      "date": "2026-03-12",
-      "displayDate": "Thu, Mar 12",
-      "time": "7:00 PM",
-      "location": "Fort White, FL",
-      "opponent": "Corinth Christian Academy Warriors",
-      "notes": "Home softball game vs Corinth Christian.",
-      "maxPrepsUrl": "https://www.maxpreps.com/games/03-12-2026/softball-26/corinth-christian-academy-vs-fort-white.htm?c=z3znQP9wv0mYVuSx4h_6WA"
-    },
     {
       "sport": "Baseball",
       "event": "@ Dixie County",
@@ -254,6 +233,33 @@
     }
   ],
   "recentResults": [
+    {
+      "sport": "Softball",
+      "event": "vs Corinth Christian Academy",
+      "date": "2026-03-12",
+      "result": "Win, 14-0",
+      "won": true,
+      "notes": "The Lady Indians cruised to a 14-0 shutout at home Thursday over Corinth Christian Academy (Jasper). Fort White batted .560 as a team with 14 hits and 14 runs. Jermauni Byrd went 3-for-3 with a grand slam and 3 RBI; G. Durrance went 3-for-4 with a double, a home run, and 2 RBI; Layla Alvey went 2-for-2 with 2 RBI. Fort White improves to 4-4 on the season.",
+      "maxPrepsUrl": "https://www.maxpreps.com/games/3-12-2026/softball-26/corinth-christian-academy-vs-fort-white.htm?c=z3znQP9wv0mYVuSx4h_6WA"
+    },
+    {
+      "sport": "Baseball",
+      "event": "vs Chiefland",
+      "date": "2026-03-12",
+      "result": "Loss, 6-16",
+      "won": false,
+      "notes": "The Indians dropped a home game to Chiefland Thursday night by a score of 16-6. Fort White falls to 3-11 on the season. Per MaxPreps.",
+      "maxPrepsUrl": "https://www.maxpreps.com/games/03-12-2026/baseball-26/chiefland-vs-fort-white.htm?c=RAqb86cDyUa8sh7cCrGtCw"
+    },
+    {
+      "sport": "Baseball",
+      "event": "@ Lafayette (District)",
+      "date": "2026-03-10",
+      "result": "Loss, 2-4",
+      "won": false,
+      "notes": "Fort White fell on the road at Lafayette 4-2 in a district game Tuesday. The Indians drop to 3-10 overall and 0-5 in district play with the loss. Per MaxPreps.",
+      "maxPrepsUrl": "https://www.maxpreps.com/games/03-10-2026/baseball-26/fort-white-vs-lafayette.htm?c=G2ZVjSrjbE6LmLMyLwEsdg"
+    },
     {
       "sport": "Softball",
       "event": "vs Chiefland",

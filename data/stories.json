@@ -1,6 +1,39 @@
 {
   "stories": [
     {
+      "id": 62,
+      "headline": "Dixie County Community Plans Benefit Concert Saturday for Family of 6 Killed in House Fire",
+      "summary": "The Dixie County community is rallying around the family of Charles 'Jelly Roll' Pinner, his wife Lori, and their four children, who were all killed when their home caught fire on February 17. A fundraiser benefit concert is scheduled for Saturday, March 14, beginning at noon at the American Legion Post 383 in Old Town, Florida — just south of the Fort White area across the county line. Performances will be provided by Stash Acoustical, Rock Bluff Band, and the Ole Skool Band, and an auction will also be held at the event to raise money for the family.",
+      "category": "Community",
+      "locality": "fortwhite",
+      "source": "WCJB TV20",
+      "sourceUrl": "https://www.wcjb.com/2026/03/12/dixie-county-community-holds-benefit-concert-family-6-killed-house-fire/",
+      "date": "2026-03-12",
+      "featured": false
+    },
+    {
+      "id": 61,
+      "headline": "Columbia County SWAT Team Responds to Armed Standoff in Old Town; One Man Arrested",
+      "summary": "The Columbia County SWAT team assisted Dixie County Sheriff's deputies Thursday night after a standoff on Southeast 455th Avenue in Old Town, Florida. Deputies arrested James Lewis Herring, 61, who was charged with aggravated assault and possession of a firearm by a convicted felon. Herring is being held at the Dixie County Jail on a $200,000 bond. The deployment marks Columbia County's SWAT team supporting a neighboring jurisdiction in a serious armed incident.",
+      "category": "Public Safety",
+      "locality": "fortwhite",
+      "source": "WCJB TV20",
+      "sourceUrl": "https://www.wcjb.com/2026/03/12/dixie-county-man-arrested-after-incident-old-town/",
+      "date": "2026-03-12",
+      "featured": false
+    },
+    {
+      "id": 60,
+      "headline": "Columbia County Burn Ban Lifted Thursday After Rain Breaks Drought Grip",
+      "summary": "Columbia County Judge Doug Fields lifted the county-wide burn ban on Thursday, March 12, 2026, bringing an end to the outdoor burning prohibition that the judge had imposed on February 24. The lifting came after two inches of rain fell on Tuesday and Wednesday, raising the county's March rainfall total to 2.92 inches — and pushing total rainfall since January 1 to 7.84 inches, according to the Magnolia Reporter. The burn ban had been in place for 17 days under judicial order. Residents may resume outdoor burning, but are reminded to check current conditions and always exercise caution during dry or windy weather.",
+      "category": "Public Safety",
+      "locality": "fortwhite",
+      "source": "Magnolia Reporter",
+      "sourceUrl": "https://www.magnoliareporter.com/news_and_business/local_news/article_4094bc16-d68e-4d6c-b0d1-09e5451a9c2a.html",
+      "date": "2026-03-12",
+      "featured": true
+    },
+    {
       "id": 59,
       "headline": "Columbia County Burn Ban Still in Effect; Neighboring Counties Also Extending Bans",
       "summary": "Columbia County remains under an active burn ban as of Thursday, March 12, joining Bradford, Gilchrist, and Union counties, which all still have bans in place. Alachua County extended its ban through Saturday, March 21, while Levy County extended through Thursday, March 19. Marion County commissioners also extended their ban this week. The continued bans across North Central Florida reflect ongoing extreme drought conditions — Fort White-area residents should avoid all outdoor burning and call 911 immediately if they spot a wildfire.",
@@ -9,7 +42,7 @@
       "source": "WCJB TV20",
       "sourceUrl": "https://www.wcjb.com/2026/03/12/alachua-levy-counties-extend-burn-bans/",
       "date": "2026-03-12",
-      "featured": true
+      "featured": false
     },
     {
       "id": 58,
