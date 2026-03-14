@@ -1,6 +1,50 @@
 {
   "stories": [
     {
+      "id": 66,
+      "headline": "Free Mattress Recycling Drop-Off TODAY at Columbia County Transfer Station, 8 AM–Noon",
+      "summary": "Columbia County residents can drop off old mattresses and box springs for free today, Saturday, March 14, from 8 a.m. to noon at the Columbia County Transfer Station located at 1601 Railroad Ave. in St. Helens. The county's Solid Waste Division is hosting four such events this year as part of an effort to divert bulky items from the landfill — mattress materials including steel, foam, and fiber can be recycled. Each household may drop off up to five mattresses or box springs; air mattresses, mattress toppers, bed frames, pillows, and crib mattresses are not accepted. Additional drop-off dates are scheduled for June 13, September 12, and November 14 — all from 8 a.m. to noon at the same location.",
+      "category": "Community",
+      "locality": "fortwhite",
+      "source": "Columbia County Spotlight",
+      "sourceUrl": "https://columbiacountyspotlight.com/2026/03/13/columbia-county-hosts-free-mattress-recycling-events/",
+      "date": "2026-03-13",
+      "featured": false
+    },
+    {
+      "id": 65,
+      "headline": "Lake City Police Warn of 'Good Samaritan' Money-Sharing Scam at Grocery Stores and Banks",
+      "summary": "The Lake City Police Department issued a warning Thursday about a scam targeting elderly women at local grocery stores and bank parking lots. Suspects approach victims, claim to have a large bag of cash they want to share, then convince the women to withdraw money from their own bank accounts to 'combine' with the fake cash — which the suspects then take and flee. In some cases a second suspect joins in to reinforce the scheme and distract the victim. Police advise residents not to withdraw money at the request of strangers, avoid sharing financial information with people you don't know, and to immediately leave and call 911 if you feel you're being targeted. Anyone with information can call the Lake City Police Department at (386) 752-4343 or Crime Stoppers of Columbia County at (386) 754-7099.",
+      "category": "Public Safety",
+      "locality": "county",
+      "source": "News4Jax",
+      "sourceUrl": "https://www.news4jax.com/news/local/2026/03/13/lake-city-police-warn-community-of-scam-targeting-elderly-women-that-involves-impersonating-church-members/",
+      "date": "2026-03-13",
+      "featured": false
+    },
+    {
+      "id": 64,
+      "headline": "Florida 2026 Legislative Session Ends Without Budget; Rural Renaissance Fails Again, Bradley's Straw Bill Dies",
+      "summary": "The 2026 Florida legislative session ended Friday, March 13, without lawmakers passing a state budget — their only constitutional obligation — forcing a special session expected in mid-April. Senate President Ben Albritton's 'Rural Renaissance' bill, which would have directed funding to rural communities including those in Columbia County, failed to pass the House for a second consecutive year. A bill to restore the Ocklawaha River passed the House but died in the Senate. District 7 Sen. Jennifer Bradley's bill to allow plastic straws in cities that had banned them also died in committee. Among the bills that did pass: a ban on local government DEI programs, the Florida Farm Bill (affecting agriculture policy statewide), a data center utility cost protection measure, and a new domestic terrorist organization designation process. Florida must pass a budget by July 1 or face a partial government shutdown.",
+      "category": "Government",
+      "locality": "fortwhite",
+      "source": "WUSF News / WCJB TV20",
+      "sourceUrl": "https://www.wusf.org/politics-issues/2026-03-13/florida-2026-legislative-session-ends-what-passed-what-failed-whats-next",
+      "date": "2026-03-13",
+      "featured": true
+    },
+    {
+      "id": 63,
+      "headline": "Underground Tunnels Found on Dixie County Property After Shooting; Bomb Squad Clears Scene",
+      "summary": "The Alachua County bomb squad was called to a property on Southeast 455th Avenue in Old Town, Dixie County, on Friday after investigators discovered a network of underground tunnels and bunker-style holes on the property of James Lewis Herring, 61, who was arrested Thursday night after shooting at his neighbor with a long rifle. According to Dixie County Sheriff Darby Butler, the incident began when a neighbor approached Herring about his dogs being on her property — Herring quickly became violent and opened fire. The Columbia County Sheriff's SWAT team assisted deputies and used a drone to locate Herring; no one was hurt. The bomb squad cleared the tunnels Friday and found no explosives, but did locate a rifle and ammunition. Herring remains charged with aggravated assault and possession of a firearm by a convicted felon on a $200,000 bond.",
+      "category": "Public Safety",
+      "locality": "fortwhite",
+      "source": "WCJB TV20",
+      "sourceUrl": "https://www.wcjb.com/2026/03/13/dixie-county-man-arrested-after-shooting-neighbor-bomb-squad-called-property-due-tunnels/",
+      "date": "2026-03-13",
+      "featured": false
+    },
+    {
       "id": 62,
       "headline": "Dixie County Community Plans Benefit Concert Saturday for Family of 6 Killed in House Fire",
       "summary": "The Dixie County community is rallying around the family of Charles 'Jelly Roll' Pinner, his wife Lori, and their four children, who were all killed when their home caught fire on February 17. A fundraiser benefit concert is scheduled for Saturday, March 14, beginning at noon at the American Legion Post 383 in Old Town, Florida — just south of the Fort White area across the county line. Performances will be provided by Stash Acoustical, Rock Bluff Band, and the Ole Skool Band, and an auction will also be held at the event to raise money for the family.",
