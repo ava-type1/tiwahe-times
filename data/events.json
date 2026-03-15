@@ -47,6 +47,22 @@
       "location": "Columbia County",
       "time": "TBD",
       "description": "Code Enforcement Magistrate Hearing. Per the Columbia County meeting calendar."
+    },
+    {
+      "date": "2026-04-16",
+      "displayDate": "Thu, Apr 16",
+      "name": "Columbia County Board of Commissioners — Regular Meeting",
+      "location": "School Board Administrative Complex Auditorium, 372 W Duval St, Lake City",
+      "time": "6:00 PM",
+      "description": "Regular meeting of the Board of County Commissioners. Meets 1st and 3rd Thursday of each month."
+    },
+    {
+      "date": "2026-04-16",
+      "displayDate": "Thu, Apr 16",
+      "name": "Columbia County Economic Development Board Meeting",
+      "location": "Columbia County",
+      "time": "TBD",
+      "description": "Regular meeting of the Columbia County Economic Development Board. Per the Columbia County meeting calendar."
     }
   ]
 }
